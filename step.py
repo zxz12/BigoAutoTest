@@ -9,4 +9,3 @@ x=driver.get_window_rect()
 print(x)
 
 print('test commit')
-print('test marge')
