@@ -44,11 +44,11 @@ class CONSTANT:
     GATE_URL = "http://10.110.1.188/gateway/"
     GATE_URL_YUN = "http://122.112.253.184//gateway/"
 
-    #网关接口
+    # 网关接口
     GATE_BASE_URL_YUN_API = 'http://119.3.32.248:8001'
     GATE_BASE_URL_API = 'http://10.110.1.188:8001'
     GATE_ADD_DATA_COLLECT = '/data/collect/insert'
-    GATE_GET_DATA_CONF_LIST='/data/collect/selectDataCollectListByPage'
-    GATE_GET_LOGIC_DEVICES_LIST='/data/collect/device/selectByCollectIdPage'
-    GATE_GET_DEV_INS_LIST='/collect/device/request/selectByCdUuidPage'
-    GATE_GET_INS_PARA_LIST='/collect/device/requestItem/selectByRequestUuidPage'
+    GATE_GET_DATA_CONF_LIST = '/data/collect/selectDataCollectListByPage'
+    GATE_GET_LOGIC_DEVICES_LIST = '/data/collect/device/selectByCollectIdPage'
+    GATE_GET_DEV_INS_LIST = '/collect/device/request/selectByCdUuidPage'
+    GATE_GET_INS_PARA_LIST = '/collect/device/requestItem/selectByRequestUuidPage'

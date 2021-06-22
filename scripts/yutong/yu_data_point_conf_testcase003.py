@@ -1,16 +1,18 @@
 import unittest
+
+from webtest.aw.CONSTANT import CONSTANT
 from webtest.common.files.excel import *
 from webtest.common.gateway.gateway_fun import gateway_fun
 from webtest.common.gateway.gateway_interface import gateway_interfance
-from webtest.common.iot.iot_interfance import iot_interfance
 from webtest.common.iot.iot_fun import iot_fun
-from webtest.aw.CONSTANT import CONSTANT
+from webtest.common.iot.iot_interfance import iot_interfance
 
 
 class yu_data_point_conf_testcase003(unittest.TestCase):
     """
     执行全部的gateway部分sheet页：gateway 6
     """
+
     def setUp(self):
         pass
 
@@ -26,23 +28,23 @@ class yu_data_point_conf_testcase003(unittest.TestCase):
                        'gateway指令参数配置',
                        'hello']
 
-        # # 测试环境
-        # user = 'xianzhi'
-        # pwd = '123456'
-        # api_base_url = CONSTANT.BASE_URL_API
-        # gate_api_base_url = CONSTANT.GATE_BASE_URL_API
-        # iot_url = CONSTANT.IOT_URL
-        # gate_url = CONSTANT.GATE_URL
-        # xls_dir = '数据采集配置表测试'
+        # 测试环境
+        user = '13011037093'
+        pwd = '123456'
+        api_base_url = CONSTANT.BASE_URL_API
+        gate_api_base_url = CONSTANT.GATE_BASE_URL_API
+        iot_url = CONSTANT.IOT_URL
+        gate_url = CONSTANT.GATE_URL
+        xls_dir = 'testcase003'#要添加的数采文件路径
 
-        # 正式环境
-        user='ytot'
-        pwd='admin123'
-        api_base_url=CONSTANT.BASE_URL_YUN_API
-        gate_api_base_url = CONSTANT.GATE_BASE_URL_YUN_API
-        iot_url = CONSTANT.IOT_URL_YUN
-        gate_url=CONSTANT.GATE_URL_YUN
-        xls_dir='testcase003'
+        # # 正式环境
+        # user = 'ytot'
+        # pwd = 'admin123'
+        # api_base_url = CONSTANT.BASE_URL_YUN_API
+        # gate_api_base_url = CONSTANT.GATE_BASE_URL_YUN_API
+        # iot_url = CONSTANT.IOT_URL_YUN
+        # gate_url = CONSTANT.GATE_URL_YUN
+        # xls_dir = 'testcase003'
 
         files = get_xls_list(file_path=os.path.join(CONSTANT.RES_PATH, xls_dir))  # 或取此文件夹下的所有表格文件
         logging.info("所有的表格文件列表：")
@@ -168,7 +170,7 @@ class yu_data_point_conf_testcase003(unittest.TestCase):
                         # logging.info("共 %s 个指令:指令列表参数如下：" % str(len(ins_confs[key])))
                         # 逻辑设备 : 指令列表
                         # logging.info(ins_confs[key])
-                        print("开始配置设备： %s"%key)
+                        print("开始配置设备： %s" % key)
                         for ins_conf in ins_confs[key]:
                             print("=", end='')
                             print(ins_conf)
@@ -185,7 +187,7 @@ class yu_data_point_conf_testcase003(unittest.TestCase):
                     logging.info("数采： %s配置OK" % data_name)
                     logging.info('恭喜，恭喜！！！！sheet页添加完成： %s ' % sheet)
 
-                elif sheet == sheet_names[6]:
+                elif sheet == sheet_names[7]:
                     # 获取数据采集名称
                     sheet4 = xls.get_lines(sheet_names[4])
                     data_name = sheet4[0][0]
@@ -227,7 +229,7 @@ class yu_data_point_conf_testcase003(unittest.TestCase):
                             # logging.info(ins_name_confs[key])
                             # logging.info("%s数采配置 --> 【%s】逻辑设备 -->【%s】指令配置 : 参数列表"%(data_name,ins_device_name,key))
                             gate_ui.enter_ins_param_list(ins_name=key)
-                            #配置指令参数
+                            # 配置指令参数
                             for ins_data_conf in ins_name_confs[key]:
                                 # logging.info("数采配置step4：【%s】数采配置 -->【%s】逻辑设备 : 指令列表" % (data_name, key, ins_conf[1],ins_data_conf[0]))
                                 logging.info(ins_data_conf)

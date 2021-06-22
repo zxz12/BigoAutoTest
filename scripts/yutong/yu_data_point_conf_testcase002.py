@@ -1,10 +1,11 @@
 import unittest
+
+from webtest.aw.CONSTANT import CONSTANT
 from webtest.common.files.excel import *
 from webtest.common.gateway.gateway_fun import gateway_fun
 from webtest.common.gateway.gateway_interface import gateway_interfance
-from webtest.common.iot.iot_interfance import iot_interfance
 from webtest.common.iot.iot_fun import iot_fun
-from webtest.aw.CONSTANT import CONSTANT
+from webtest.common.iot.iot_interfance import iot_interfance
 
 
 class yu_data_point_conf_testcase001(unittest.TestCase):

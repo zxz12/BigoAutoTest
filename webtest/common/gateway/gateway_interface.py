@@ -1,7 +1,7 @@
 import requests
 
-from webtest.logger import logging
 from webtest.aw.CONSTANT import CONSTANT
+from webtest.logger import logging
 
 
 class gateway_interfance:
@@ -32,7 +32,8 @@ class gateway_interfance:
         :param user:
         :return:系统中已经存在的数据采集名称列表
         """
-        users = {'xianzhi': 119, 'ytot': 9}
+        #role id
+        users = {'xianzhi': 119, 'ytot': 9,"13011037093":'163'}
         roleID = users[user]
         get_data_conf_names = []
         body = {"page": 1, "size": 500, "roleID": roleID}

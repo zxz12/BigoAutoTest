@@ -67,4 +67,4 @@ class gateway_ele(Page):
     parse_value = Element(css='#parse_value', describe='解析失败默认值')
     note = Element(css='#note', describe='参数备注')
     ins_param_sure = Element(css='.\_1DiLHTzyM0CorVPQCmRV-H > .ant-btn-primary', describe='确定')
-    next_page=Element(css='.ant-pagination-next > .ant-pagination-item-link', describe='下一页')
+    next_page = Element(css='.ant-pagination-next > .ant-pagination-item-link', describe='下一页')

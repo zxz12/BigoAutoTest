@@ -1,7 +1,7 @@
 import requests
 
-from webtest.logger import logging
 from webtest.aw.CONSTANT import CONSTANT
+from webtest.logger import logging
 
 
 class iot_interfance:
@@ -103,7 +103,7 @@ class iot_interfance:
         批量添加设备，设备类型若不存在则添加
         :param device_name: 设备名称
         :param model_name: 设备所属类型
-        :param devices_name: 设备名称
+        :param device_name: 设备名称
         :return:
         """
         deviceModelID = self.get_id_by_model_name(model_name)

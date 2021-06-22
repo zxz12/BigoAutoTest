@@ -1,0 +1,371 @@
+2021-06-22 14:22:08,178 [32mINFO 设备类型列表如下：[0m
+2021-06-22 14:22:08,178 [32mINFO 安科瑞PZ(E3/E4)[0m
+2021-06-22 14:22:08,178 [32mINFO 拓斯达T—FFU[0m
+2021-06-22 14:22:08,178 [32mINFO 安科瑞电表96AL[0m
+2021-06-22 14:22:08,178 [32mINFO 共： 3 个[0m
+2021-06-22 14:22:08,336 [32mINFO 共： 0 个[0m
+2021-06-22 14:22:08,399 [33mWARNING {'code': 403, 'msg': '添加失败,已存在相同的数据字典！', 'data': {'id': None, 'configCode': None, 'deviceModelID': 241, 'dataVersion': None, 'dataName': 'A相电压', 'englishName': 'Ua', 'createTime': None, 'dictionaryNote': '', 'updateTime': None, 'updateUserName': None, 'updateUserID': None, 'isDeleted': None, 'dataUnit': 'V ', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-22 14:22:08,445 [33mWARNING {'code': 403, 'msg': '添加失败,已存在相同的数据字典！', 'data': {'id': None, 'configCode': None, 'deviceModelID': 241, 'dataVersion': None, 'dataName': 'B相电压', 'englishName': 'Ub', 'createTime': None, 'dictionaryNote': '', 'updateTime': None, 'updateUserName': None, 'updateUserID': None, 'isDeleted': None, 'dataUnit': 'V ', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-22 14:22:08,492 [33mWARNING {'code': 403, 'msg': '添加失败,已存在相同的数据字典！', 'data': {'id': None, 'configCode': None, 'deviceModelID': 241, 'dataVersion': None, 'dataName': 'C相电压', 'englishName': 'Uc', 'createTime': None, 'dictionaryNote': '', 'updateTime': None, 'updateUserName': None, 'updateUserID': None, 'isDeleted': None, 'dataUnit': 'V ', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-22 14:22:08,539 [33mWARNING {'code': 403, 'msg': '添加失败,已存在相同的数据字典！', 'data': {'id': None, 'configCode': None, 'deviceModelID': 241, 'dataVersion': None, 'dataName': 'AB相电压', 'englishName': 'Uab', 'createTime': None, 'dictionaryNote': '', 'updateTime': None, 'updateUserName': None, 'updateUserID': None, 'isDeleted': None, 'dataUnit': 'V ', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-22 14:22:08,570 [33mWARNING {'code': 403, 'msg': '添加失败,已存在相同的数据字典！', 'data': {'id': None, 'configCode': None, 'deviceModelID': 241, 'dataVersion': None, 'dataName': 'BC相电压', 'englishName': 'Ubc', 'createTime': None, 'dictionaryNote': '', 'updateTime': None, 'updateUserName': None, 'updateUserID': None, 'isDeleted': None, 'dataUnit': 'V ', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-22 14:22:08,617 [33mWARNING {'code': 403, 'msg': '添加失败,已存在相同的数据字典！', 'data': {'id': None, 'configCode': None, 'deviceModelID': 241, 'dataVersion': None, 'dataName': 'CA相电压', 'englishName': 'Uac', 'createTime': None, 'dictionaryNote': '', 'updateTime': None, 'updateUserName': None, 'updateUserID': None, 'isDeleted': None, 'dataUnit': 'V ', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-22 14:22:08,648 [33mWARNING {'code': 403, 'msg': '添加失败,已存在相同的数据字典！', 'data': {'id': None, 'configCode': None, 'deviceModelID': 241, 'dataVersion': None, 'dataName': 'A相电流', 'englishName': 'Ia', 'createTime': None, 'dictionaryNote': '', 'updateTime': None, 'updateUserName': None, 'updateUserID': None, 'isDeleted': None, 'dataUnit': 'A ', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-22 14:22:08,695 [33mWARNING {'code': 403, 'msg': '添加失败,已存在相同的数据字典！', 'data': {'id': None, 'configCode': None, 'deviceModelID': 241, 'dataVersion': None, 'dataName': 'B相电流', 'englishName': 'Ib', 'createTime': None, 'dictionaryNote': '', 'updateTime': None, 'updateUserName': None, 'updateUserID': None, 'isDeleted': None, 'dataUnit': 'A ', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-22 14:22:08,742 [33mWARNING {'code': 403, 'msg': '添加失败,已存在相同的数据字典！', 'data': {'id': None, 'configCode': None, 'deviceModelID': 241, 'dataVersion': None, 'dataName': 'C相电流', 'englishName': 'Ic', 'createTime': None, 'dictionaryNote': '', 'updateTime': None, 'updateUserName': None, 'updateUserID': None, 'isDeleted': None, 'dataUnit': 'A ', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-22 14:22:08,789 [33mWARNING {'code': 403, 'msg': '添加失败,已存在相同的数据字典！', 'data': {'id': None, 'configCode': None, 'deviceModelID': 241, 'dataVersion': None, 'dataName': 'A相有功功率', 'englishName': 'Pa', 'createTime': None, 'dictionaryNote': '', 'updateTime': None, 'updateUserName': None, 'updateUserID': None, 'isDeleted': None, 'dataUnit': 'Kw', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-22 14:22:08,835 [33mWARNING {'code': 403, 'msg': '添加失败,已存在相同的数据字典！', 'data': {'id': None, 'configCode': None, 'deviceModelID': 241, 'dataVersion': None, 'dataName': 'B相有功功率', 'englishName': 'Pb', 'createTime': None, 'dictionaryNote': '', 'updateTime': None, 'updateUserName': None, 'updateUserID': None, 'isDeleted': None, 'dataUnit': 'Kw', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-22 14:22:08,882 [33mWARNING {'code': 403, 'msg': '添加失败,已存在相同的数据字典！', 'data': {'id': None, 'configCode': None, 'deviceModelID': 241, 'dataVersion': None, 'dataName': 'C相有功功率', 'englishName': 'Pc', 'createTime': None, 'dictionaryNote': '', 'updateTime': None, 'updateUserName': None, 'updateUserID': None, 'isDeleted': None, 'dataUnit': 'Kw', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-22 14:22:08,929 [33mWARNING {'code': 403, 'msg': '添加失败,已存在相同的数据字典！', 'data': {'id': None, 'configCode': None, 'deviceModelID': 241, 'dataVersion': None, 'dataName': '总有功功率', 'englishName': 'P', 'createTime': None, 'dictionaryNote': '', 'updateTime': None, 'updateUserName': None, 'updateUserID': None, 'isDeleted': None, 'dataUnit': 'Kw', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-22 14:22:08,960 [33mWARNING {'code': 403, 'msg': '添加失败,已存在相同的数据字典！', 'data': {'id': None, 'configCode': None, 'deviceModelID': 241, 'dataVersion': None, 'dataName': 'A相无功功率', 'englishName': 'Qa', 'createTime': None, 'dictionaryNote': '', 'updateTime': None, 'updateUserName': None, 'updateUserID': None, 'isDeleted': None, 'dataUnit': 'Kvar', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-22 14:22:09,007 [33mWARNING {'code': 403, 'msg': '添加失败,已存在相同的数据字典！', 'data': {'id': None, 'configCode': None, 'deviceModelID': 241, 'dataVersion': None, 'dataName': 'B相无功功率', 'englishName': 'Qb', 'createTime': None, 'dictionaryNote': '', 'updateTime': None, 'updateUserName': None, 'updateUserID': None, 'isDeleted': None, 'dataUnit': 'Kvar', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-22 14:22:09,069 [33mWARNING {'code': 403, 'msg': '添加失败,已存在相同的数据字典！', 'data': {'id': None, 'configCode': None, 'deviceModelID': 241, 'dataVersion': None, 'dataName': 'C相无功功率', 'englishName': 'Qc', 'createTime': None, 'dictionaryNote': '', 'updateTime': None, 'updateUserName': None, 'updateUserID': None, 'isDeleted': None, 'dataUnit': 'Kvar', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-22 14:22:09,116 [33mWARNING {'code': 403, 'msg': '添加失败,已存在相同的数据字典！', 'data': {'id': None, 'configCode': None, 'deviceModelID': 241, 'dataVersion': None, 'dataName': '总无功功率', 'englishName': 'Q', 'createTime': None, 'dictionaryNote': '', 'updateTime': None, 'updateUserName': None, 'updateUserID': None, 'isDeleted': None, 'dataUnit': 'Kvar', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-22 14:22:09,147 [33mWARNING {'code': 403, 'msg': '添加失败,已存在相同的数据字典！', 'data': {'id': None, 'configCode': None, 'deviceModelID': 241, 'dataVersion': None, 'dataName': '总视在功率', 'englishName': 'S', 'createTime': None, 'dictionaryNote': '', 'updateTime': None, 'updateUserName': None, 'updateUserID': None, 'isDeleted': None, 'dataUnit': 'KVA', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-22 14:22:09,194 [33mWARNING {'code': 403, 'msg': '添加失败,已存在相同的数据字典！', 'data': {'id': None, 'configCode': None, 'deviceModelID': 241, 'dataVersion': None, 'dataName': '总功率因素', 'englishName': 'PF', 'createTime': None, 'dictionaryNote': '', 'updateTime': None, 'updateUserName': None, 'updateUserID': None, 'isDeleted': None, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-22 14:22:09,241 [33mWARNING {'code': 403, 'msg': '添加失败,已存在相同的数据字典！', 'data': {'id': None, 'configCode': None, 'deviceModelID': 241, 'dataVersion': None, 'dataName': '正向有功电能', 'englishName': 'Cte', 'createTime': None, 'dictionaryNote': '', 'updateTime': None, 'updateUserName': None, 'updateUserID': None, 'isDeleted': None, 'dataUnit': 'KWh', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-22 14:22:16,214 [32mINFO iot 平台登录成功[0m
+2021-06-22 14:22:24,435 [32mINFO 获取总页数，循环在每页中查找： 安科瑞PZ(E3/E4)数据读取[0m
+2021-06-22 14:22:24,451 [32mINFO 总页数：[0m
+2021-06-22 14:22:24,451 [32mINFO 1[0m
+2021-06-22 14:22:24,451 [32mINFO 开始循环[0m
+2021-06-22 14:22:36,263 [31mERROR 指令 安科瑞PZ(E3/E4)数据读取 配置失败！[0m
+2021-06-22 14:22:37,328 [32mINFO 获取总页数，循环在每页中查找： 安科瑞PZ(E3/E4)数据读取[0m
+2021-06-22 14:22:37,350 [32mINFO 总页数：[0m
+2021-06-22 14:22:37,350 [32mINFO 1[0m
+2021-06-22 14:22:37,350 [32mINFO 开始循环[0m
+2021-06-22 14:22:49,447 [31mERROR 指令 安科瑞PZ(E3/E4)数据读取 配置失败！[0m
+2021-06-22 14:22:50,458 [32mINFO 获取总页数，循环在每页中查找： 安科瑞PZ(E3/E4)数据读取[0m
+2021-06-22 14:22:50,469 [32mINFO 总页数：[0m
+2021-06-22 14:22:50,469 [32mINFO 1[0m
+2021-06-22 14:22:50,469 [32mINFO 开始循环[0m
+2021-06-22 14:23:02,460 [31mERROR 指令 安科瑞PZ(E3/E4)数据读取 配置失败！[0m
+2021-06-22 14:23:03,501 [32mINFO 获取总页数，循环在每页中查找： 安科瑞PZ(E3/E4)数据读取[0m
+2021-06-22 14:23:03,513 [32mINFO 总页数：[0m
+2021-06-22 14:23:03,513 [32mINFO 1[0m
+2021-06-22 14:23:03,513 [32mINFO 开始循环[0m
+2021-06-22 14:23:15,356 [31mERROR 指令 安科瑞PZ(E3/E4)数据读取 配置失败！[0m
+2021-06-22 14:23:16,395 [32mINFO 获取总页数，循环在每页中查找： 安科瑞PZ(E3/E4)数据读取[0m
+2021-06-22 14:23:16,409 [32mINFO 总页数：[0m
+2021-06-22 14:23:16,409 [32mINFO 1[0m
+2021-06-22 14:23:16,409 [32mINFO 开始循环[0m
+2021-06-22 14:23:28,681 [31mERROR 指令 安科瑞PZ(E3/E4)数据读取 配置失败！[0m
+2021-06-22 14:23:29,712 [32mINFO 获取总页数，循环在每页中查找： 安科瑞PZ(E3/E4)数据读取[0m
+2021-06-22 14:23:29,726 [32mINFO 总页数：[0m
+2021-06-22 14:23:29,726 [32mINFO 1[0m
+2021-06-22 14:23:29,726 [32mINFO 开始循环[0m
+2021-06-22 14:23:41,866 [31mERROR 指令 安科瑞PZ(E3/E4)数据读取 配置失败！[0m
+2021-06-22 14:23:42,909 [32mINFO 获取总页数，循环在每页中查找： 安科瑞PZ(E3/E4)数据读取[0m
+2021-06-22 14:23:42,920 [32mINFO 总页数：[0m
+2021-06-22 14:23:42,921 [32mINFO 1[0m
+2021-06-22 14:23:42,921 [32mINFO 开始循环[0m
+2021-06-22 14:23:54,921 [31mERROR 指令 安科瑞PZ(E3/E4)数据读取 配置失败！[0m
+2021-06-22 14:23:55,963 [32mINFO 获取总页数，循环在每页中查找： 安科瑞PZ(E3/E4)数据读取[0m
+2021-06-22 14:23:55,974 [32mINFO 总页数：[0m
+2021-06-22 14:23:55,974 [32mINFO 1[0m
+2021-06-22 14:23:55,974 [32mINFO 开始循环[0m
+2021-06-22 14:24:07,854 [31mERROR 指令 安科瑞PZ(E3/E4)数据读取 配置失败！[0m
+2021-06-22 14:24:08,891 [32mINFO 获取总页数，循环在每页中查找： 安科瑞PZ(E3/E4)数据读取[0m
+2021-06-22 14:24:08,899 [32mINFO 总页数：[0m
+2021-06-22 14:24:08,899 [32mINFO 1[0m
+2021-06-22 14:24:08,899 [32mINFO 开始循环[0m
+2021-06-22 14:24:20,992 [31mERROR 指令 安科瑞PZ(E3/E4)数据读取 配置失败！[0m
+2021-06-22 14:24:22,012 [32mINFO 获取总页数，循环在每页中查找： 安科瑞PZ(E3/E4)数据读取[0m
+2021-06-22 14:24:22,024 [32mINFO 总页数：[0m
+2021-06-22 14:24:22,024 [32mINFO 1[0m
+2021-06-22 14:24:22,024 [32mINFO 开始循环[0m
+2021-06-22 14:24:34,325 [31mERROR 指令 安科瑞PZ(E3/E4)数据读取 配置失败！[0m
+2021-06-22 14:24:35,348 [32mINFO 获取总页数，循环在每页中查找： 安科瑞PZ(E3/E4)数据读取[0m
+2021-06-22 14:24:35,362 [32mINFO 总页数：[0m
+2021-06-22 14:24:35,362 [32mINFO 1[0m
+2021-06-22 14:24:35,362 [32mINFO 开始循环[0m
+2021-06-22 14:24:47,433 [31mERROR 指令 安科瑞PZ(E3/E4)数据读取 配置失败！[0m
+2021-06-22 14:24:48,469 [32mINFO 获取总页数，循环在每页中查找： 安科瑞PZ(E3/E4)数据读取[0m
+2021-06-22 14:24:48,481 [32mINFO 总页数：[0m
+2021-06-22 14:24:48,481 [32mINFO 1[0m
+2021-06-22 14:24:48,481 [32mINFO 开始循环[0m
+2021-06-22 14:25:00,591 [31mERROR 指令 安科瑞PZ(E3/E4)数据读取 配置失败！[0m
+2021-06-22 14:25:01,612 [32mINFO 获取总页数，循环在每页中查找： 安科瑞PZ(E3/E4)数据读取[0m
+2021-06-22 14:25:01,622 [32mINFO 总页数：[0m
+2021-06-22 14:25:01,622 [32mINFO 1[0m
+2021-06-22 14:25:01,622 [32mINFO 开始循环[0m
+2021-06-22 14:25:13,743 [31mERROR 指令 安科瑞PZ(E3/E4)数据读取 配置失败！[0m
+2021-06-22 14:25:14,788 [32mINFO 获取总页数，循环在每页中查找： 安科瑞PZ(E3/E4)数据读取[0m
+2021-06-22 14:25:14,798 [32mINFO 总页数：[0m
+2021-06-22 14:25:14,798 [32mINFO 1[0m
+2021-06-22 14:25:14,798 [32mINFO 开始循环[0m
+2021-06-22 14:25:26,880 [31mERROR 指令 安科瑞PZ(E3/E4)数据读取 配置失败！[0m
+2021-06-22 14:25:27,921 [32mINFO 获取总页数，循环在每页中查找： 安科瑞PZ(E3/E4)数据读取[0m
+2021-06-22 14:25:27,932 [32mINFO 总页数：[0m
+2021-06-22 14:25:27,932 [32mINFO 1[0m
+2021-06-22 14:25:27,932 [32mINFO 开始循环[0m
+2021-06-22 14:25:39,955 [31mERROR 指令 安科瑞PZ(E3/E4)数据读取 配置失败！[0m
+2021-06-22 14:25:40,981 [32mINFO 获取总页数，循环在每页中查找： 安科瑞PZ(E3/E4)数据读取[0m
+2021-06-22 14:25:40,995 [32mINFO 总页数：[0m
+2021-06-22 14:25:40,996 [32mINFO 1[0m
+2021-06-22 14:25:40,996 [32mINFO 开始循环[0m
+2021-06-22 14:25:53,230 [31mERROR 指令 安科瑞PZ(E3/E4)数据读取 配置失败！[0m
+2021-06-22 14:25:54,255 [32mINFO 获取总页数，循环在每页中查找： 安科瑞PZ(E3/E4)数据读取[0m
+2021-06-22 14:25:54,269 [32mINFO 总页数：[0m
+2021-06-22 14:25:54,269 [32mINFO 1[0m
+2021-06-22 14:25:54,269 [32mINFO 开始循环[0m
+2021-06-22 14:26:06,341 [31mERROR 指令 安科瑞PZ(E3/E4)数据读取 配置失败！[0m
+2021-06-22 14:26:07,371 [32mINFO 获取总页数，循环在每页中查找： 安科瑞PZ(E3/E4)数据读取[0m
+2021-06-22 14:26:07,382 [32mINFO 总页数：[0m
+2021-06-22 14:26:07,382 [32mINFO 1[0m
+2021-06-22 14:26:07,382 [32mINFO 开始循环[0m
+2021-06-22 14:26:19,525 [31mERROR 指令 安科瑞PZ(E3/E4)数据读取 配置失败！[0m
+2021-06-22 14:26:20,569 [32mINFO 获取总页数，循环在每页中查找： 安科瑞PZ(E3/E4)数据读取[0m
+2021-06-22 14:26:20,581 [32mINFO 总页数：[0m
+2021-06-22 14:26:20,582 [32mINFO 1[0m
+2021-06-22 14:26:20,582 [32mINFO 开始循环[0m
+2021-06-22 14:26:32,674 [31mERROR 指令 安科瑞PZ(E3/E4)数据读取 配置失败！[0m
+2021-06-22 14:26:33,705 [32mINFO 获取总页数，循环在每页中查找： 安科瑞PZ(E3/E4)数据读取[0m
+2021-06-22 14:26:33,717 [32mINFO 总页数：[0m
+2021-06-22 14:26:33,717 [32mINFO 1[0m
+2021-06-22 14:26:33,717 [32mINFO 开始循环[0m
+2021-06-22 14:26:45,709 [31mERROR 指令 安科瑞PZ(E3/E4)数据读取 配置失败！[0m
+2021-06-22 14:26:45,711 [32mINFO 打开URL: http://10.110.1.188/gateway/[0m
+2021-06-22 14:26:50,436 [32mINFO 网关管理系统登录成功[0m
+2021-06-22 14:26:50,510 [32mINFO 进入数采： 测试网关01数采[0m
+2021-06-22 14:26:56,656 [32mINFO 进入数采OK[0m
+2021-06-22 14:26:56,656 [32mINFO 开始配置设备 1楼电表01 的数采[0m
+2021-06-22 14:27:03,564 [32mINFO 选择接口名称为： [0m
+2021-06-22 14:27:03,631 [32mINFO 协议名称添加OK[0m
+2021-06-22 14:27:04,845 [32mINFO 选择接口名称为：RS485 CH1 [0m
+2021-06-22 14:27:04,845 [32mINFO 硬件接口添加OK[0m
+2021-06-22 14:27:07,046 [32mINFO 关闭添加逻辑设备页面，继续添加下一个[0m
+2021-06-22 14:27:07,136 [32mINFO 逻辑设备 1楼电表01 数采配置成功！[0m
+2021-06-22 14:27:07,136 [32mINFO 开始配置设备 1楼电表02 的数采[0m
+2021-06-22 14:27:13,871 [32mINFO 选择接口名称为： [0m
+2021-06-22 14:27:13,941 [32mINFO 协议名称添加OK[0m
+2021-06-22 14:27:15,165 [32mINFO 选择接口名称为：RS485 CH1 [0m
+2021-06-22 14:27:15,165 [32mINFO 硬件接口添加OK[0m
+2021-06-22 14:27:17,291 [32mINFO 关闭添加逻辑设备页面，继续添加下一个[0m
+2021-06-22 14:27:19,397 [32mINFO 逻辑设备 1楼电表02 数采配置成功！[0m
+2021-06-22 14:27:19,397 [32mINFO 开始配置设备 1楼电表03 的数采[0m
+2021-06-22 14:27:26,205 [32mINFO 选择接口名称为： [0m
+2021-06-22 14:27:26,271 [32mINFO 协议名称添加OK[0m
+2021-06-22 14:27:27,448 [32mINFO 选择接口名称为：RS485 CH1 [0m
+2021-06-22 14:27:27,449 [32mINFO 硬件接口添加OK[0m
+2021-06-22 14:27:29,618 [32mINFO 关闭添加逻辑设备页面，继续添加下一个[0m
+2021-06-22 14:27:31,698 [32mINFO 逻辑设备 1楼电表03 数采配置成功！[0m
+2021-06-22 14:27:31,698 [32mINFO 开始配置设备 1楼电表04 的数采[0m
+2021-06-22 14:27:38,413 [32mINFO 选择接口名称为： [0m
+2021-06-22 14:27:38,477 [32mINFO 协议名称添加OK[0m
+2021-06-22 14:27:39,760 [32mINFO 选择接口名称为：RS485 CH1 [0m
+2021-06-22 14:27:39,761 [32mINFO 硬件接口添加OK[0m
+2021-06-22 14:27:41,891 [32mINFO 关闭添加逻辑设备页面，继续添加下一个[0m
+2021-06-22 14:27:41,988 [32mINFO 逻辑设备 1楼电表04 数采配置成功！[0m
+2021-06-22 14:27:41,988 [32mINFO 开始配置设备 1楼电表05 的数采[0m
+2021-06-22 14:27:48,731 [32mINFO 选择接口名称为： [0m
+2021-06-22 14:27:48,797 [32mINFO 协议名称添加OK[0m
+2021-06-22 14:27:50,043 [32mINFO 选择接口名称为：RS485 CH1 [0m
+2021-06-22 14:27:50,043 [32mINFO 硬件接口添加OK[0m
+2021-06-22 14:27:52,232 [32mINFO 关闭添加逻辑设备页面，继续添加下一个[0m
+2021-06-22 14:27:52,336 [32mINFO 逻辑设备 1楼电表05 数采配置成功！[0m
+2021-06-22 14:27:52,336 [32mINFO 开始配置设备 1楼电表06 的数采[0m
+2021-06-22 14:27:59,173 [32mINFO 选择接口名称为： [0m
+2021-06-22 14:27:59,238 [32mINFO 协议名称添加OK[0m
+2021-06-22 14:28:00,439 [32mINFO 选择接口名称为：RS485 CH1 [0m
+2021-06-22 14:28:00,440 [32mINFO 硬件接口添加OK[0m
+2021-06-22 14:28:02,617 [32mINFO 关闭添加逻辑设备页面，继续添加下一个[0m
+2021-06-22 14:28:02,769 [32mINFO 逻辑设备 1楼电表06 数采配置成功！[0m
+2021-06-22 14:28:02,769 [32mINFO 开始配置设备 1楼电表07 的数采[0m
+2021-06-22 14:28:09,473 [32mINFO 选择接口名称为： [0m
+2021-06-22 14:28:09,537 [32mINFO 协议名称添加OK[0m
+2021-06-22 14:28:10,739 [32mINFO 选择接口名称为：RS485 CH1 [0m
+2021-06-22 14:28:10,739 [32mINFO 硬件接口添加OK[0m
+2021-06-22 14:28:12,913 [32mINFO 关闭添加逻辑设备页面，继续添加下一个[0m
+2021-06-22 14:28:13,092 [32mINFO 逻辑设备 1楼电表07 数采配置成功！[0m
+2021-06-22 14:28:13,092 [32mINFO 开始配置设备 1楼电表08 的数采[0m
+2021-06-22 14:28:19,893 [32mINFO 选择接口名称为： [0m
+2021-06-22 14:28:19,958 [32mINFO 协议名称添加OK[0m
+2021-06-22 14:28:21,104 [32mINFO 选择接口名称为：RS485 CH1 [0m
+2021-06-22 14:28:21,104 [32mINFO 硬件接口添加OK[0m
+2021-06-22 14:28:23,270 [32mINFO 关闭添加逻辑设备页面，继续添加下一个[0m
+2021-06-22 14:28:23,425 [32mINFO 逻辑设备 1楼电表08 数采配置成功！[0m
+2021-06-22 14:28:23,425 [32mINFO 开始配置设备 1楼电表09 的数采[0m
+2021-06-22 14:28:30,199 [32mINFO 选择接口名称为： [0m
+2021-06-22 14:28:30,266 [32mINFO 协议名称添加OK[0m
+2021-06-22 14:28:31,486 [32mINFO 选择接口名称为：RS485 CH1 [0m
+2021-06-22 14:28:31,486 [32mINFO 硬件接口添加OK[0m
+2021-06-22 14:28:33,608 [32mINFO 关闭添加逻辑设备页面，继续添加下一个[0m
+2021-06-22 14:28:35,751 [32mINFO 逻辑设备 1楼电表09 数采配置成功！[0m
+2021-06-22 14:28:35,751 [32mINFO 开始配置设备 1楼电表10 的数采[0m
+2021-06-22 14:28:42,567 [32mINFO 选择接口名称为： [0m
+2021-06-22 14:28:42,646 [32mINFO 协议名称添加OK[0m
+2021-06-22 14:28:43,873 [32mINFO 选择接口名称为：RS485 CH1 [0m
+2021-06-22 14:28:43,873 [32mINFO 硬件接口添加OK[0m
+2021-06-22 14:28:46,030 [32mINFO 关闭添加逻辑设备页面，继续添加下一个[0m
+2021-06-22 14:28:46,145 [32mINFO 逻辑设备 1楼电表10 数采配置成功！[0m
+2021-06-22 14:28:46,146 [32mINFO 开始配置设备 1楼电表11 的数采[0m
+2021-06-22 14:28:52,989 [32mINFO 选择接口名称为： [0m
+2021-06-22 14:28:53,053 [32mINFO 协议名称添加OK[0m
+2021-06-22 14:28:54,299 [32mINFO 选择接口名称为：RS485 CH1 [0m
+2021-06-22 14:28:54,299 [32mINFO 硬件接口添加OK[0m
+2021-06-22 14:28:56,495 [32mINFO 关闭添加逻辑设备页面，继续添加下一个[0m
+2021-06-22 14:28:56,653 [32mINFO 逻辑设备 1楼电表11 数采配置成功！[0m
+2021-06-22 14:28:56,653 [32mINFO 开始配置设备 1楼电表12 的数采[0m
+2021-06-22 14:29:03,439 [32mINFO 选择接口名称为： [0m
+2021-06-22 14:29:03,512 [32mINFO 协议名称添加OK[0m
+2021-06-22 14:29:04,698 [32mINFO 选择接口名称为：RS485 CH1 [0m
+2021-06-22 14:29:04,698 [32mINFO 硬件接口添加OK[0m
+2021-06-22 14:29:06,850 [32mINFO 关闭添加逻辑设备页面，继续添加下一个[0m
+2021-06-22 14:29:07,007 [32mINFO 逻辑设备 1楼电表12 数采配置成功！[0m
+2021-06-22 14:29:07,007 [32mINFO 开始配置设备 1楼电表13 的数采[0m
+2021-06-22 14:29:13,789 [32mINFO 选择接口名称为： [0m
+2021-06-22 14:29:13,852 [32mINFO 协议名称添加OK[0m
+2021-06-22 14:29:15,073 [32mINFO 选择接口名称为：RS485 CH1 [0m
+2021-06-22 14:29:15,073 [32mINFO 硬件接口添加OK[0m
+2021-06-22 14:29:17,254 [32mINFO 关闭添加逻辑设备页面，继续添加下一个[0m
+2021-06-22 14:29:17,410 [32mINFO 逻辑设备 1楼电表13 数采配置成功！[0m
+2021-06-22 14:29:17,410 [32mINFO 开始配置设备 1楼电表14 的数采[0m
+2021-06-22 14:29:24,197 [32mINFO 选择接口名称为： [0m
+2021-06-22 14:29:24,263 [32mINFO 协议名称添加OK[0m
+2021-06-22 14:29:25,506 [32mINFO 选择接口名称为：RS485 CH1 [0m
+2021-06-22 14:29:25,507 [32mINFO 硬件接口添加OK[0m
+2021-06-22 14:29:27,674 [32mINFO 关闭添加逻辑设备页面，继续添加下一个[0m
+2021-06-22 14:29:27,790 [32mINFO 逻辑设备 1楼电表14 数采配置成功！[0m
+2021-06-22 14:29:27,790 [32mINFO 开始配置设备 1楼电表15 的数采[0m
+2021-06-22 14:29:34,519 [32mINFO 选择接口名称为： [0m
+2021-06-22 14:29:34,585 [32mINFO 协议名称添加OK[0m
+2021-06-22 14:29:35,800 [32mINFO 选择接口名称为：RS485 CH1 [0m
+2021-06-22 14:29:35,800 [32mINFO 硬件接口添加OK[0m
+2021-06-22 14:29:37,993 [32mINFO 关闭添加逻辑设备页面，继续添加下一个[0m
+2021-06-22 14:29:38,153 [32mINFO 逻辑设备 1楼电表15 数采配置成功！[0m
+2021-06-22 14:29:38,154 [32mINFO 开始配置设备 1楼电表16 的数采[0m
+2021-06-22 14:29:45,012 [32mINFO 选择接口名称为： [0m
+2021-06-22 14:29:45,080 [32mINFO 协议名称添加OK[0m
+2021-06-22 14:29:46,303 [32mINFO 选择接口名称为：RS485 CH1 [0m
+2021-06-22 14:29:46,303 [32mINFO 硬件接口添加OK[0m
+2021-06-22 14:29:48,460 [32mINFO 关闭添加逻辑设备页面，继续添加下一个[0m
+2021-06-22 14:29:48,617 [32mINFO 逻辑设备 1楼电表16 数采配置成功！[0m
+2021-06-22 14:29:48,617 [32mINFO 开始配置设备 1楼电表17 的数采[0m
+2021-06-22 14:29:55,419 [32mINFO 选择接口名称为： [0m
+2021-06-22 14:29:55,486 [32mINFO 协议名称添加OK[0m
+2021-06-22 14:29:56,691 [32mINFO 选择接口名称为：RS485 CH1 [0m
+2021-06-22 14:29:56,691 [32mINFO 硬件接口添加OK[0m
+2021-06-22 14:29:58,888 [32mINFO 关闭添加逻辑设备页面，继续添加下一个[0m
+2021-06-22 14:30:00,990 [32mINFO 逻辑设备 1楼电表17 数采配置成功！[0m
+2021-06-22 14:30:00,990 [32mINFO 开始配置设备 1楼电表18 的数采[0m
+2021-06-22 14:30:07,850 [32mINFO 选择接口名称为： [0m
+2021-06-22 14:30:07,917 [32mINFO 协议名称添加OK[0m
+2021-06-22 14:30:09,112 [32mINFO 选择接口名称为：RS485 CH1 [0m
+2021-06-22 14:30:09,112 [32mINFO 硬件接口添加OK[0m
+2021-06-22 14:30:11,286 [32mINFO 关闭添加逻辑设备页面，继续添加下一个[0m
+2021-06-22 14:30:11,512 [32mINFO 逻辑设备 1楼电表18 数采配置成功！[0m
+2021-06-22 14:30:11,512 [32mINFO 开始配置设备 1楼电表19 的数采[0m
+2021-06-22 14:30:18,338 [32mINFO 选择接口名称为： [0m
+2021-06-22 14:30:18,406 [32mINFO 协议名称添加OK[0m
+2021-06-22 14:30:19,668 [32mINFO 选择接口名称为：RS485 CH1 [0m
+2021-06-22 14:30:19,668 [32mINFO 硬件接口添加OK[0m
+2021-06-22 14:30:21,854 [32mINFO 关闭添加逻辑设备页面，继续添加下一个[0m
+2021-06-22 14:30:23,991 [32mINFO 逻辑设备 1楼电表19 数采配置成功！[0m
+2021-06-22 14:30:23,991 [32mINFO 开始配置设备 1楼电表20 的数采[0m
+2021-06-22 14:30:30,750 [32mINFO 选择接口名称为： [0m
+2021-06-22 14:30:30,820 [32mINFO 协议名称添加OK[0m
+2021-06-22 14:30:32,063 [32mINFO 选择接口名称为：RS485 CH1 [0m
+2021-06-22 14:30:32,064 [32mINFO 硬件接口添加OK[0m
+2021-06-22 14:30:34,236 [32mINFO 关闭添加逻辑设备页面，继续添加下一个[0m
+2021-06-22 14:30:34,370 [32mINFO 逻辑设备 1楼电表20 数采配置成功！[0m
+2021-06-22 14:30:34,370 [32mINFO 开始配置设备 1楼电表21 的数采[0m
+2021-06-22 14:30:41,214 [32mINFO 选择接口名称为： [0m
+2021-06-22 14:30:41,284 [32mINFO 协议名称添加OK[0m
+2021-06-22 14:30:42,485 [32mINFO 选择接口名称为：RS485 CH1 [0m
+2021-06-22 14:30:42,485 [32mINFO 硬件接口添加OK[0m
+2021-06-22 14:30:44,710 [32mINFO 关闭添加逻辑设备页面，继续添加下一个[0m
+2021-06-22 14:30:44,836 [32mINFO 逻辑设备 1楼电表21 数采配置成功！[0m
+2021-06-22 14:30:44,836 [32mINFO 开始配置设备 1楼电表22 的数采[0m
+2021-06-22 14:30:51,598 [32mINFO 选择接口名称为： [0m
+2021-06-22 14:30:51,664 [32mINFO 协议名称添加OK[0m
+2021-06-22 14:30:52,902 [32mINFO 选择接口名称为：RS485 CH1 [0m
+2021-06-22 14:30:52,902 [32mINFO 硬件接口添加OK[0m
+2021-06-22 14:30:55,087 [32mINFO 关闭添加逻辑设备页面，继续添加下一个[0m
+2021-06-22 14:30:55,243 [32mINFO 逻辑设备 1楼电表22 数采配置成功！[0m
+2021-06-22 14:30:55,246 [32mINFO 打开URL: http://10.110.1.188/gateway/[0m
+2021-06-22 14:31:03,466 [32mINFO 进入数采： 测试网关01数采[0m
+2021-06-22 14:31:11,807 [32mINFO 进入数采OK[0m
+2021-06-22 14:31:11,813 [32mINFO 进入逻辑设备: 1楼电表01 的指令列表[0m
+2021-06-22 14:31:11,817 [32mINFO 获取总页数，循环在每页中查找 1楼电表01 [0m
+2021-06-22 14:31:12,028 [32mINFO 总页数为： 3[0m
+2021-06-22 14:31:12,041 [32mINFO 开始循环[0m
+2021-06-22 14:31:12,134 [32mINFO 第 0 次循环：[0m
+2021-06-22 14:31:12,134 [32mINFO 查找参数名称[0m
+2021-06-22 14:31:12,150 [32mINFO 找到了[0m
+2021-06-22 14:31:12,169 [32mINFO 指令配置[0m
+2021-06-22 14:31:12,265 [32mINFO 点击可见元素[0m
+2021-06-22 14:31:12,269 [32mINFO 进入设备： 1楼电表01 的指令列表OK[0m
+2021-06-22 14:31:12,269 [32mINFO 配置指令：安科瑞PZ(E3/E4)数据读取[0m
+2021-06-22 14:31:12,269 [32mINFO 获取总页数，循环在每页中查找[0m
+2021-06-22 14:31:12,417 [32mINFO 总页数为： 1[0m
+2021-06-22 14:31:12,432 [32mINFO 开始循环[0m
+2021-06-22 14:31:12,530 [32mINFO 详情[0m
+2021-06-22 14:31:35,919 [31mERROR 指令 安科瑞PZ(E3/E4)数据读取 配置失败！[0m
+2021-06-22 14:31:35,919 [32mINFO 返回[0m
+2021-06-22 14:31:37,036 [32mINFO 进入逻辑设备: 1楼电表02 的指令列表[0m
+2021-06-22 14:31:37,039 [32mINFO 获取总页数，循环在每页中查找 1楼电表02 [0m
+2021-06-22 14:31:37,211 [32mINFO 总页数为： 3[0m
+2021-06-22 14:31:37,228 [32mINFO 开始循环[0m
+2021-06-22 14:31:37,299 [32mINFO 第 0 次循环：[0m
+2021-06-22 14:31:37,300 [32mINFO 查找参数名称[0m
+2021-06-22 14:31:37,318 [32mINFO 找到了[0m
+2021-06-22 14:31:37,337 [32mINFO 指令配置[0m
+2021-06-22 14:31:37,425 [32mINFO 点击可见元素[0m
+2021-06-22 14:31:37,428 [32mINFO 进入设备： 1楼电表02 的指令列表OK[0m
+2021-06-22 14:31:37,429 [32mINFO 配置指令：安科瑞PZ(E3/E4)数据读取[0m
+2021-06-22 14:31:37,429 [32mINFO 获取总页数，循环在每页中查找[0m
+2021-06-22 14:31:37,576 [32mINFO 总页数为： 1[0m
+2021-06-22 14:31:37,589 [32mINFO 开始循环[0m
+2021-06-22 14:31:37,684 [32mINFO 详情[0m
+2021-06-22 14:32:00,994 [31mERROR 指令 安科瑞PZ(E3/E4)数据读取 配置失败！[0m
+2021-06-22 14:32:00,994 [32mINFO 返回[0m
+2021-06-22 14:32:02,136 [32mINFO 进入逻辑设备: 1楼电表03 的指令列表[0m
+2021-06-22 14:32:02,150 [32mINFO 获取总页数，循环在每页中查找 1楼电表03 [0m
+2021-06-22 14:32:02,333 [32mINFO 总页数为： 3[0m
+2021-06-22 14:32:02,344 [32mINFO 开始循环[0m
+2021-06-22 14:32:02,421 [32mINFO 第 0 次循环：[0m
+2021-06-22 14:32:02,421 [32mINFO 查找参数名称[0m
+2021-06-22 14:32:02,437 [32mINFO 找到了[0m
+2021-06-22 14:32:02,455 [32mINFO 指令配置[0m
+2021-06-22 14:32:02,540 [32mINFO 点击可见元素[0m
+2021-06-22 14:32:02,543 [32mINFO 进入设备： 1楼电表03 的指令列表OK[0m
+2021-06-22 14:32:02,543 [32mINFO 配置指令：安科瑞PZ(E3/E4)数据读取[0m
+2021-06-22 14:32:02,543 [32mINFO 获取总页数，循环在每页中查找[0m
+2021-06-22 14:32:02,688 [32mINFO 总页数为： 1[0m
+2021-06-22 14:32:02,702 [32mINFO 开始循环[0m
+2021-06-22 14:32:02,803 [32mINFO 详情[0m
+2021-06-22 14:32:26,053 [31mERROR 指令 安科瑞PZ(E3/E4)数据读取 配置失败！[0m
+2021-06-22 14:32:26,054 [32mINFO 返回[0m
+2021-06-22 14:32:27,172 [32mINFO 进入逻辑设备: 1楼电表04 的指令列表[0m
+2021-06-22 14:32:27,175 [32mINFO 获取总页数，循环在每页中查找 1楼电表04 [0m
+2021-06-22 14:32:27,356 [32mINFO 总页数为： 3[0m
+2021-06-22 14:32:27,370 [32mINFO 开始循环[0m
+2021-06-22 14:32:27,442 [32mINFO 第 0 次循环：[0m
+2021-06-22 14:32:27,442 [32mINFO 查找参数名称[0m
+2021-06-22 14:32:27,458 [32mINFO 找到了[0m
+2021-06-22 14:32:27,476 [32mINFO 指令配置[0m
+2021-06-22 14:32:27,556 [32mINFO 点击可见元素[0m
+2021-06-22 14:32:27,559 [32mINFO 进入设备： 1楼电表04 的指令列表OK[0m
+2021-06-22 14:32:27,559 [32mINFO 配置指令：安科瑞PZ(E3/E4)数据读取[0m
+2021-06-22 14:32:27,559 [32mINFO 获取总页数，循环在每页中查找[0m
+2021-06-22 14:32:27,705 [32mINFO 总页数为： 1[0m
+2021-06-22 14:32:27,717 [32mINFO 开始循环[0m
+2021-06-22 14:32:27,800 [32mINFO 详情[0m
+2021-06-22 14:32:51,144 [31mERROR 指令 安科瑞PZ(E3/E4)数据读取 配置失败！[0m
+2021-06-22 14:32:51,144 [32mINFO 返回[0m
+2021-06-22 14:32:52,284 [32mINFO 进入逻辑设备: 1楼电表05 的指令列表[0m
+2021-06-22 14:32:52,287 [32mINFO 获取总页数，循环在每页中查找 1楼电表05 [0m
+2021-06-22 14:32:52,471 [32mINFO 总页数为： 3[0m
+2021-06-22 14:32:52,483 [32mINFO 开始循环[0m
+2021-06-22 14:32:52,566 [32mINFO 第 0 次循环：[0m
+2021-06-22 14:32:52,567 [32mINFO 查找参数名称[0m
+2021-06-22 14:32:52,582 [32mINFO 找到了[0m
+2021-06-22 14:32:52,600 [32mINFO 指令配置[0m
+2021-06-22 14:32:52,707 [32mINFO 点击可见元素[0m
+2021-06-22 14:32:52,710 [32mINFO 进入设备： 1楼电表05 的指令列表OK[0m
+2021-06-22 14:32:52,710 [32mINFO 配置指令：安科瑞PZ(E3/E4)数据读取[0m
+2021-06-22 14:32:52,710 [32mINFO 获取总页数，循环在每页中查找[0m
+2021-06-22 14:32:52,857 [32mINFO 总页数为： 1[0m
+2021-06-22 14:32:52,869 [32mINFO 开始循环[0m
+2021-06-22 14:32:52,964 [32mINFO 详情[0m

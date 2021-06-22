@@ -1,9 +1,9 @@
+from webtest.aw.CONSTANT import CONSTANT
 from webtest.common.files.excel import *
 from webtest.common.gateway.gateway_fun import gateway_fun
 from webtest.common.gateway.gateway_interface import gateway_interfance
-from webtest.common.iot.iot_interfance import iot_interfance
 from webtest.common.iot.iot_fun import iot_fun
-from webtest.aw.CONSTANT import CONSTANT
+from webtest.common.iot.iot_interfance import iot_interfance
 
 logging.info('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~准备数据~~~~~~~~~~~~~~~~~~~~~~~~~~~~')
 # 变量
@@ -23,13 +23,13 @@ sheet_names = ['IOT设备类型与设备名称配置', 'IOT数据字典配置', 
 # xls_dir = '数据采集配置表测试'
 
 # 正式环境
-user='ytot'
-pwd='admin123'
-api_base_url=CONSTANT.BASE_URL_YUN_API
+user = 'ytot'
+pwd = 'admin123'
+api_base_url = CONSTANT.BASE_URL_YUN_API
 gate_api_base_url = CONSTANT.GATE_BASE_URL_YUN_API
 iot_url = CONSTANT.IOT_URL_YUN
-gate_url=CONSTANT.GATE_URL_YUN
-xls_dir='数据采集配置表'
+gate_url = CONSTANT.GATE_URL_YUN
+xls_dir = '数据采集配置表'
 
 files = get_xls_list(file_path=os.path.join(CONSTANT.RES_PATH, xls_dir))  # 或取此文件夹下的所有表格文件
 logging.info("所有的表格文件列表：")

@@ -1,0 +1,1238 @@
+2021-06-21 14:26:37,404 [32mINFO 设备类型列表如下：[0m
+2021-06-21 14:26:37,404 [32mINFO 拓斯达T—FFU[0m
+2021-06-21 14:26:37,404 [32mINFO 安科瑞电表96AL[0m
+2021-06-21 14:26:37,404 [32mINFO 共： 2 个[0m
+2021-06-21 14:26:37,544 [32mINFO 共： 0 个[0m
+2021-06-21 14:26:37,591 [33mWARNING {'code': 403, 'msg': '添加失败,已存在相同的数据字典！', 'data': {'id': None, 'configCode': None, 'deviceModelID': 240, 'dataVersion': None, 'dataName': '工作状态', 'englishName': 'YWorkMode', 'createTime': None, 'dictionaryNote': '', 'updateTime': None, 'updateUserName': None, 'updateUserID': None, 'isDeleted': None, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:37,622 [33mWARNING {'code': 403, 'msg': '添加失败,已存在相同的数据字典！', 'data': {'id': None, 'configCode': None, 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机数量', 'englishName': 'YMumbleFans', 'createTime': None, 'dictionaryNote': '', 'updateTime': None, 'updateUserName': None, 'updateUserID': None, 'isDeleted': None, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:37,700 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1638, 'configCode': '566838649755049984', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '过载电流设定', 'englishName': 'YOverloadCurrentSet', 'createTime': 1624256475680, 'dictionaryNote': '', 'updateTime': 1624256475680, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'A', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:37,747 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1639, 'configCode': '566838650048651264', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '运行模式', 'englishName': 'YRunMode', 'createTime': 1624256475750, 'dictionaryNote': '', 'updateTime': 1624256475750, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:37,778 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1640, 'configCode': '566838650233200640', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '值班风速', 'englishName': 'YDutyWind', 'createTime': 1624256475794, 'dictionaryNote': '', 'updateTime': 1624256475794, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:37,872 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1641, 'configCode': '566838650581327872', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '统一运行风速', 'englishName': 'YWorkWind', 'createTime': 1624256475877, 'dictionaryNote': '', 'updateTime': 1624256475877, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:37,919 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1642, 'configCode': '566838650744905728', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机001设定风速', 'englishName': 'Y001WindSet', 'createTime': 1624256475916, 'dictionaryNote': '', 'updateTime': 1624256475916, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:37,950 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1643, 'configCode': '566838650946232320', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机002设定风速', 'englishName': 'Y002WindSet', 'createTime': 1624256475964, 'dictionaryNote': '', 'updateTime': 1624256475964, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:37,997 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1644, 'configCode': '566838651122393088', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机003设定风速', 'englishName': 'Y003WindSet', 'createTime': 1624256476006, 'dictionaryNote': '', 'updateTime': 1624256476006, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:38,059 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1645, 'configCode': '566838651315331072', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机004设定风速', 'englishName': 'Y004WindSet', 'createTime': 1624256476052, 'dictionaryNote': '', 'updateTime': 1624256476052, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:38,106 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1646, 'configCode': '566838651562795008', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机005设定风速', 'englishName': 'Y005WindSet', 'createTime': 1624256476111, 'dictionaryNote': '', 'updateTime': 1624256476111, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:38,153 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1647, 'configCode': '566838651772510208', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机006设定风速', 'englishName': 'Y006WindSet', 'createTime': 1624256476161, 'dictionaryNote': '', 'updateTime': 1624256476161, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:38,199 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1648, 'configCode': '566838651990614016', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机007设定风速', 'englishName': 'Y007WindSet', 'createTime': 1624256476213, 'dictionaryNote': '', 'updateTime': 1624256476213, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:38,246 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1649, 'configCode': '566838652154191872', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机008设定风速', 'englishName': 'Y008WindSet', 'createTime': 1624256476252, 'dictionaryNote': '', 'updateTime': 1624256476252, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:38,293 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1650, 'configCode': '566838652330352640', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机009设定风速', 'englishName': 'Y009WindSet', 'createTime': 1624256476294, 'dictionaryNote': '', 'updateTime': 1624256476294, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:38,340 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1651, 'configCode': '566838652527484928', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机010设定风速', 'englishName': 'Y010WindSet', 'createTime': 1624256476341, 'dictionaryNote': '', 'updateTime': 1624256476341, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:38,371 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1652, 'configCode': '566838652691062784', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机011设定风速', 'englishName': 'Y011WindSet', 'createTime': 1624256476380, 'dictionaryNote': '', 'updateTime': 1624256476380, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:38,402 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1653, 'configCode': '566838652833669120', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机012设定风速', 'englishName': 'Y012WindSet', 'createTime': 1624256476414, 'dictionaryNote': '', 'updateTime': 1624256476414, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:38,449 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1654, 'configCode': '566838653018218496', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机013设定风速', 'englishName': 'Y013WindSet', 'createTime': 1624256476458, 'dictionaryNote': '', 'updateTime': 1624256476458, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:38,480 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1655, 'configCode': '566838653173407744', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机014设定风速', 'englishName': 'Y014WindSet', 'createTime': 1624256476495, 'dictionaryNote': '', 'updateTime': 1624256476495, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:38,527 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1656, 'configCode': '566838653349568512', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机015设定风速', 'englishName': 'Y015WindSet', 'createTime': 1624256476537, 'dictionaryNote': '', 'updateTime': 1624256476537, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:38,558 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1657, 'configCode': '566838653513146368', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机016设定风速', 'englishName': 'Y016WindSet', 'createTime': 1624256476576, 'dictionaryNote': '', 'updateTime': 1624256476576, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:38,605 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1658, 'configCode': '566838653651558400', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机017设定风速', 'englishName': 'Y017WindSet', 'createTime': 1624256476609, 'dictionaryNote': '', 'updateTime': 1624256476609, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:38,636 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1659, 'configCode': '566838653815136256', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机018设定风速', 'englishName': 'Y018WindSet', 'createTime': 1624256476648, 'dictionaryNote': '', 'updateTime': 1624256476648, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:38,667 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1660, 'configCode': '566838653961936896', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机019设定风速', 'englishName': 'Y019WindSet', 'createTime': 1624256476683, 'dictionaryNote': '', 'updateTime': 1624256476683, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:38,699 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1661, 'configCode': '566838654100348928', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机020设定风速', 'englishName': 'Y020WindSet', 'createTime': 1624256476716, 'dictionaryNote': '', 'updateTime': 1624256476716, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:38,745 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1662, 'configCode': '566838654272315392', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机021设定风速', 'englishName': 'Y021WindSet', 'createTime': 1624256476757, 'dictionaryNote': '', 'updateTime': 1624256476757, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:38,792 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1663, 'configCode': '566838654444281856', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机022设定风速', 'englishName': 'Y022WindSet', 'createTime': 1624256476798, 'dictionaryNote': '', 'updateTime': 1624256476798, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:38,839 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1664, 'configCode': '566838654633025536', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机023设定风速', 'englishName': 'Y023WindSet', 'createTime': 1624256476843, 'dictionaryNote': '', 'updateTime': 1624256476843, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:38,886 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1665, 'configCode': '566838654813380608', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机024设定风速', 'englishName': 'Y024WindSet', 'createTime': 1624256476886, 'dictionaryNote': '', 'updateTime': 1624256476886, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:38,917 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1666, 'configCode': '566838654989541376', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机025设定风速', 'englishName': 'Y025WindSet', 'createTime': 1624256476928, 'dictionaryNote': '', 'updateTime': 1624256476928, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:38,964 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1667, 'configCode': '566838655157313536', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机026设定风速', 'englishName': 'Y026WindSet', 'createTime': 1624256476968, 'dictionaryNote': '', 'updateTime': 1624256476968, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:38,995 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1668, 'configCode': '566838655312502784', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机027设定风速', 'englishName': 'Y027WindSet', 'createTime': 1624256477005, 'dictionaryNote': '', 'updateTime': 1624256477005, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:39,026 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1669, 'configCode': '566838655463497728', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机028设定风速', 'englishName': 'Y028WindSet', 'createTime': 1624256477041, 'dictionaryNote': '', 'updateTime': 1624256477041, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:39,073 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1670, 'configCode': '566838655635464192', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机029设定风速', 'englishName': 'Y029WindSet', 'createTime': 1624256477082, 'dictionaryNote': '', 'updateTime': 1624256477082, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:39,120 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1671, 'configCode': '566838655807430656', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机030设定风速', 'englishName': 'Y030WindSet', 'createTime': 1624256477123, 'dictionaryNote': '', 'updateTime': 1624256477123, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:39,151 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1672, 'configCode': '566838655987785728', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机031设定风速', 'englishName': 'Y031WindSet', 'createTime': 1624256477166, 'dictionaryNote': '', 'updateTime': 1624256477166, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:39,198 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1673, 'configCode': '566838656142974976', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机032设定风速', 'englishName': 'Y032WindSet', 'createTime': 1624256477203, 'dictionaryNote': '', 'updateTime': 1624256477203, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:39,245 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1674, 'configCode': '566838656377856000', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机033设定风速', 'englishName': 'Y033WindSet', 'createTime': 1624256477259, 'dictionaryNote': '', 'updateTime': 1624256477259, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:39,323 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1675, 'configCode': '566838656658874368', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机034设定风速', 'englishName': 'Y034WindSet', 'createTime': 1624256477326, 'dictionaryNote': '', 'updateTime': 1624256477326, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:39,385 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1676, 'configCode': '566838656864395264', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机035设定风速', 'englishName': 'Y035WindSet', 'createTime': 1624256477375, 'dictionaryNote': '', 'updateTime': 1624256477375, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:39,432 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1677, 'configCode': '566838657141219328', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机036设定风速', 'englishName': 'Y036WindSet', 'createTime': 1624256477441, 'dictionaryNote': '', 'updateTime': 1624256477441, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:39,479 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1678, 'configCode': '566838657292214272', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机037设定风速', 'englishName': 'Y037WindSet', 'createTime': 1624256477477, 'dictionaryNote': '', 'updateTime': 1624256477477, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:39,525 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1679, 'configCode': '566838657539678208', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机038设定风速', 'englishName': 'Y038WindSet', 'createTime': 1624256477536, 'dictionaryNote': '', 'updateTime': 1624256477536, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:39,572 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1680, 'configCode': '566838657728421888', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机039设定风速', 'englishName': 'Y039WindSet', 'createTime': 1624256477581, 'dictionaryNote': '', 'updateTime': 1624256477581, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:39,619 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1681, 'configCode': '566838657938137088', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机040设定风速', 'englishName': 'Y040WindSet', 'createTime': 1624256477631, 'dictionaryNote': '', 'updateTime': 1624256477631, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:39,681 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1682, 'configCode': '566838658156240896', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机041设定风速', 'englishName': 'Y041WindSet', 'createTime': 1624256477683, 'dictionaryNote': '', 'updateTime': 1624256477683, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:39,728 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1683, 'configCode': '566838658349178880', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机042设定风速', 'englishName': 'Y042WindSet', 'createTime': 1624256477729, 'dictionaryNote': '', 'updateTime': 1624256477729, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:39,759 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1684, 'configCode': '566838658525339648', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机043设定风速', 'englishName': 'Y043WindSet', 'createTime': 1624256477771, 'dictionaryNote': '', 'updateTime': 1624256477771, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:39,806 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1685, 'configCode': '566838658705694720', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机044设定风速', 'englishName': 'Y044WindSet', 'createTime': 1624256477814, 'dictionaryNote': '', 'updateTime': 1624256477814, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:39,838 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1686, 'configCode': '566838658894438400', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机045设定风速', 'englishName': 'Y045WindSet', 'createTime': 1624256477859, 'dictionaryNote': '', 'updateTime': 1624256477859, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:39,908 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1687, 'configCode': '566838659112542208', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机046设定风速', 'englishName': 'Y046WindSet', 'createTime': 1624256477911, 'dictionaryNote': '', 'updateTime': 1624256477911, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:39,955 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1688, 'configCode': '566838659305480192', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机047设定风速', 'englishName': 'Y047WindSet', 'createTime': 1624256477957, 'dictionaryNote': '', 'updateTime': 1624256477957, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:40,002 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1689, 'configCode': '566838659536166912', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机048设定风速', 'englishName': 'Y048WindSet', 'createTime': 1624256478012, 'dictionaryNote': '', 'updateTime': 1624256478012, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:40,049 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1690, 'configCode': '566838659729104896', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机049设定风速', 'englishName': 'Y049WindSet', 'createTime': 1624256478058, 'dictionaryNote': '', 'updateTime': 1624256478058, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:40,095 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1691, 'configCode': '566838659926237184', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机050设定风速', 'englishName': 'Y050WindSet', 'createTime': 1624256478105, 'dictionaryNote': '', 'updateTime': 1624256478105, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:40,142 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1692, 'configCode': '566838660127563776', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机051设定风速', 'englishName': 'Y051WindSet', 'createTime': 1624256478153, 'dictionaryNote': '', 'updateTime': 1624256478153, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:40,205 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1693, 'configCode': '566838660358250496', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机052设定风速', 'englishName': 'Y052WindSet', 'createTime': 1624256478208, 'dictionaryNote': '', 'updateTime': 1624256478208, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:40,267 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1694, 'configCode': '566838660597325824', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机053设定风速', 'englishName': 'Y053WindSet', 'createTime': 1624256478265, 'dictionaryNote': '', 'updateTime': 1624256478265, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:40,314 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1695, 'configCode': '566838660853178368', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机054设定风速', 'englishName': 'Y054WindSet', 'createTime': 1624256478326, 'dictionaryNote': '', 'updateTime': 1624256478326, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:40,376 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1696, 'configCode': '566838661117419520', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机055设定风速', 'englishName': 'Y055WindSet', 'createTime': 1624256478389, 'dictionaryNote': '', 'updateTime': 1624256478389, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:40,423 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1697, 'configCode': '566838661306163200', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机056设定风速', 'englishName': 'Y056WindSet', 'createTime': 1624256478434, 'dictionaryNote': '', 'updateTime': 1624256478434, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:40,470 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1698, 'configCode': '566838661503295488', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机057设定风速', 'englishName': 'Y057WindSet', 'createTime': 1624256478481, 'dictionaryNote': '', 'updateTime': 1624256478481, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:40,532 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1699, 'configCode': '566838661733982208', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机058设定风速', 'englishName': 'Y058WindSet', 'createTime': 1624256478536, 'dictionaryNote': '', 'updateTime': 1624256478536, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:40,564 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1700, 'configCode': '566838661910142976', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机059设定风速', 'englishName': 'Y059WindSet', 'createTime': 1624256478578, 'dictionaryNote': '', 'updateTime': 1624256478578, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:40,595 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1701, 'configCode': '566838662048555008', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机060设定风速', 'englishName': 'Y060WindSet', 'createTime': 1624256478611, 'dictionaryNote': '', 'updateTime': 1624256478611, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:40,642 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1702, 'configCode': '566838662203744256', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机001实际风速', 'englishName': 'Y001WindReal', 'createTime': 1624256478648, 'dictionaryNote': '', 'updateTime': 1624256478648, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:40,688 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1703, 'configCode': '566838662409265152', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机002实际风速', 'englishName': 'Y002WindReal', 'createTime': 1624256478697, 'dictionaryNote': '', 'updateTime': 1624256478697, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:40,735 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1704, 'configCode': '566838662581231616', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机003实际风速', 'englishName': 'Y003WindReal', 'createTime': 1624256478738, 'dictionaryNote': '', 'updateTime': 1624256478738, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:40,766 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1705, 'configCode': '566838662753198080', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机004实际风速', 'englishName': 'Y004WindReal', 'createTime': 1624256478779, 'dictionaryNote': '', 'updateTime': 1624256478779, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:40,813 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1706, 'configCode': '566838662920970240', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机005实际风速', 'englishName': 'Y005WindReal', 'createTime': 1624256478819, 'dictionaryNote': '', 'updateTime': 1624256478819, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:40,860 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1707, 'configCode': '566838663105519616', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机006实际风速', 'englishName': 'Y006WindReal', 'createTime': 1624256478863, 'dictionaryNote': '', 'updateTime': 1624256478863, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:40,891 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1708, 'configCode': '566838663277486080', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机007实际风速', 'englishName': 'Y007WindReal', 'createTime': 1624256478904, 'dictionaryNote': '', 'updateTime': 1624256478904, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:40,922 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1709, 'configCode': '566838663432675328', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机008实际风速', 'englishName': 'Y008WindReal', 'createTime': 1624256478941, 'dictionaryNote': '', 'updateTime': 1624256478941, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:40,969 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1710, 'configCode': '566838663604641792', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机009实际风速', 'englishName': 'Y009WindReal', 'createTime': 1624256478982, 'dictionaryNote': '', 'updateTime': 1624256478982, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:41,016 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1711, 'configCode': '566838663793385472', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机010实际风速', 'englishName': 'Y010WindReal', 'createTime': 1624256479027, 'dictionaryNote': '', 'updateTime': 1624256479027, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:41,048 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1712, 'configCode': '566838663965351936', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机011实际风速', 'englishName': 'Y011WindReal', 'createTime': 1624256479068, 'dictionaryNote': '', 'updateTime': 1624256479068, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:41,093 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1713, 'configCode': '566838664124735488', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机012实际风速', 'englishName': 'Y012WindReal', 'createTime': 1624256479106, 'dictionaryNote': '', 'updateTime': 1624256479106, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:41,140 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1714, 'configCode': '566838664292507648', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机013实际风速', 'englishName': 'Y013WindReal', 'createTime': 1624256479146, 'dictionaryNote': '', 'updateTime': 1624256479146, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:41,171 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1715, 'configCode': '566838664435113984', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机014实际风速', 'englishName': 'Y014WindReal', 'createTime': 1624256479180, 'dictionaryNote': '', 'updateTime': 1624256479180, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:41,203 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1716, 'configCode': '566838664569331712', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机015实际风速', 'englishName': 'Y015WindReal', 'createTime': 1624256479212, 'dictionaryNote': '', 'updateTime': 1624256479212, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:41,234 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1717, 'configCode': '566838664703549440', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机016实际风速', 'englishName': 'Y016WindReal', 'createTime': 1624256479244, 'dictionaryNote': '', 'updateTime': 1624256479244, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:41,265 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1718, 'configCode': '566838664837767168', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机017实际风速', 'englishName': 'Y017WindReal', 'createTime': 1624256479276, 'dictionaryNote': '', 'updateTime': 1624256479276, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:41,296 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1719, 'configCode': '566838664984567808', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机018实际风速', 'englishName': 'Y018WindReal', 'createTime': 1624256479311, 'dictionaryNote': '', 'updateTime': 1624256479311, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:41,343 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1720, 'configCode': '566838665143951360', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机019实际风速', 'englishName': 'Y019WindReal', 'createTime': 1624256479349, 'dictionaryNote': '', 'updateTime': 1624256479349, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:41,374 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1721, 'configCode': '566838665311723520', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机020实际风速', 'englishName': 'Y020WindReal', 'createTime': 1624256479389, 'dictionaryNote': '', 'updateTime': 1624256479389, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:41,421 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1722, 'configCode': '566838665462718464', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机021实际风速', 'englishName': 'Y021WindReal', 'createTime': 1624256479425, 'dictionaryNote': '', 'updateTime': 1624256479425, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:41,468 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1723, 'configCode': '566838665672433664', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机022实际风速', 'englishName': 'Y022WindReal', 'createTime': 1624256479475, 'dictionaryNote': '', 'updateTime': 1624256479475, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:41,515 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1724, 'configCode': '566838665836011520', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机023实际风速', 'englishName': 'Y023WindReal', 'createTime': 1624256479514, 'dictionaryNote': '', 'updateTime': 1624256479514, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:41,546 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1725, 'configCode': '566838666003783680', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机024实际风速', 'englishName': 'Y024WindReal', 'createTime': 1624256479554, 'dictionaryNote': '', 'updateTime': 1624256479554, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:41,577 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1726, 'configCode': '566838666150584320', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机025实际风速', 'englishName': 'Y025WindReal', 'createTime': 1624256479589, 'dictionaryNote': '', 'updateTime': 1624256479589, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:41,608 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1727, 'configCode': '566838666297384960', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机026实际风速', 'englishName': 'Y026WindReal', 'createTime': 1624256479624, 'dictionaryNote': '', 'updateTime': 1624256479624, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:41,655 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1728, 'configCode': '566838666456768512', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机027实际风速', 'englishName': 'Y027WindReal', 'createTime': 1624256479662, 'dictionaryNote': '', 'updateTime': 1624256479662, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:41,686 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1729, 'configCode': '566838666590986240', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机028实际风速', 'englishName': 'Y028WindReal', 'createTime': 1624256479694, 'dictionaryNote': '', 'updateTime': 1624256479694, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:41,717 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1730, 'configCode': '566838666733592576', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机029实际风速', 'englishName': 'Y029WindReal', 'createTime': 1624256479728, 'dictionaryNote': '', 'updateTime': 1624256479728, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:41,749 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1731, 'configCode': '566838666867810304', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机030实际风速', 'englishName': 'Y030WindReal', 'createTime': 1624256479760, 'dictionaryNote': '', 'updateTime': 1624256479760, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:41,780 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1732, 'configCode': '566838666993639424', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机031实际风速', 'englishName': 'Y031WindReal', 'createTime': 1624256479790, 'dictionaryNote': '', 'updateTime': 1624256479790, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:41,811 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1733, 'configCode': '566838667123662848', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机032实际风速', 'englishName': 'Y032WindReal', 'createTime': 1624256479821, 'dictionaryNote': '', 'updateTime': 1624256479821, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:41,842 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1734, 'configCode': '566838667257880576', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机033实际风速', 'englishName': 'Y033WindReal', 'createTime': 1624256479853, 'dictionaryNote': '', 'updateTime': 1624256479853, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:41,889 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1735, 'configCode': '566838667446624256', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机034实际风速', 'englishName': 'Y034WindReal', 'createTime': 1624256479898, 'dictionaryNote': '', 'updateTime': 1624256479898, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:41,920 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1736, 'configCode': '566838667606007808', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机035实际风速', 'englishName': 'Y035WindReal', 'createTime': 1624256479936, 'dictionaryNote': '', 'updateTime': 1624256479936, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:41,942 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1737, 'configCode': '566838667765391360', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机036实际风速', 'englishName': 'Y036WindReal', 'createTime': 1624256479974, 'dictionaryNote': '', 'updateTime': 1624256479974, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:41,992 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1738, 'configCode': '566838667907997696', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机037实际风速', 'englishName': 'Y037WindReal', 'createTime': 1624256480008, 'dictionaryNote': '', 'updateTime': 1624256480008, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:42,038 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1739, 'configCode': '566838668054798336', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机038实际风速', 'englishName': 'Y038WindReal', 'createTime': 1624256480043, 'dictionaryNote': '', 'updateTime': 1624256480043, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:42,055 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1740, 'configCode': '566838668193210368', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机039实际风速', 'englishName': 'Y039WindReal', 'createTime': 1624256480075, 'dictionaryNote': '', 'updateTime': 1624256480075, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:42,102 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1741, 'configCode': '566838668327428096', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机040实际风速', 'englishName': 'Y040WindReal', 'createTime': 1624256480108, 'dictionaryNote': '', 'updateTime': 1624256480108, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:42,133 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1742, 'configCode': '566838668457451520', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机041实际风速', 'englishName': 'Y041WindReal', 'createTime': 1624256480139, 'dictionaryNote': '', 'updateTime': 1624256480139, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:42,164 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1743, 'configCode': '566838668583280640', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机042实际风速', 'englishName': 'Y042WindReal', 'createTime': 1624256480169, 'dictionaryNote': '', 'updateTime': 1624256480169, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:42,195 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1744, 'configCode': '566838668717498368', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机043实际风速', 'englishName': 'Y043WindReal', 'createTime': 1624256480201, 'dictionaryNote': '', 'updateTime': 1624256480201, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:42,227 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1745, 'configCode': '566838668855910400', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机044实际风速', 'englishName': 'Y044WindReal', 'createTime': 1624256480234, 'dictionaryNote': '', 'updateTime': 1624256480234, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:42,258 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1746, 'configCode': '566838668981739520', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机045实际风速', 'englishName': 'Y045WindReal', 'createTime': 1624256480264, 'dictionaryNote': '', 'updateTime': 1624256480264, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:42,289 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1747, 'configCode': '566838669124345856', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机046实际风速', 'englishName': 'Y046WindReal', 'createTime': 1624256480298, 'dictionaryNote': '', 'updateTime': 1624256480298, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:42,320 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1748, 'configCode': '566838669262757888', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机047实际风速', 'englishName': 'Y047WindReal', 'createTime': 1624256480331, 'dictionaryNote': '', 'updateTime': 1624256480331, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:42,351 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1749, 'configCode': '566838669405364224', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机048实际风速', 'englishName': 'Y048WindReal', 'createTime': 1624256480365, 'dictionaryNote': '', 'updateTime': 1624256480365, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:42,384 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1750, 'configCode': '566838669564747776', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机049实际风速', 'englishName': 'Y049WindReal', 'createTime': 1624256480403, 'dictionaryNote': '', 'updateTime': 1624256480403, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:42,430 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1751, 'configCode': '566838669736714240', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机050实际风速', 'englishName': 'Y050WindReal', 'createTime': 1624256480444, 'dictionaryNote': '', 'updateTime': 1624256480444, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:42,477 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1752, 'configCode': '566838669917069312', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机051实际风速', 'englishName': 'Y051WindReal', 'createTime': 1624256480487, 'dictionaryNote': '', 'updateTime': 1624256480487, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:42,524 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1753, 'configCode': '566838670105812992', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机052实际风速', 'englishName': 'Y052WindReal', 'createTime': 1624256480532, 'dictionaryNote': '', 'updateTime': 1624256480532, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:42,571 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1754, 'configCode': '566838670311333888', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机053实际风速', 'englishName': 'Y053WindReal', 'createTime': 1624256480581, 'dictionaryNote': '', 'updateTime': 1624256480581, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:42,618 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1755, 'configCode': '566838670487494656', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机054实际风速', 'englishName': 'Y054WindReal', 'createTime': 1624256480623, 'dictionaryNote': '', 'updateTime': 1624256480623, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:42,664 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1756, 'configCode': '566838670709792768', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机055实际风速', 'englishName': 'Y055WindReal', 'createTime': 1624256480676, 'dictionaryNote': '', 'updateTime': 1624256480676, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:42,711 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1757, 'configCode': '566838670877564928', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机056实际风速', 'englishName': 'Y056WindReal', 'createTime': 1624256480716, 'dictionaryNote': '', 'updateTime': 1624256480716, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:42,742 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1758, 'configCode': '566838671028559872', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机057实际风速', 'englishName': 'Y057WindReal', 'createTime': 1624256480752, 'dictionaryNote': '', 'updateTime': 1624256480752, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:42,774 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1759, 'configCode': '566838671183749120', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机058实际风速', 'englishName': 'Y058WindReal', 'createTime': 1624256480789, 'dictionaryNote': '', 'updateTime': 1624256480789, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:42,836 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1760, 'configCode': '566838671351521280', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机059实际风速', 'englishName': 'Y059WindReal', 'createTime': 1624256480829, 'dictionaryNote': '', 'updateTime': 1624256480829, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:42,867 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1761, 'configCode': '566838671569625088', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机060实际风速', 'englishName': 'Y060WindReal', 'createTime': 1624256480881, 'dictionaryNote': '', 'updateTime': 1624256480881, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': 'r/min', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:42,914 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1762, 'configCode': '566838671741591552', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机001通讯状态', 'englishName': 'Y001ComSate', 'createTime': 1624256480922, 'dictionaryNote': '', 'updateTime': 1624256480922, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:42,961 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1763, 'configCode': '566838671930335232', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机002通讯状态', 'englishName': 'Y002ComSate', 'createTime': 1624256480967, 'dictionaryNote': '', 'updateTime': 1624256480967, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:42,992 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1764, 'configCode': '566838672098107392', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机003通讯状态', 'englishName': 'Y003ComSate', 'createTime': 1624256481007, 'dictionaryNote': '', 'updateTime': 1624256481007, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:43,023 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1765, 'configCode': '566838672240713728', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机004通讯状态', 'englishName': 'Y004ComSate', 'createTime': 1624256481041, 'dictionaryNote': '', 'updateTime': 1624256481041, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:43,070 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1766, 'configCode': '566838672395902976', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机005通讯状态', 'englishName': 'Y005ComSate', 'createTime': 1624256481078, 'dictionaryNote': '', 'updateTime': 1624256481078, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:43,101 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1767, 'configCode': '566838672530120704', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机006通讯状态', 'englishName': 'Y006ComSate', 'createTime': 1624256481110, 'dictionaryNote': '', 'updateTime': 1624256481110, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:43,132 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1768, 'configCode': '566838672681115648', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机007通讯状态', 'englishName': 'Y007ComSate', 'createTime': 1624256481146, 'dictionaryNote': '', 'updateTime': 1624256481146, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:43,179 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1769, 'configCode': '566838672853082112', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机008通讯状态', 'englishName': 'Y008ComSate', 'createTime': 1624256481187, 'dictionaryNote': '', 'updateTime': 1624256481187, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:43,210 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1770, 'configCode': '566838673008271360', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机009通讯状态', 'englishName': 'Y009ComSate', 'createTime': 1624256481224, 'dictionaryNote': '', 'updateTime': 1624256481224, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:43,257 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1771, 'configCode': '566838673180237824', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机010通讯状态', 'englishName': 'Y010ComSate', 'createTime': 1624256481265, 'dictionaryNote': '', 'updateTime': 1624256481265, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:43,320 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1772, 'configCode': '566838673398341632', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机011通讯状态', 'englishName': 'Y011ComSate', 'createTime': 1624256481317, 'dictionaryNote': '', 'updateTime': 1624256481317, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:43,351 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1773, 'configCode': '566838673603862528', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机012通讯状态', 'englishName': 'Y012ComSate', 'createTime': 1624256481366, 'dictionaryNote': '', 'updateTime': 1624256481366, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:43,398 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1774, 'configCode': '566838673805189120', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机013通讯状态', 'englishName': 'Y013ComSate', 'createTime': 1624256481414, 'dictionaryNote': '', 'updateTime': 1624256481414, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:43,445 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1775, 'configCode': '566838673956184064', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机014通讯状态', 'englishName': 'Y014ComSate', 'createTime': 1624256481450, 'dictionaryNote': '', 'updateTime': 1624256481450, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:43,476 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1776, 'configCode': '566838674111373312', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机015通讯状态', 'englishName': 'Y015ComSate', 'createTime': 1624256481487, 'dictionaryNote': '', 'updateTime': 1624256481487, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:43,523 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1777, 'configCode': '566838674274951168', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机016通讯状态', 'englishName': 'Y016ComSate', 'createTime': 1624256481526, 'dictionaryNote': '', 'updateTime': 1624256481526, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:43,554 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1778, 'configCode': '566838674430140416', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机017通讯状态', 'englishName': 'Y017ComSate', 'createTime': 1624256481563, 'dictionaryNote': '', 'updateTime': 1624256481563, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:43,585 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1779, 'configCode': '566838674581135360', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机018通讯状态', 'englishName': 'Y018ComSate', 'createTime': 1624256481599, 'dictionaryNote': '', 'updateTime': 1624256481599, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:43,632 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1780, 'configCode': '566838674757296128', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机019通讯状态', 'englishName': 'Y019ComSate', 'createTime': 1624256481641, 'dictionaryNote': '', 'updateTime': 1624256481641, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:43,663 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1781, 'configCode': '566838674908291072', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机020通讯状态', 'englishName': 'Y020ComSate', 'createTime': 1624256481677, 'dictionaryNote': '', 'updateTime': 1624256481677, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:43,710 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1782, 'configCode': '566838675059286016', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机021通讯状态', 'englishName': 'Y021ComSate', 'createTime': 1624256481713, 'dictionaryNote': '', 'updateTime': 1624256481713, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:43,741 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1783, 'configCode': '566838675210280960', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机022通讯状态', 'englishName': 'Y022ComSate', 'createTime': 1624256481748, 'dictionaryNote': '', 'updateTime': 1624256481749, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:43,772 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1784, 'configCode': '566838675352887296', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机023通讯状态', 'englishName': 'Y023ComSate', 'createTime': 1624256481783, 'dictionaryNote': '', 'updateTime': 1624256481783, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:43,803 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1785, 'configCode': '566838675499687936', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机024通讯状态', 'englishName': 'Y024ComSate', 'createTime': 1624256481818, 'dictionaryNote': '', 'updateTime': 1624256481818, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:43,850 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1786, 'configCode': '566838675654877184', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机025通讯状态', 'englishName': 'Y025ComSate', 'createTime': 1624256481855, 'dictionaryNote': '', 'updateTime': 1624256481855, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:43,881 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1787, 'configCode': '566838675801677824', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机026通讯状态', 'englishName': 'Y026ComSate', 'createTime': 1624256481890, 'dictionaryNote': '', 'updateTime': 1624256481890, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:43,899 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1788, 'configCode': '566838675956867072', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机027通讯状态', 'englishName': 'Y027ComSate', 'createTime': 1624256481927, 'dictionaryNote': '', 'updateTime': 1624256481927, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:43,946 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1789, 'configCode': '566838676107862016', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机028通讯状态', 'englishName': 'Y028ComSate', 'createTime': 1624256481963, 'dictionaryNote': '', 'updateTime': 1624256481963, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:43,993 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1790, 'configCode': '566838676254662656', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机029通讯状态', 'englishName': 'Y029ComSate', 'createTime': 1624256481998, 'dictionaryNote': '', 'updateTime': 1624256481998, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:44,024 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1791, 'configCode': '566838676397268992', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机030通讯状态', 'englishName': 'Y030ComSate', 'createTime': 1624256482032, 'dictionaryNote': '', 'updateTime': 1624256482032, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:44,055 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1792, 'configCode': '566838676548263936', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机031通讯状态', 'englishName': 'Y031ComSate', 'createTime': 1624256482068, 'dictionaryNote': '', 'updateTime': 1624256482068, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:44,087 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1793, 'configCode': '566838676695064576', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机032通讯状态', 'englishName': 'Y032ComSate', 'createTime': 1624256482103, 'dictionaryNote': '', 'updateTime': 1624256482103, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:44,118 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1794, 'configCode': '566838676833476608', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机033通讯状态', 'englishName': 'Y033ComSate', 'createTime': 1624256482136, 'dictionaryNote': '', 'updateTime': 1624256482136, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:44,165 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1795, 'configCode': '566838676976082944', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机034通讯状态', 'englishName': 'Y034ComSate', 'createTime': 1624256482170, 'dictionaryNote': '', 'updateTime': 1624256482170, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:44,196 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1796, 'configCode': '566838677122883584', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机035通讯状态', 'englishName': 'Y035ComSate', 'createTime': 1624256482205, 'dictionaryNote': '', 'updateTime': 1624256482205, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:44,227 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1797, 'configCode': '566838677269684224', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机036通讯状态', 'englishName': 'Y036ComSate', 'createTime': 1624256482240, 'dictionaryNote': '', 'updateTime': 1624256482240, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:44,289 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1798, 'configCode': '566838677450039296', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机037通讯状态', 'englishName': 'Y037ComSate', 'createTime': 1624256482283, 'dictionaryNote': '', 'updateTime': 1624256482283, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:44,336 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1799, 'configCode': '566838677701697536', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机038通讯状态', 'englishName': 'Y038ComSate', 'createTime': 1624256482343, 'dictionaryNote': '', 'updateTime': 1624256482343, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:44,383 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1800, 'configCode': '566838677903024128', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机039通讯状态', 'englishName': 'Y039ComSate', 'createTime': 1624256482390, 'dictionaryNote': '', 'updateTime': 1624256482390, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:44,414 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1801, 'configCode': '566838678041436160', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机040通讯状态', 'englishName': 'Y040ComSate', 'createTime': 1624256482424, 'dictionaryNote': '', 'updateTime': 1624256482424, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:44,445 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1802, 'configCode': '566838678192431104', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机041通讯状态', 'englishName': 'Y041ComSate', 'createTime': 1624256482460, 'dictionaryNote': '', 'updateTime': 1624256482460, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:44,492 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1803, 'configCode': '566838678356008960', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机042通讯状态', 'englishName': 'Y042ComSate', 'createTime': 1624256482499, 'dictionaryNote': '', 'updateTime': 1624256482499, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:44,523 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1804, 'configCode': '566838678519586816', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机043通讯状态', 'englishName': 'Y043ComSate', 'createTime': 1624256482538, 'dictionaryNote': '', 'updateTime': 1624256482538, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:44,570 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1805, 'configCode': '566838678674776064', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机044通讯状态', 'englishName': 'Y044ComSate', 'createTime': 1624256482575, 'dictionaryNote': '', 'updateTime': 1624256482575, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:44,587 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1806, 'configCode': '566838678817382400', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机045通讯状态', 'englishName': 'Y045ComSate', 'createTime': 1624256482609, 'dictionaryNote': '', 'updateTime': 1624256482609, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:44,639 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1807, 'configCode': '566838678955794432', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机046通讯状态', 'englishName': 'Y046ComSate', 'createTime': 1624256482642, 'dictionaryNote': '', 'updateTime': 1624256482642, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:44,654 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1808, 'configCode': '566838679085817856', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机047通讯状态', 'englishName': 'Y047ComSate', 'createTime': 1624256482673, 'dictionaryNote': '', 'updateTime': 1624256482673, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:44,686 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1809, 'configCode': '566838679232618496', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机048通讯状态', 'englishName': 'Y048ComSate', 'createTime': 1624256482708, 'dictionaryNote': '', 'updateTime': 1624256482708, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:44,723 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1810, 'configCode': '566838679362641920', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机049通讯状态', 'englishName': 'Y049ComSate', 'createTime': 1624256482739, 'dictionaryNote': '', 'updateTime': 1624256482739, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:44,754 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1811, 'configCode': '566838679496859648', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机050通讯状态', 'englishName': 'Y050ComSate', 'createTime': 1624256482771, 'dictionaryNote': '', 'updateTime': 1624256482771, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:44,785 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1812, 'configCode': '566838679622688768', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机051通讯状态', 'englishName': 'Y051ComSate', 'createTime': 1624256482801, 'dictionaryNote': '', 'updateTime': 1624256482801, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:44,816 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1813, 'configCode': '566838679752712192', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机052通讯状态', 'englishName': 'Y052ComSate', 'createTime': 1624256482832, 'dictionaryNote': '', 'updateTime': 1624256482832, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:44,848 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1814, 'configCode': '566838679886929920', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机053通讯状态', 'englishName': 'Y053ComSate', 'createTime': 1624256482864, 'dictionaryNote': '', 'updateTime': 1624256482864, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:44,879 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1815, 'configCode': '566838680016953344', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机054通讯状态', 'englishName': 'Y054ComSate', 'createTime': 1624256482895, 'dictionaryNote': '', 'updateTime': 1624256482895, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:44,910 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1816, 'configCode': '566838680151171072', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机055通讯状态', 'englishName': 'Y055ComSate', 'createTime': 1624256482927, 'dictionaryNote': '', 'updateTime': 1624256482927, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:44,941 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1817, 'configCode': '566838680285388800', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机056通讯状态', 'englishName': 'Y056ComSate', 'createTime': 1624256482959, 'dictionaryNote': '', 'updateTime': 1624256482959, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:44,988 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1818, 'configCode': '566838680423800832', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机057通讯状态', 'englishName': 'Y057ComSate', 'createTime': 1624256482992, 'dictionaryNote': '', 'updateTime': 1624256482992, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:45,019 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1819, 'configCode': '566838680553824256', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机058通讯状态', 'englishName': 'Y058ComSate', 'createTime': 1624256483023, 'dictionaryNote': '', 'updateTime': 1624256483023, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:45,050 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1820, 'configCode': '566838680688041984', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机059通讯状态', 'englishName': 'Y059ComSate', 'createTime': 1624256483055, 'dictionaryNote': '', 'updateTime': 1624256483055, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:45,082 [32mINFO {'code': 200, 'msg': '添加成功', 'data': {'id': 1821, 'configCode': '566838680834842624', 'deviceModelID': 240, 'dataVersion': None, 'dataName': '风机060通讯状态', 'englishName': 'Y060ComSate', 'createTime': 1624256483090, 'dictionaryNote': '', 'updateTime': 1624256483090, 'updateUserName': '来自EGS77星系英俊潇洒十全十美大帅哥', 'updateUserID': 163, 'isDeleted': 0, 'dataUnit': '', 'dataType': 3, 'modelName': None, 'privilegeLevel': None, 'parentID': 0, 'level': 1, 'isShowed': 0}}[0m
+2021-06-21 14:26:51,995 [32mINFO iot 平台登录成功[0m
+2021-06-21 14:27:00,278 [32mINFO 获取总页数，循环在每页中查找： FFU区域状态[0m
+2021-06-21 14:27:00,292 [32mINFO 总页数：[0m
+2021-06-21 14:27:00,292 [32mINFO 2[0m
+2021-06-21 14:27:00,292 [32mINFO 开始循环[0m
+2021-06-21 14:27:19,079 [32mINFO 指令 FFU区域状态 配置成功！[0m
+2021-06-21 14:27:20,125 [32mINFO 获取总页数，循环在每页中查找： FFU区域状态[0m
+2021-06-21 14:27:20,142 [32mINFO 总页数：[0m
+2021-06-21 14:27:20,142 [32mINFO 2[0m
+2021-06-21 14:27:20,142 [32mINFO 开始循环[0m
+2021-06-21 14:27:39,384 [32mINFO 指令 FFU区域状态 配置成功！[0m
+2021-06-21 14:27:40,424 [32mINFO 获取总页数，循环在每页中查找： FFU区域状态[0m
+2021-06-21 14:27:40,434 [32mINFO 总页数：[0m
+2021-06-21 14:27:40,434 [32mINFO 2[0m
+2021-06-21 14:27:40,434 [32mINFO 开始循环[0m
+2021-06-21 14:27:59,253 [32mINFO 指令 FFU区域状态 配置成功！[0m
+2021-06-21 14:28:00,247 [32mINFO 获取总页数，循环在每页中查找： FFU区域状态[0m
+2021-06-21 14:28:00,260 [32mINFO 总页数：[0m
+2021-06-21 14:28:00,261 [32mINFO 2[0m
+2021-06-21 14:28:00,261 [32mINFO 开始循环[0m
+2021-06-21 14:28:19,087 [32mINFO 指令 FFU区域状态 配置成功！[0m
+2021-06-21 14:28:20,121 [32mINFO 获取总页数，循环在每页中查找： FFU区域状态[0m
+2021-06-21 14:28:20,137 [32mINFO 总页数：[0m
+2021-06-21 14:28:20,138 [32mINFO 2[0m
+2021-06-21 14:28:20,138 [32mINFO 开始循环[0m
+2021-06-21 14:28:39,081 [32mINFO 指令 FFU区域状态 配置成功！[0m
+2021-06-21 14:28:40,182 [32mINFO 获取总页数，循环在每页中查找： FFU区域状态[0m
+2021-06-21 14:28:40,194 [32mINFO 总页数：[0m
+2021-06-21 14:28:40,194 [32mINFO 2[0m
+2021-06-21 14:28:40,194 [32mINFO 开始循环[0m
+2021-06-21 14:28:59,185 [32mINFO 指令 FFU区域状态 配置成功！[0m
+2021-06-21 14:29:00,255 [32mINFO 获取总页数，循环在每页中查找： 设定风速01-10[0m
+2021-06-21 14:29:00,265 [32mINFO 总页数：[0m
+2021-06-21 14:29:00,265 [32mINFO 2[0m
+2021-06-21 14:29:00,266 [32mINFO 开始循环[0m
+2021-06-21 14:29:19,535 [32mINFO 指令 设定风速01-10 配置成功！[0m
+2021-06-21 14:29:20,571 [32mINFO 获取总页数，循环在每页中查找： 设定风速01-10[0m
+2021-06-21 14:29:20,581 [32mINFO 总页数：[0m
+2021-06-21 14:29:20,581 [32mINFO 2[0m
+2021-06-21 14:29:20,581 [32mINFO 开始循环[0m
+2021-06-21 14:29:39,675 [32mINFO 指令 设定风速01-10 配置成功！[0m
+2021-06-21 14:29:40,804 [32mINFO 获取总页数，循环在每页中查找： 设定风速01-10[0m
+2021-06-21 14:29:40,821 [32mINFO 总页数：[0m
+2021-06-21 14:29:40,821 [32mINFO 2[0m
+2021-06-21 14:29:40,821 [32mINFO 开始循环[0m
+2021-06-21 14:30:00,031 [32mINFO 指令 设定风速01-10 配置成功！[0m
+2021-06-21 14:30:01,114 [32mINFO 获取总页数，循环在每页中查找： 设定风速01-10[0m
+2021-06-21 14:30:01,128 [32mINFO 总页数：[0m
+2021-06-21 14:30:01,128 [32mINFO 2[0m
+2021-06-21 14:30:01,128 [32mINFO 开始循环[0m
+2021-06-21 14:30:20,292 [32mINFO 指令 设定风速01-10 配置成功！[0m
+2021-06-21 14:30:21,378 [32mINFO 获取总页数，循环在每页中查找： 设定风速01-10[0m
+2021-06-21 14:30:21,390 [32mINFO 总页数：[0m
+2021-06-21 14:30:21,390 [32mINFO 2[0m
+2021-06-21 14:30:21,390 [32mINFO 开始循环[0m
+2021-06-21 14:30:40,487 [32mINFO 指令 设定风速01-10 配置成功！[0m
+2021-06-21 14:30:41,558 [32mINFO 获取总页数，循环在每页中查找： 设定风速01-10[0m
+2021-06-21 14:30:41,569 [32mINFO 总页数：[0m
+2021-06-21 14:30:41,569 [32mINFO 2[0m
+2021-06-21 14:30:41,569 [32mINFO 开始循环[0m
+2021-06-21 14:31:00,675 [32mINFO 指令 设定风速01-10 配置成功！[0m
+2021-06-21 14:31:01,813 [32mINFO 获取总页数，循环在每页中查找： 设定风速01-10[0m
+2021-06-21 14:31:01,830 [32mINFO 总页数：[0m
+2021-06-21 14:31:01,831 [32mINFO 2[0m
+2021-06-21 14:31:01,831 [32mINFO 开始循环[0m
+2021-06-21 14:31:21,123 [32mINFO 指令 设定风速01-10 配置成功！[0m
+2021-06-21 14:31:22,187 [32mINFO 获取总页数，循环在每页中查找： 设定风速01-10[0m
+2021-06-21 14:31:22,199 [32mINFO 总页数：[0m
+2021-06-21 14:31:22,199 [32mINFO 2[0m
+2021-06-21 14:31:22,199 [32mINFO 开始循环[0m
+2021-06-21 14:31:41,431 [32mINFO 指令 设定风速01-10 配置成功！[0m
+2021-06-21 14:31:42,486 [32mINFO 获取总页数，循环在每页中查找： 设定风速01-10[0m
+2021-06-21 14:31:42,499 [32mINFO 总页数：[0m
+2021-06-21 14:31:42,499 [32mINFO 2[0m
+2021-06-21 14:31:42,499 [32mINFO 开始循环[0m
+2021-06-21 14:32:01,619 [32mINFO 指令 设定风速01-10 配置成功！[0m
+2021-06-21 14:32:02,698 [32mINFO 获取总页数，循环在每页中查找： 设定风速01-10[0m
+2021-06-21 14:32:02,711 [32mINFO 总页数：[0m
+2021-06-21 14:32:02,711 [32mINFO 2[0m
+2021-06-21 14:32:02,712 [32mINFO 开始循环[0m
+2021-06-21 14:32:21,986 [32mINFO 指令 设定风速01-10 配置成功！[0m
+2021-06-21 14:32:23,083 [32mINFO 获取总页数，循环在每页中查找： 设定风速11-20[0m
+2021-06-21 14:32:23,100 [32mINFO 总页数：[0m
+2021-06-21 14:32:23,100 [32mINFO 2[0m
+2021-06-21 14:32:23,100 [32mINFO 开始循环[0m
+2021-06-21 14:32:42,394 [32mINFO 指令 设定风速11-20 配置成功！[0m
+2021-06-21 14:32:43,466 [32mINFO 获取总页数，循环在每页中查找： 设定风速11-20[0m
+2021-06-21 14:32:43,477 [32mINFO 总页数：[0m
+2021-06-21 14:32:43,477 [32mINFO 2[0m
+2021-06-21 14:32:43,478 [32mINFO 开始循环[0m
+2021-06-21 14:33:02,677 [32mINFO 指令 设定风速11-20 配置成功！[0m
+2021-06-21 14:33:03,740 [32mINFO 获取总页数，循环在每页中查找： 设定风速11-20[0m
+2021-06-21 14:33:03,756 [32mINFO 总页数：[0m
+2021-06-21 14:33:03,756 [32mINFO 2[0m
+2021-06-21 14:33:03,756 [32mINFO 开始循环[0m
+2021-06-21 14:33:22,962 [32mINFO 指令 设定风速11-20 配置成功！[0m
+2021-06-21 14:33:24,042 [32mINFO 获取总页数，循环在每页中查找： 设定风速11-20[0m
+2021-06-21 14:33:24,055 [32mINFO 总页数：[0m
+2021-06-21 14:33:24,055 [32mINFO 2[0m
+2021-06-21 14:33:24,055 [32mINFO 开始循环[0m
+2021-06-21 14:33:43,301 [32mINFO 指令 设定风速11-20 配置成功！[0m
+2021-06-21 14:33:44,402 [32mINFO 获取总页数，循环在每页中查找： 设定风速11-20[0m
+2021-06-21 14:33:44,419 [32mINFO 总页数：[0m
+2021-06-21 14:33:44,419 [32mINFO 2[0m
+2021-06-21 14:33:44,419 [32mINFO 开始循环[0m
+2021-06-21 14:34:03,717 [32mINFO 指令 设定风速11-20 配置成功！[0m
+2021-06-21 14:34:04,751 [32mINFO 获取总页数，循环在每页中查找： 设定风速11-20[0m
+2021-06-21 14:34:04,765 [32mINFO 总页数：[0m
+2021-06-21 14:34:04,765 [32mINFO 2[0m
+2021-06-21 14:34:04,765 [32mINFO 开始循环[0m
+2021-06-21 14:34:23,992 [32mINFO 指令 设定风速11-20 配置成功！[0m
+2021-06-21 14:34:25,028 [32mINFO 获取总页数，循环在每页中查找： 设定风速11-20[0m
+2021-06-21 14:34:25,041 [32mINFO 总页数：[0m
+2021-06-21 14:34:25,042 [32mINFO 2[0m
+2021-06-21 14:34:25,042 [32mINFO 开始循环[0m
+2021-06-21 14:34:44,310 [32mINFO 指令 设定风速11-20 配置成功！[0m
+2021-06-21 14:34:45,380 [32mINFO 获取总页数，循环在每页中查找： 设定风速11-20[0m
+2021-06-21 14:34:45,396 [32mINFO 总页数：[0m
+2021-06-21 14:34:45,396 [32mINFO 2[0m
+2021-06-21 14:34:45,396 [32mINFO 开始循环[0m
+2021-06-21 14:35:04,627 [32mINFO 指令 设定风速11-20 配置成功！[0m
+2021-06-21 14:35:05,743 [32mINFO 获取总页数，循环在每页中查找： 设定风速11-20[0m
+2021-06-21 14:35:05,760 [32mINFO 总页数：[0m
+2021-06-21 14:35:05,760 [32mINFO 2[0m
+2021-06-21 14:35:05,760 [32mINFO 开始循环[0m
+2021-06-21 14:35:25,130 [32mINFO 指令 设定风速11-20 配置成功！[0m
+2021-06-21 14:35:26,195 [32mINFO 获取总页数，循环在每页中查找： 设定风速11-20[0m
+2021-06-21 14:35:26,207 [32mINFO 总页数：[0m
+2021-06-21 14:35:26,207 [32mINFO 2[0m
+2021-06-21 14:35:26,208 [32mINFO 开始循环[0m
+2021-06-21 14:35:45,415 [32mINFO 指令 设定风速11-20 配置成功！[0m
+2021-06-21 14:35:46,484 [32mINFO 获取总页数，循环在每页中查找： 设定风速21-30[0m
+2021-06-21 14:35:46,497 [32mINFO 总页数：[0m
+2021-06-21 14:35:46,497 [32mINFO 2[0m
+2021-06-21 14:35:46,497 [32mINFO 开始循环[0m
+2021-06-21 14:36:05,745 [32mINFO 指令 设定风速21-30 配置成功！[0m
+2021-06-21 14:36:06,819 [32mINFO 获取总页数，循环在每页中查找： 设定风速21-30[0m
+2021-06-21 14:36:06,832 [32mINFO 总页数：[0m
+2021-06-21 14:36:06,832 [32mINFO 2[0m
+2021-06-21 14:36:06,832 [32mINFO 开始循环[0m
+2021-06-21 14:36:25,974 [32mINFO 指令 设定风速21-30 配置成功！[0m
+2021-06-21 14:36:27,064 [32mINFO 获取总页数，循环在每页中查找： 设定风速21-30[0m
+2021-06-21 14:36:27,081 [32mINFO 总页数：[0m
+2021-06-21 14:36:27,081 [32mINFO 2[0m
+2021-06-21 14:36:27,081 [32mINFO 开始循环[0m
+2021-06-21 14:36:46,359 [32mINFO 指令 设定风速21-30 配置成功！[0m
+2021-06-21 14:36:47,447 [32mINFO 获取总页数，循环在每页中查找： 设定风速21-30[0m
+2021-06-21 14:36:47,459 [32mINFO 总页数：[0m
+2021-06-21 14:36:47,459 [32mINFO 2[0m
+2021-06-21 14:36:47,459 [32mINFO 开始循环[0m
+2021-06-21 14:37:06,664 [32mINFO 指令 设定风速21-30 配置成功！[0m
+2021-06-21 14:37:07,748 [32mINFO 获取总页数，循环在每页中查找： 设定风速21-30[0m
+2021-06-21 14:37:07,759 [32mINFO 总页数：[0m
+2021-06-21 14:37:07,759 [32mINFO 2[0m
+2021-06-21 14:37:07,759 [32mINFO 开始循环[0m
+2021-06-21 14:37:26,949 [32mINFO 指令 设定风速21-30 配置成功！[0m
+2021-06-21 14:37:28,051 [32mINFO 获取总页数，循环在每页中查找： 设定风速21-30[0m
+2021-06-21 14:37:28,063 [32mINFO 总页数：[0m
+2021-06-21 14:37:28,064 [32mINFO 2[0m
+2021-06-21 14:37:28,064 [32mINFO 开始循环[0m
+2021-06-21 14:37:47,270 [32mINFO 指令 设定风速21-30 配置成功！[0m
+2021-06-21 14:37:48,347 [32mINFO 获取总页数，循环在每页中查找： 设定风速21-30[0m
+2021-06-21 14:37:48,357 [32mINFO 总页数：[0m
+2021-06-21 14:37:48,357 [32mINFO 2[0m
+2021-06-21 14:37:48,357 [32mINFO 开始循环[0m
+2021-06-21 14:38:07,621 [32mINFO 指令 设定风速21-30 配置成功！[0m
+2021-06-21 14:38:08,684 [32mINFO 获取总页数，循环在每页中查找： 设定风速21-30[0m
+2021-06-21 14:38:08,698 [32mINFO 总页数：[0m
+2021-06-21 14:38:08,698 [32mINFO 2[0m
+2021-06-21 14:38:08,698 [32mINFO 开始循环[0m
+2021-06-21 14:38:28,035 [32mINFO 指令 设定风速21-30 配置成功！[0m
+2021-06-21 14:38:29,132 [32mINFO 获取总页数，循环在每页中查找： 设定风速21-30[0m
+2021-06-21 14:38:29,149 [32mINFO 总页数：[0m
+2021-06-21 14:38:29,149 [32mINFO 2[0m
+2021-06-21 14:38:29,149 [32mINFO 开始循环[0m
+2021-06-21 14:38:48,457 [32mINFO 指令 设定风速21-30 配置成功！[0m
+2021-06-21 14:38:49,509 [32mINFO 获取总页数，循环在每页中查找： 设定风速21-30[0m
+2021-06-21 14:38:49,521 [32mINFO 总页数：[0m
+2021-06-21 14:38:49,521 [32mINFO 2[0m
+2021-06-21 14:38:49,521 [32mINFO 开始循环[0m
+2021-06-21 14:39:08,808 [32mINFO 指令 设定风速21-30 配置成功！[0m
+2021-06-21 14:39:09,885 [32mINFO 获取总页数，循环在每页中查找： 设定风速31-40[0m
+2021-06-21 14:39:09,897 [32mINFO 总页数：[0m
+2021-06-21 14:39:09,897 [32mINFO 2[0m
+2021-06-21 14:39:09,898 [32mINFO 开始循环[0m
+2021-06-21 14:39:29,180 [32mINFO 指令 设定风速31-40 配置成功！[0m
+2021-06-21 14:39:30,261 [32mINFO 获取总页数，循环在每页中查找： 设定风速31-40[0m
+2021-06-21 14:39:30,275 [32mINFO 总页数：[0m
+2021-06-21 14:39:30,276 [32mINFO 2[0m
+2021-06-21 14:39:30,276 [32mINFO 开始循环[0m
+2021-06-21 14:39:49,466 [32mINFO 指令 设定风速31-40 配置成功！[0m
+2021-06-21 14:39:50,530 [32mINFO 获取总页数，循环在每页中查找： 设定风速31-40[0m
+2021-06-21 14:39:50,543 [32mINFO 总页数：[0m
+2021-06-21 14:39:50,543 [32mINFO 2[0m
+2021-06-21 14:39:50,543 [32mINFO 开始循环[0m
+2021-06-21 14:40:09,719 [32mINFO 指令 设定风速31-40 配置成功！[0m
+2021-06-21 14:40:10,784 [32mINFO 获取总页数，循环在每页中查找： 设定风速31-40[0m
+2021-06-21 14:40:10,799 [32mINFO 总页数：[0m
+2021-06-21 14:40:10,799 [32mINFO 2[0m
+2021-06-21 14:40:10,799 [32mINFO 开始循环[0m
+2021-06-21 14:40:30,078 [32mINFO 指令 设定风速31-40 配置成功！[0m
+2021-06-21 14:40:31,187 [32mINFO 获取总页数，循环在每页中查找： 设定风速31-40[0m
+2021-06-21 14:40:31,205 [32mINFO 总页数：[0m
+2021-06-21 14:40:31,206 [32mINFO 2[0m
+2021-06-21 14:40:31,206 [32mINFO 开始循环[0m
+2021-06-21 14:40:50,509 [32mINFO 指令 设定风速31-40 配置成功！[0m
+2021-06-21 14:40:51,580 [32mINFO 获取总页数，循环在每页中查找： 设定风速31-40[0m
+2021-06-21 14:40:51,593 [32mINFO 总页数：[0m
+2021-06-21 14:40:51,593 [32mINFO 2[0m
+2021-06-21 14:40:51,593 [32mINFO 开始循环[0m
+2021-06-21 14:41:10,763 [32mINFO 指令 设定风速31-40 配置成功！[0m
+2021-06-21 14:41:11,820 [32mINFO 获取总页数，循环在每页中查找： 设定风速31-40[0m
+2021-06-21 14:41:11,831 [32mINFO 总页数：[0m
+2021-06-21 14:41:11,831 [32mINFO 2[0m
+2021-06-21 14:41:11,831 [32mINFO 开始循环[0m
+2021-06-21 14:41:31,047 [32mINFO 指令 设定风速31-40 配置成功！[0m
+2021-06-21 14:41:32,105 [32mINFO 获取总页数，循环在每页中查找： 设定风速31-40[0m
+2021-06-21 14:41:32,115 [32mINFO 总页数：[0m
+2021-06-21 14:41:32,115 [32mINFO 2[0m
+2021-06-21 14:41:32,115 [32mINFO 开始循环[0m
+2021-06-21 14:41:51,391 [32mINFO 指令 设定风速31-40 配置成功！[0m
+2021-06-21 14:41:52,455 [32mINFO 获取总页数，循环在每页中查找： 设定风速31-40[0m
+2021-06-21 14:41:52,468 [32mINFO 总页数：[0m
+2021-06-21 14:41:52,468 [32mINFO 2[0m
+2021-06-21 14:41:52,468 [32mINFO 开始循环[0m
+2021-06-21 14:42:11,691 [32mINFO 指令 设定风速31-40 配置成功！[0m
+2021-06-21 14:42:12,822 [32mINFO 获取总页数，循环在每页中查找： 设定风速31-40[0m
+2021-06-21 14:42:12,840 [32mINFO 总页数：[0m
+2021-06-21 14:42:12,841 [32mINFO 2[0m
+2021-06-21 14:42:12,841 [32mINFO 开始循环[0m
+2021-06-21 14:42:32,131 [32mINFO 指令 设定风速31-40 配置成功！[0m
+2021-06-21 14:42:33,210 [32mINFO 获取总页数，循环在每页中查找： 设定风速41-50[0m
+2021-06-21 14:42:33,223 [32mINFO 总页数：[0m
+2021-06-21 14:42:33,223 [32mINFO 2[0m
+2021-06-21 14:42:33,223 [32mINFO 开始循环[0m
+2021-06-21 14:42:52,366 [32mINFO 指令 设定风速41-50 配置成功！[0m
+2021-06-21 14:42:53,441 [32mINFO 获取总页数，循环在每页中查找： 设定风速41-50[0m
+2021-06-21 14:42:53,454 [32mINFO 总页数：[0m
+2021-06-21 14:42:53,454 [32mINFO 2[0m
+2021-06-21 14:42:53,454 [32mINFO 开始循环[0m
+2021-06-21 14:43:13,331 [32mINFO 指令 设定风速41-50 配置成功！[0m
+2021-06-21 14:43:14,306 [32mINFO 获取总页数，循环在每页中查找： 设定风速41-50[0m
+2021-06-21 14:43:14,319 [32mINFO 总页数：[0m
+2021-06-21 14:43:14,320 [32mINFO 2[0m
+2021-06-21 14:43:14,320 [32mINFO 开始循环[0m
+2021-06-21 14:43:32,971 [32mINFO 指令 设定风速41-50 配置成功！[0m
+2021-06-21 14:43:34,028 [32mINFO 获取总页数，循环在每页中查找： 设定风速41-50[0m
+2021-06-21 14:43:34,044 [32mINFO 总页数：[0m
+2021-06-21 14:43:34,044 [32mINFO 2[0m
+2021-06-21 14:43:34,044 [32mINFO 开始循环[0m
+2021-06-21 14:43:53,247 [32mINFO 指令 设定风速41-50 配置成功！[0m
+2021-06-21 14:43:54,326 [32mINFO 获取总页数，循环在每页中查找： 设定风速41-50[0m
+2021-06-21 14:43:54,338 [32mINFO 总页数：[0m
+2021-06-21 14:43:54,338 [32mINFO 2[0m
+2021-06-21 14:43:54,338 [32mINFO 开始循环[0m
+2021-06-21 14:44:13,338 [32mINFO 指令 设定风速41-50 配置成功！[0m
+2021-06-21 14:44:14,374 [32mINFO 获取总页数，循环在每页中查找： 设定风速41-50[0m
+2021-06-21 14:44:14,388 [32mINFO 总页数：[0m
+2021-06-21 14:44:14,388 [32mINFO 2[0m
+2021-06-21 14:44:14,388 [32mINFO 开始循环[0m
+2021-06-21 14:44:33,686 [32mINFO 指令 设定风速41-50 配置成功！[0m
+2021-06-21 14:44:34,765 [32mINFO 获取总页数，循环在每页中查找： 设定风速41-50[0m
+2021-06-21 14:44:34,776 [32mINFO 总页数：[0m
+2021-06-21 14:44:34,776 [32mINFO 2[0m
+2021-06-21 14:44:34,776 [32mINFO 开始循环[0m
+2021-06-21 14:44:54,024 [32mINFO 指令 设定风速41-50 配置成功！[0m
+2021-06-21 14:44:55,061 [32mINFO 获取总页数，循环在每页中查找： 设定风速41-50[0m
+2021-06-21 14:44:55,073 [32mINFO 总页数：[0m
+2021-06-21 14:44:55,073 [32mINFO 2[0m
+2021-06-21 14:44:55,073 [32mINFO 开始循环[0m
+2021-06-21 14:45:14,014 [32mINFO 指令 设定风速41-50 配置成功！[0m
+2021-06-21 14:45:15,100 [32mINFO 获取总页数，循环在每页中查找： 设定风速41-50[0m
+2021-06-21 14:45:15,117 [32mINFO 总页数：[0m
+2021-06-21 14:45:15,117 [32mINFO 2[0m
+2021-06-21 14:45:15,117 [32mINFO 开始循环[0m
+2021-06-21 14:45:34,481 [32mINFO 指令 设定风速41-50 配置成功！[0m
+2021-06-21 14:45:35,544 [32mINFO 获取总页数，循环在每页中查找： 设定风速41-50[0m
+2021-06-21 14:45:35,560 [32mINFO 总页数：[0m
+2021-06-21 14:45:35,561 [32mINFO 2[0m
+2021-06-21 14:45:35,561 [32mINFO 开始循环[0m
+2021-06-21 14:45:54,774 [32mINFO 指令 设定风速41-50 配置成功！[0m
+2021-06-21 14:45:55,833 [32mINFO 获取总页数，循环在每页中查找： 设定风速51-60[0m
+2021-06-21 14:45:55,847 [32mINFO 总页数：[0m
+2021-06-21 14:45:55,847 [32mINFO 2[0m
+2021-06-21 14:45:55,847 [32mINFO 开始循环[0m
+2021-06-21 14:46:15,051 [32mINFO 指令 设定风速51-60 配置成功！[0m
+2021-06-21 14:46:16,110 [32mINFO 获取总页数，循环在每页中查找： 设定风速51-60[0m
+2021-06-21 14:46:16,120 [32mINFO 总页数：[0m
+2021-06-21 14:46:16,121 [32mINFO 2[0m
+2021-06-21 14:46:16,121 [32mINFO 开始循环[0m
+2021-06-21 14:46:35,237 [32mINFO 指令 设定风速51-60 配置成功！[0m
+2021-06-21 14:46:36,309 [32mINFO 获取总页数，循环在每页中查找： 设定风速51-60[0m
+2021-06-21 14:46:36,321 [32mINFO 总页数：[0m
+2021-06-21 14:46:36,321 [32mINFO 2[0m
+2021-06-21 14:46:36,321 [32mINFO 开始循环[0m
+2021-06-21 14:46:55,615 [32mINFO 指令 设定风速51-60 配置成功！[0m
+2021-06-21 14:46:56,676 [32mINFO 获取总页数，循环在每页中查找： 设定风速51-60[0m
+2021-06-21 14:46:56,695 [32mINFO 总页数：[0m
+2021-06-21 14:46:56,695 [32mINFO 2[0m
+2021-06-21 14:46:56,695 [32mINFO 开始循环[0m
+2021-06-21 14:47:15,855 [32mINFO 指令 设定风速51-60 配置成功！[0m
+2021-06-21 14:47:16,944 [32mINFO 获取总页数，循环在每页中查找： 设定风速51-60[0m
+2021-06-21 14:47:16,956 [32mINFO 总页数：[0m
+2021-06-21 14:47:16,956 [32mINFO 2[0m
+2021-06-21 14:47:16,956 [32mINFO 开始循环[0m
+2021-06-21 14:47:36,224 [32mINFO 指令 设定风速51-60 配置成功！[0m
+2021-06-21 14:47:37,295 [32mINFO 获取总页数，循环在每页中查找： 设定风速51-60[0m
+2021-06-21 14:47:37,305 [32mINFO 总页数：[0m
+2021-06-21 14:47:37,305 [32mINFO 2[0m
+2021-06-21 14:47:37,305 [32mINFO 开始循环[0m
+2021-06-21 14:47:56,489 [32mINFO 指令 设定风速51-60 配置成功！[0m
+2021-06-21 14:47:57,575 [32mINFO 获取总页数，循环在每页中查找： 设定风速51-60[0m
+2021-06-21 14:47:57,585 [32mINFO 总页数：[0m
+2021-06-21 14:47:57,585 [32mINFO 2[0m
+2021-06-21 14:47:57,585 [32mINFO 开始循环[0m
+2021-06-21 14:48:16,775 [32mINFO 指令 设定风速51-60 配置成功！[0m
+2021-06-21 14:48:17,851 [32mINFO 获取总页数，循环在每页中查找： 设定风速51-60[0m
+2021-06-21 14:48:17,866 [32mINFO 总页数：[0m
+2021-06-21 14:48:17,866 [32mINFO 2[0m
+2021-06-21 14:48:17,866 [32mINFO 开始循环[0m
+2021-06-21 14:48:37,096 [32mINFO 指令 设定风速51-60 配置成功！[0m
+2021-06-21 14:48:38,172 [32mINFO 获取总页数，循环在每页中查找： 设定风速51-60[0m
+2021-06-21 14:48:38,182 [32mINFO 总页数：[0m
+2021-06-21 14:48:38,182 [32mINFO 2[0m
+2021-06-21 14:48:38,183 [32mINFO 开始循环[0m
+2021-06-21 14:48:57,402 [32mINFO 指令 设定风速51-60 配置成功！[0m
+2021-06-21 14:48:58,491 [32mINFO 获取总页数，循环在每页中查找： 设定风速51-60[0m
+2021-06-21 14:48:58,504 [32mINFO 总页数：[0m
+2021-06-21 14:48:58,504 [32mINFO 2[0m
+2021-06-21 14:48:58,504 [32mINFO 开始循环[0m
+2021-06-21 14:49:17,671 [32mINFO 指令 设定风速51-60 配置成功！[0m
+2021-06-21 14:49:18,750 [32mINFO 获取总页数，循环在每页中查找： 实际风速01-10[0m
+2021-06-21 14:49:18,762 [32mINFO 总页数：[0m
+2021-06-21 14:49:18,762 [32mINFO 2[0m
+2021-06-21 14:49:18,762 [32mINFO 开始循环[0m
+2021-06-21 14:49:37,991 [32mINFO 指令 实际风速01-10 配置成功！[0m
+2021-06-21 14:49:39,134 [32mINFO 获取总页数，循环在每页中查找： 实际风速01-10[0m
+2021-06-21 14:49:39,148 [32mINFO 总页数：[0m
+2021-06-21 14:49:39,148 [32mINFO 2[0m
+2021-06-21 14:49:39,148 [32mINFO 开始循环[0m
+2021-06-21 14:49:58,344 [32mINFO 指令 实际风速01-10 配置成功！[0m
+2021-06-21 14:49:59,451 [32mINFO 获取总页数，循环在每页中查找： 实际风速01-10[0m
+2021-06-21 14:49:59,467 [32mINFO 总页数：[0m
+2021-06-21 14:49:59,467 [32mINFO 2[0m
+2021-06-21 14:49:59,467 [32mINFO 开始循环[0m
+2021-06-21 14:50:18,738 [32mINFO 指令 实际风速01-10 配置成功！[0m
+2021-06-21 14:50:19,813 [32mINFO 获取总页数，循环在每页中查找： 实际风速01-10[0m
+2021-06-21 14:50:19,824 [32mINFO 总页数：[0m
+2021-06-21 14:50:19,824 [32mINFO 2[0m
+2021-06-21 14:50:19,824 [32mINFO 开始循环[0m
+2021-06-21 14:50:38,991 [32mINFO 指令 实际风速01-10 配置成功！[0m
+2021-06-21 14:50:40,110 [32mINFO 获取总页数，循环在每页中查找： 实际风速01-10[0m
+2021-06-21 14:50:40,127 [32mINFO 总页数：[0m
+2021-06-21 14:50:40,127 [32mINFO 2[0m
+2021-06-21 14:50:40,127 [32mINFO 开始循环[0m
+2021-06-21 14:50:59,443 [32mINFO 指令 实际风速01-10 配置成功！[0m
+2021-06-21 14:51:00,524 [32mINFO 获取总页数，循环在每页中查找： 实际风速01-10[0m
+2021-06-21 14:51:00,534 [32mINFO 总页数：[0m
+2021-06-21 14:51:00,534 [32mINFO 2[0m
+2021-06-21 14:51:00,534 [32mINFO 开始循环[0m
+2021-06-21 14:51:19,807 [32mINFO 指令 实际风速01-10 配置成功！[0m
+2021-06-21 14:51:20,905 [32mINFO 获取总页数，循环在每页中查找： 实际风速01-10[0m
+2021-06-21 14:51:20,923 [32mINFO 总页数：[0m
+2021-06-21 14:51:20,923 [32mINFO 2[0m
+2021-06-21 14:51:20,923 [32mINFO 开始循环[0m
+2021-06-21 14:51:40,122 [32mINFO 指令 实际风速01-10 配置成功！[0m
+2021-06-21 14:51:41,280 [32mINFO 获取总页数，循环在每页中查找： 实际风速01-10[0m
+2021-06-21 14:51:41,294 [32mINFO 总页数：[0m
+2021-06-21 14:51:41,294 [32mINFO 2[0m
+2021-06-21 14:51:41,294 [32mINFO 开始循环[0m
+2021-06-21 14:52:00,619 [32mINFO 指令 实际风速01-10 配置成功！[0m
+2021-06-21 14:52:01,673 [32mINFO 获取总页数，循环在每页中查找： 实际风速01-10[0m
+2021-06-21 14:52:01,684 [32mINFO 总页数：[0m
+2021-06-21 14:52:01,684 [32mINFO 2[0m
+2021-06-21 14:52:01,685 [32mINFO 开始循环[0m
+2021-06-21 14:52:20,775 [32mINFO 指令 实际风速01-10 配置成功！[0m
+2021-06-21 14:52:21,858 [32mINFO 获取总页数，循环在每页中查找： 实际风速01-10[0m
+2021-06-21 14:52:21,869 [32mINFO 总页数：[0m
+2021-06-21 14:52:21,870 [32mINFO 2[0m
+2021-06-21 14:52:21,870 [32mINFO 开始循环[0m
+2021-06-21 14:52:41,054 [32mINFO 指令 实际风速01-10 配置成功！[0m
+2021-06-21 14:52:42,140 [32mINFO 获取总页数，循环在每页中查找： 实际风速11-20[0m
+2021-06-21 14:52:42,152 [32mINFO 总页数：[0m
+2021-06-21 14:52:42,152 [32mINFO 2[0m
+2021-06-21 14:52:42,152 [32mINFO 开始循环[0m
+2021-06-21 14:53:01,461 [32mINFO 指令 实际风速11-20 配置成功！[0m
+2021-06-21 14:53:02,559 [32mINFO 获取总页数，循环在每页中查找： 实际风速11-20[0m
+2021-06-21 14:53:02,574 [32mINFO 总页数：[0m
+2021-06-21 14:53:02,574 [32mINFO 2[0m
+2021-06-21 14:53:02,574 [32mINFO 开始循环[0m
+2021-06-21 14:53:21,966 [32mINFO 指令 实际风速11-20 配置成功！[0m
+2021-06-21 14:53:22,988 [32mINFO 获取总页数，循环在每页中查找： 实际风速11-20[0m
+2021-06-21 14:53:22,999 [32mINFO 总页数：[0m
+2021-06-21 14:53:23,000 [32mINFO 2[0m
+2021-06-21 14:53:23,000 [32mINFO 开始循环[0m
+2021-06-21 14:53:42,316 [32mINFO 指令 实际风速11-20 配置成功！[0m
+2021-06-21 14:53:43,349 [32mINFO 获取总页数，循环在每页中查找： 实际风速11-20[0m
+2021-06-21 14:53:43,362 [32mINFO 总页数：[0m
+2021-06-21 14:53:43,362 [32mINFO 2[0m
+2021-06-21 14:53:43,362 [32mINFO 开始循环[0m
+2021-06-21 14:54:02,702 [32mINFO 指令 实际风速11-20 配置成功！[0m
+2021-06-21 14:54:03,770 [32mINFO 获取总页数，循环在每页中查找： 实际风速11-20[0m
+2021-06-21 14:54:03,784 [32mINFO 总页数：[0m
+2021-06-21 14:54:03,784 [32mINFO 2[0m
+2021-06-21 14:54:03,784 [32mINFO 开始循环[0m
+2021-06-21 14:54:22,957 [32mINFO 指令 实际风速11-20 配置成功！[0m
+2021-06-21 14:54:24,023 [32mINFO 获取总页数，循环在每页中查找： 实际风速11-20[0m
+2021-06-21 14:54:24,039 [32mINFO 总页数：[0m
+2021-06-21 14:54:24,039 [32mINFO 2[0m
+2021-06-21 14:54:24,039 [32mINFO 开始循环[0m
+2021-06-21 14:54:43,160 [32mINFO 指令 实际风速11-20 配置成功！[0m
+2021-06-21 14:54:44,243 [32mINFO 获取总页数，循环在每页中查找： 实际风速11-20[0m
+2021-06-21 14:54:44,256 [32mINFO 总页数：[0m
+2021-06-21 14:54:44,256 [32mINFO 2[0m
+2021-06-21 14:54:44,256 [32mINFO 开始循环[0m
+2021-06-21 14:55:03,494 [32mINFO 指令 实际风速11-20 配置成功！[0m
+2021-06-21 14:55:04,562 [32mINFO 获取总页数，循环在每页中查找： 实际风速11-20[0m
+2021-06-21 14:55:04,574 [32mINFO 总页数：[0m
+2021-06-21 14:55:04,575 [32mINFO 2[0m
+2021-06-21 14:55:04,575 [32mINFO 开始循环[0m
+2021-06-21 14:55:23,781 [32mINFO 指令 实际风速11-20 配置成功！[0m
+2021-06-21 14:55:24,831 [32mINFO 获取总页数，循环在每页中查找： 实际风速11-20[0m
+2021-06-21 14:55:24,844 [32mINFO 总页数：[0m
+2021-06-21 14:55:24,844 [32mINFO 2[0m
+2021-06-21 14:55:24,844 [32mINFO 开始循环[0m
+2021-06-21 14:55:44,116 [32mINFO 指令 实际风速11-20 配置成功！[0m
+2021-06-21 14:55:45,218 [32mINFO 获取总页数，循环在每页中查找： 实际风速11-20[0m
+2021-06-21 14:55:45,235 [32mINFO 总页数：[0m
+2021-06-21 14:55:45,235 [32mINFO 2[0m
+2021-06-21 14:55:45,235 [32mINFO 开始循环[0m
+2021-06-21 14:56:04,540 [32mINFO 指令 实际风速11-20 配置成功！[0m
+2021-06-21 14:56:05,558 [32mINFO 获取总页数，循环在每页中查找： 实际风速21-30[0m
+2021-06-21 14:56:05,568 [32mINFO 总页数：[0m
+2021-06-21 14:56:05,568 [32mINFO 2[0m
+2021-06-21 14:56:05,568 [32mINFO 开始循环[0m
+2021-06-21 14:56:24,722 [32mINFO 指令 实际风速21-30 配置成功！[0m
+2021-06-21 14:56:25,687 [32mINFO 获取总页数，循环在每页中查找： 实际风速21-30[0m
+2021-06-21 14:56:25,697 [32mINFO 总页数：[0m
+2021-06-21 14:56:25,697 [32mINFO 2[0m
+2021-06-21 14:56:25,697 [32mINFO 开始循环[0m
+2021-06-21 14:56:44,779 [32mINFO 指令 实际风速21-30 配置成功！[0m
+2021-06-21 14:56:45,851 [32mINFO 获取总页数，循环在每页中查找： 实际风速21-30[0m
+2021-06-21 14:56:45,862 [32mINFO 总页数：[0m
+2021-06-21 14:56:45,862 [32mINFO 2[0m
+2021-06-21 14:56:45,862 [32mINFO 开始循环[0m
+2021-06-21 14:57:05,097 [32mINFO 指令 实际风速21-30 配置成功！[0m
+2021-06-21 14:57:06,188 [32mINFO 获取总页数，循环在每页中查找： 实际风速21-30[0m
+2021-06-21 14:57:06,203 [32mINFO 总页数：[0m
+2021-06-21 14:57:06,203 [32mINFO 2[0m
+2021-06-21 14:57:06,203 [32mINFO 开始循环[0m
+2021-06-21 14:57:25,340 [32mINFO 指令 实际风速21-30 配置成功！[0m
+2021-06-21 14:57:26,376 [32mINFO 获取总页数，循环在每页中查找： 实际风速21-30[0m
+2021-06-21 14:57:26,389 [32mINFO 总页数：[0m
+2021-06-21 14:57:26,389 [32mINFO 2[0m
+2021-06-21 14:57:26,389 [32mINFO 开始循环[0m
+2021-06-21 14:57:45,313 [32mINFO 指令 实际风速21-30 配置成功！[0m
+2021-06-21 14:57:46,396 [32mINFO 获取总页数，循环在每页中查找： 实际风速21-30[0m
+2021-06-21 14:57:46,407 [32mINFO 总页数：[0m
+2021-06-21 14:57:46,407 [32mINFO 2[0m
+2021-06-21 14:57:46,407 [32mINFO 开始循环[0m
+2021-06-21 14:58:05,561 [32mINFO 指令 实际风速21-30 配置成功！[0m
+2021-06-21 14:58:06,631 [32mINFO 获取总页数，循环在每页中查找： 实际风速21-30[0m
+2021-06-21 14:58:06,642 [32mINFO 总页数：[0m
+2021-06-21 14:58:06,642 [32mINFO 2[0m
+2021-06-21 14:58:06,643 [32mINFO 开始循环[0m
+2021-06-21 14:58:25,889 [32mINFO 指令 实际风速21-30 配置成功！[0m
+2021-06-21 14:58:27,009 [32mINFO 获取总页数，循环在每页中查找： 实际风速21-30[0m
+2021-06-21 14:58:27,024 [32mINFO 总页数：[0m
+2021-06-21 14:58:27,025 [32mINFO 2[0m
+2021-06-21 14:58:27,025 [32mINFO 开始循环[0m
+2021-06-21 14:58:46,289 [32mINFO 指令 实际风速21-30 配置成功！[0m
+2021-06-21 14:58:47,362 [32mINFO 获取总页数，循环在每页中查找： 实际风速21-30[0m
+2021-06-21 14:58:47,373 [32mINFO 总页数：[0m
+2021-06-21 14:58:47,373 [32mINFO 2[0m
+2021-06-21 14:58:47,373 [32mINFO 开始循环[0m
+2021-06-21 14:59:06,582 [32mINFO 指令 实际风速21-30 配置成功！[0m
+2021-06-21 14:59:07,660 [32mINFO 获取总页数，循环在每页中查找： 实际风速21-30[0m
+2021-06-21 14:59:07,673 [32mINFO 总页数：[0m
+2021-06-21 14:59:07,673 [32mINFO 2[0m
+2021-06-21 14:59:07,673 [32mINFO 开始循环[0m
+2021-06-21 14:59:26,981 [32mINFO 指令 实际风速21-30 配置成功！[0m
+2021-06-21 14:59:28,073 [32mINFO 获取总页数，循环在每页中查找： 实际风速31-40[0m
+2021-06-21 14:59:28,085 [32mINFO 总页数：[0m
+2021-06-21 14:59:28,085 [32mINFO 2[0m
+2021-06-21 14:59:28,085 [32mINFO 开始循环[0m
+2021-06-21 14:59:52,801 [32mINFO 指令 实际风速31-40 配置成功！[0m
+2021-06-21 14:59:53,873 [32mINFO 获取总页数，循环在每页中查找： 实际风速31-40[0m
+2021-06-21 14:59:53,892 [32mINFO 总页数：[0m
+2021-06-21 14:59:53,892 [32mINFO 2[0m
+2021-06-21 14:59:53,892 [32mINFO 开始循环[0m
+2021-06-21 15:00:18,475 [32mINFO 指令 实际风速31-40 配置成功！[0m
+2021-06-21 15:00:19,556 [32mINFO 获取总页数，循环在每页中查找： 实际风速31-40[0m
+2021-06-21 15:00:19,569 [32mINFO 总页数：[0m
+2021-06-21 15:00:19,569 [32mINFO 2[0m
+2021-06-21 15:00:19,570 [32mINFO 开始循环[0m
+2021-06-21 15:00:44,114 [32mINFO 指令 实际风速31-40 配置成功！[0m
+2021-06-21 15:00:45,177 [32mINFO 获取总页数，循环在每页中查找： 实际风速31-40[0m
+2021-06-21 15:00:45,190 [32mINFO 总页数：[0m
+2021-06-21 15:00:45,190 [32mINFO 2[0m
+2021-06-21 15:00:45,190 [32mINFO 开始循环[0m
+2021-06-21 15:01:09,552 [32mINFO 指令 实际风速31-40 配置成功！[0m
+2021-06-21 15:01:10,609 [32mINFO 获取总页数，循环在每页中查找： 实际风速31-40[0m
+2021-06-21 15:01:10,627 [32mINFO 总页数：[0m
+2021-06-21 15:01:10,627 [32mINFO 2[0m
+2021-06-21 15:01:10,627 [32mINFO 开始循环[0m
+2021-06-21 15:01:35,185 [32mINFO 指令 实际风速31-40 配置成功！[0m
+2021-06-21 15:01:36,305 [32mINFO 获取总页数，循环在每页中查找： 实际风速31-40[0m
+2021-06-21 15:01:36,322 [32mINFO 总页数：[0m
+2021-06-21 15:01:36,322 [32mINFO 2[0m
+2021-06-21 15:01:36,322 [32mINFO 开始循环[0m
+2021-06-21 15:02:00,872 [32mINFO 指令 实际风速31-40 配置成功！[0m
+2021-06-21 15:02:01,926 [32mINFO 获取总页数，循环在每页中查找： 实际风速31-40[0m
+2021-06-21 15:02:01,938 [32mINFO 总页数：[0m
+2021-06-21 15:02:01,938 [32mINFO 2[0m
+2021-06-21 15:02:01,938 [32mINFO 开始循环[0m
+2021-06-21 15:02:26,407 [32mINFO 指令 实际风速31-40 配置成功！[0m
+2021-06-21 15:02:27,464 [32mINFO 获取总页数，循环在每页中查找： 实际风速31-40[0m
+2021-06-21 15:02:27,472 [32mINFO 总页数：[0m
+2021-06-21 15:02:27,472 [32mINFO 2[0m
+2021-06-21 15:02:27,472 [32mINFO 开始循环[0m
+2021-06-21 15:02:51,786 [32mINFO 指令 实际风速31-40 配置成功！[0m
+2021-06-21 15:02:52,862 [32mINFO 获取总页数，循环在每页中查找： 实际风速31-40[0m
+2021-06-21 15:02:52,875 [32mINFO 总页数：[0m
+2021-06-21 15:02:52,875 [32mINFO 2[0m
+2021-06-21 15:02:52,875 [32mINFO 开始循环[0m
+2021-06-21 15:03:17,395 [32mINFO 指令 实际风速31-40 配置成功！[0m
+2021-06-21 15:03:18,497 [32mINFO 获取总页数，循环在每页中查找： 实际风速31-40[0m
+2021-06-21 15:03:18,515 [32mINFO 总页数：[0m
+2021-06-21 15:03:18,515 [32mINFO 2[0m
+2021-06-21 15:03:18,515 [32mINFO 开始循环[0m
+2021-06-21 15:03:43,095 [32mINFO 指令 实际风速31-40 配置成功！[0m
+2021-06-21 15:03:44,166 [32mINFO 获取总页数，循环在每页中查找： 实际风速41-50[0m
+2021-06-21 15:03:44,180 [32mINFO 总页数：[0m
+2021-06-21 15:03:44,180 [32mINFO 2[0m
+2021-06-21 15:03:44,181 [32mINFO 开始循环[0m
+2021-06-21 15:04:08,719 [32mINFO 指令 实际风速41-50 配置成功！[0m
+2021-06-21 15:04:09,780 [32mINFO 获取总页数，循环在每页中查找： 实际风速41-50[0m
+2021-06-21 15:04:09,790 [32mINFO 总页数：[0m
+2021-06-21 15:04:09,791 [32mINFO 2[0m
+2021-06-21 15:04:09,791 [32mINFO 开始循环[0m
+2021-06-21 15:04:34,191 [32mINFO 指令 实际风速41-50 配置成功！[0m
+2021-06-21 15:04:35,182 [32mINFO 获取总页数，循环在每页中查找： 实际风速41-50[0m
+2021-06-21 15:04:35,193 [32mINFO 总页数：[0m
+2021-06-21 15:04:35,193 [32mINFO 2[0m
+2021-06-21 15:04:35,193 [32mINFO 开始循环[0m
+2021-06-21 15:04:59,687 [32mINFO 指令 实际风速41-50 配置成功！[0m
+2021-06-21 15:05:00,809 [32mINFO 获取总页数，循环在每页中查找： 实际风速41-50[0m
+2021-06-21 15:05:00,827 [32mINFO 总页数：[0m
+2021-06-21 15:05:00,827 [32mINFO 2[0m
+2021-06-21 15:05:00,827 [32mINFO 开始循环[0m
+2021-06-21 15:05:25,374 [32mINFO 指令 实际风速41-50 配置成功！[0m
+2021-06-21 15:05:26,455 [32mINFO 获取总页数，循环在每页中查找： 实际风速41-50[0m
+2021-06-21 15:05:26,465 [32mINFO 总页数：[0m
+2021-06-21 15:05:26,465 [32mINFO 2[0m
+2021-06-21 15:05:26,466 [32mINFO 开始循环[0m
+2021-06-21 15:05:50,874 [32mINFO 指令 实际风速41-50 配置成功！[0m
+2021-06-21 15:05:51,903 [32mINFO 获取总页数，循环在每页中查找： 实际风速41-50[0m
+2021-06-21 15:05:51,916 [32mINFO 总页数：[0m
+2021-06-21 15:05:51,916 [32mINFO 2[0m
+2021-06-21 15:05:51,916 [32mINFO 开始循环[0m
+2021-06-21 15:06:15,886 [32mINFO 指令 实际风速41-50 配置成功！[0m
+2021-06-21 15:06:16,969 [32mINFO 获取总页数，循环在每页中查找： 实际风速41-50[0m
+2021-06-21 15:06:16,981 [32mINFO 总页数：[0m
+2021-06-21 15:06:16,981 [32mINFO 2[0m
+2021-06-21 15:06:16,981 [32mINFO 开始循环[0m
+2021-06-21 15:06:41,417 [32mINFO 指令 实际风速41-50 配置成功！[0m
+2021-06-21 15:06:42,508 [32mINFO 获取总页数，循环在每页中查找： 实际风速41-50[0m
+2021-06-21 15:06:42,525 [32mINFO 总页数：[0m
+2021-06-21 15:06:42,525 [32mINFO 2[0m
+2021-06-21 15:06:42,525 [32mINFO 开始循环[0m
+2021-06-21 15:07:06,951 [32mINFO 指令 实际风速41-50 配置成功！[0m
+2021-06-21 15:07:08,021 [32mINFO 获取总页数，循环在每页中查找： 实际风速41-50[0m
+2021-06-21 15:07:08,031 [32mINFO 总页数：[0m
+2021-06-21 15:07:08,031 [32mINFO 2[0m
+2021-06-21 15:07:08,031 [32mINFO 开始循环[0m
+2021-06-21 15:07:32,515 [32mINFO 指令 实际风速41-50 配置成功！[0m
+2021-06-21 15:07:33,587 [32mINFO 获取总页数，循环在每页中查找： 实际风速41-50[0m
+2021-06-21 15:07:33,601 [32mINFO 总页数：[0m
+2021-06-21 15:07:33,601 [32mINFO 2[0m
+2021-06-21 15:07:33,602 [32mINFO 开始循环[0m
+2021-06-21 15:07:58,136 [32mINFO 指令 实际风速41-50 配置成功！[0m
+2021-06-21 15:07:59,273 [32mINFO 获取总页数，循环在每页中查找： 实际风速51-60[0m
+2021-06-21 15:07:59,287 [32mINFO 总页数：[0m
+2021-06-21 15:07:59,287 [32mINFO 2[0m
+2021-06-21 15:07:59,287 [32mINFO 开始循环[0m
+2021-06-21 15:08:23,890 [32mINFO 指令 实际风速51-60 配置成功！[0m
+2021-06-21 15:08:24,913 [32mINFO 获取总页数，循环在每页中查找： 实际风速51-60[0m
+2021-06-21 15:08:24,925 [32mINFO 总页数：[0m
+2021-06-21 15:08:24,925 [32mINFO 2[0m
+2021-06-21 15:08:24,925 [32mINFO 开始循环[0m
+2021-06-21 15:08:49,426 [32mINFO 指令 实际风速51-60 配置成功！[0m
+2021-06-21 15:08:50,492 [32mINFO 获取总页数，循环在每页中查找： 实际风速51-60[0m
+2021-06-21 15:08:50,506 [32mINFO 总页数：[0m
+2021-06-21 15:08:50,506 [32mINFO 2[0m
+2021-06-21 15:08:50,506 [32mINFO 开始循环[0m
+2021-06-21 15:09:15,062 [32mINFO 指令 实际风速51-60 配置成功！[0m
+2021-06-21 15:09:16,164 [32mINFO 获取总页数，循环在每页中查找： 实际风速51-60[0m
+2021-06-21 15:09:16,182 [32mINFO 总页数：[0m
+2021-06-21 15:09:16,182 [32mINFO 2[0m
+2021-06-21 15:09:16,182 [32mINFO 开始循环[0m
+2021-06-21 15:09:40,616 [32mINFO 指令 实际风速51-60 配置成功！[0m
+2021-06-21 15:09:41,657 [32mINFO 获取总页数，循环在每页中查找： 实际风速51-60[0m
+2021-06-21 15:09:41,669 [32mINFO 总页数：[0m
+2021-06-21 15:09:41,669 [32mINFO 2[0m
+2021-06-21 15:09:41,669 [32mINFO 开始循环[0m
+2021-06-21 15:10:06,166 [32mINFO 指令 实际风速51-60 配置成功！[0m
+2021-06-21 15:10:07,249 [32mINFO 获取总页数，循环在每页中查找： 实际风速51-60[0m
+2021-06-21 15:10:07,259 [32mINFO 总页数：[0m
+2021-06-21 15:10:07,259 [32mINFO 2[0m
+2021-06-21 15:10:07,259 [32mINFO 开始循环[0m
+2021-06-21 15:10:31,743 [32mINFO 指令 实际风速51-60 配置成功！[0m
+2021-06-21 15:10:32,838 [32mINFO 获取总页数，循环在每页中查找： 实际风速51-60[0m
+2021-06-21 15:10:32,854 [32mINFO 总页数：[0m
+2021-06-21 15:10:32,854 [32mINFO 2[0m
+2021-06-21 15:10:32,854 [32mINFO 开始循环[0m
+2021-06-21 15:10:57,276 [32mINFO 指令 实际风速51-60 配置成功！[0m
+2021-06-21 15:10:58,363 [32mINFO 获取总页数，循环在每页中查找： 实际风速51-60[0m
+2021-06-21 15:10:58,380 [32mINFO 总页数：[0m
+2021-06-21 15:10:58,380 [32mINFO 2[0m
+2021-06-21 15:10:58,380 [32mINFO 开始循环[0m
+2021-06-21 15:11:22,933 [32mINFO 指令 实际风速51-60 配置成功！[0m
+2021-06-21 15:11:23,954 [32mINFO 获取总页数，循环在每页中查找： 实际风速51-60[0m
+2021-06-21 15:11:23,966 [32mINFO 总页数：[0m
+2021-06-21 15:11:23,966 [32mINFO 2[0m
+2021-06-21 15:11:23,966 [32mINFO 开始循环[0m
+2021-06-21 15:11:48,623 [32mINFO 指令 实际风速51-60 配置成功！[0m
+2021-06-21 15:11:49,711 [32mINFO 获取总页数，循环在每页中查找： 实际风速51-60[0m
+2021-06-21 15:11:49,724 [32mINFO 总页数：[0m
+2021-06-21 15:11:49,724 [32mINFO 2[0m
+2021-06-21 15:11:49,724 [32mINFO 开始循环[0m
+2021-06-21 15:12:14,139 [32mINFO 指令 实际风速51-60 配置成功！[0m
+2021-06-21 15:12:15,202 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态01-10[0m
+2021-06-21 15:12:15,215 [32mINFO 总页数：[0m
+2021-06-21 15:12:15,215 [32mINFO 2[0m
+2021-06-21 15:12:15,216 [32mINFO 开始循环[0m
+2021-06-21 15:12:39,963 [32mINFO 指令 风机通讯状态01-10 配置成功！[0m
+2021-06-21 15:12:41,047 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态01-10[0m
+2021-06-21 15:12:41,063 [32mINFO 总页数：[0m
+2021-06-21 15:12:41,063 [32mINFO 2[0m
+2021-06-21 15:12:41,063 [32mINFO 开始循环[0m
+2021-06-21 15:13:05,491 [32mINFO 指令 风机通讯状态01-10 配置成功！[0m
+2021-06-21 15:13:06,562 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态01-10[0m
+2021-06-21 15:13:06,574 [32mINFO 总页数：[0m
+2021-06-21 15:13:06,574 [32mINFO 2[0m
+2021-06-21 15:13:06,575 [32mINFO 开始循环[0m
+2021-06-21 15:13:31,163 [32mINFO 指令 风机通讯状态01-10 配置成功！[0m
+2021-06-21 15:13:32,305 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态01-10[0m
+2021-06-21 15:13:32,319 [32mINFO 总页数：[0m
+2021-06-21 15:13:32,319 [32mINFO 2[0m
+2021-06-21 15:13:32,319 [32mINFO 开始循环[0m
+2021-06-21 15:13:56,765 [32mINFO 指令 风机通讯状态01-10 配置成功！[0m
+2021-06-21 15:13:57,776 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态01-10[0m
+2021-06-21 15:13:57,788 [32mINFO 总页数：[0m
+2021-06-21 15:13:57,788 [32mINFO 2[0m
+2021-06-21 15:13:57,788 [32mINFO 开始循环[0m
+2021-06-21 15:14:22,104 [32mINFO 指令 风机通讯状态01-10 配置成功！[0m
+2021-06-21 15:14:23,155 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态01-10[0m
+2021-06-21 15:14:23,168 [32mINFO 总页数：[0m
+2021-06-21 15:14:23,168 [32mINFO 2[0m
+2021-06-21 15:14:23,168 [32mINFO 开始循环[0m
+2021-06-21 15:14:47,628 [32mINFO 指令 风机通讯状态01-10 配置成功！[0m
+2021-06-21 15:14:48,736 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态01-10[0m
+2021-06-21 15:14:48,751 [32mINFO 总页数：[0m
+2021-06-21 15:14:48,751 [32mINFO 2[0m
+2021-06-21 15:14:48,751 [32mINFO 开始循环[0m
+2021-06-21 15:15:13,334 [32mINFO 指令 风机通讯状态01-10 配置成功！[0m
+2021-06-21 15:15:14,400 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态01-10[0m
+2021-06-21 15:15:14,414 [32mINFO 总页数：[0m
+2021-06-21 15:15:14,414 [32mINFO 2[0m
+2021-06-21 15:15:14,414 [32mINFO 开始循环[0m
+2021-06-21 15:15:38,725 [32mINFO 指令 风机通讯状态01-10 配置成功！[0m
+2021-06-21 15:15:39,804 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态01-10[0m
+2021-06-21 15:15:39,815 [32mINFO 总页数：[0m
+2021-06-21 15:15:39,815 [32mINFO 2[0m
+2021-06-21 15:15:39,815 [32mINFO 开始循环[0m
+2021-06-21 15:16:04,288 [32mINFO 指令 风机通讯状态01-10 配置成功！[0m
+2021-06-21 15:16:05,366 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态01-10[0m
+2021-06-21 15:16:05,378 [32mINFO 总页数：[0m
+2021-06-21 15:16:05,379 [32mINFO 2[0m
+2021-06-21 15:16:05,379 [32mINFO 开始循环[0m
+2021-06-21 15:16:29,976 [32mINFO 指令 风机通讯状态01-10 配置成功！[0m
+2021-06-21 15:16:31,111 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态11-20[0m
+2021-06-21 15:16:31,128 [32mINFO 总页数：[0m
+2021-06-21 15:16:31,128 [32mINFO 2[0m
+2021-06-21 15:16:31,128 [32mINFO 开始循环[0m
+2021-06-21 15:16:55,695 [32mINFO 指令 风机通讯状态11-20 配置成功！[0m
+2021-06-21 15:16:56,745 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态11-20[0m
+2021-06-21 15:16:56,759 [32mINFO 总页数：[0m
+2021-06-21 15:16:56,759 [32mINFO 2[0m
+2021-06-21 15:16:56,759 [32mINFO 开始循环[0m
+2021-06-21 15:17:21,221 [32mINFO 指令 风机通讯状态11-20 配置成功！[0m
+2021-06-21 15:17:22,353 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态11-20[0m
+2021-06-21 15:17:22,367 [32mINFO 总页数：[0m
+2021-06-21 15:17:22,367 [32mINFO 2[0m
+2021-06-21 15:17:22,367 [32mINFO 开始循环[0m
+2021-06-21 15:17:46,909 [32mINFO 指令 风机通讯状态11-20 配置成功！[0m
+2021-06-21 15:17:47,985 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态11-20[0m
+2021-06-21 15:17:47,998 [32mINFO 总页数：[0m
+2021-06-21 15:17:47,998 [32mINFO 2[0m
+2021-06-21 15:17:47,998 [32mINFO 开始循环[0m
+2021-06-21 15:18:12,491 [32mINFO 指令 风机通讯状态11-20 配置成功！[0m
+2021-06-21 15:18:13,582 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态11-20[0m
+2021-06-21 15:18:13,592 [32mINFO 总页数：[0m
+2021-06-21 15:18:13,592 [32mINFO 2[0m
+2021-06-21 15:18:13,592 [32mINFO 开始循环[0m
+2021-06-21 15:18:38,094 [32mINFO 指令 风机通讯状态11-20 配置成功！[0m
+2021-06-21 15:18:39,186 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态11-20[0m
+2021-06-21 15:18:39,202 [32mINFO 总页数：[0m
+2021-06-21 15:18:39,203 [32mINFO 2[0m
+2021-06-21 15:18:39,203 [32mINFO 开始循环[0m
+2021-06-21 15:19:03,660 [32mINFO 指令 风机通讯状态11-20 配置成功！[0m
+2021-06-21 15:19:04,738 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态11-20[0m
+2021-06-21 15:19:04,748 [32mINFO 总页数：[0m
+2021-06-21 15:19:04,748 [32mINFO 2[0m
+2021-06-21 15:19:04,748 [32mINFO 开始循环[0m
+2021-06-21 15:19:29,252 [32mINFO 指令 风机通讯状态11-20 配置成功！[0m
+2021-06-21 15:19:30,369 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态11-20[0m
+2021-06-21 15:19:30,370 [32mINFO 总页数：[0m
+2021-06-21 15:19:30,370 [32mINFO 2[0m
+2021-06-21 15:19:30,370 [32mINFO 开始循环[0m
+2021-06-21 15:19:54,935 [32mINFO 指令 风机通讯状态11-20 配置成功！[0m
+2021-06-21 15:19:56,018 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态11-20[0m
+2021-06-21 15:19:56,030 [32mINFO 总页数：[0m
+2021-06-21 15:19:56,030 [32mINFO 2[0m
+2021-06-21 15:19:56,030 [32mINFO 开始循环[0m
+2021-06-21 15:20:20,428 [32mINFO 指令 风机通讯状态11-20 配置成功！[0m
+2021-06-21 15:20:21,588 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态11-20[0m
+2021-06-21 15:20:21,599 [32mINFO 总页数：[0m
+2021-06-21 15:20:21,600 [32mINFO 2[0m
+2021-06-21 15:20:21,600 [32mINFO 开始循环[0m
+2021-06-21 15:20:46,049 [32mINFO 指令 风机通讯状态11-20 配置成功！[0m
+2021-06-21 15:20:47,119 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态21-30[0m
+2021-06-21 15:20:47,130 [32mINFO 总页数：[0m
+2021-06-21 15:20:47,131 [32mINFO 2[0m
+2021-06-21 15:20:47,131 [32mINFO 开始循环[0m
+2021-06-21 15:21:11,552 [32mINFO 指令 风机通讯状态21-30 配置成功！[0m
+2021-06-21 15:21:12,630 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态21-30[0m
+2021-06-21 15:21:12,642 [32mINFO 总页数：[0m
+2021-06-21 15:21:12,642 [32mINFO 2[0m
+2021-06-21 15:21:12,642 [32mINFO 开始循环[0m
+2021-06-21 15:21:37,154 [32mINFO 指令 风机通讯状态21-30 配置成功！[0m
+2021-06-21 15:21:38,275 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态21-30[0m
+2021-06-21 15:21:38,289 [32mINFO 总页数：[0m
+2021-06-21 15:21:38,289 [32mINFO 2[0m
+2021-06-21 15:21:38,290 [32mINFO 开始循环[0m
+2021-06-21 15:22:02,784 [32mINFO 指令 风机通讯状态21-30 配置成功！[0m
+2021-06-21 15:22:03,861 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态21-30[0m
+2021-06-21 15:22:03,872 [32mINFO 总页数：[0m
+2021-06-21 15:22:03,872 [32mINFO 2[0m
+2021-06-21 15:22:03,872 [32mINFO 开始循环[0m
+2021-06-21 15:22:28,323 [32mINFO 指令 风机通讯状态21-30 配置成功！[0m
+2021-06-21 15:22:29,407 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态21-30[0m
+2021-06-21 15:22:29,419 [32mINFO 总页数：[0m
+2021-06-21 15:22:29,419 [32mINFO 2[0m
+2021-06-21 15:22:29,419 [32mINFO 开始循环[0m
+2021-06-21 15:22:53,893 [32mINFO 指令 风机通讯状态21-30 配置成功！[0m
+2021-06-21 15:22:54,966 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态21-30[0m
+2021-06-21 15:22:54,981 [32mINFO 总页数：[0m
+2021-06-21 15:22:54,982 [32mINFO 2[0m
+2021-06-21 15:22:54,982 [32mINFO 开始循环[0m
+2021-06-21 15:23:19,626 [32mINFO 指令 风机通讯状态21-30 配置成功！[0m
+2021-06-21 15:23:20,696 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态21-30[0m
+2021-06-21 15:23:20,709 [32mINFO 总页数：[0m
+2021-06-21 15:23:20,709 [32mINFO 2[0m
+2021-06-21 15:23:20,709 [32mINFO 开始循环[0m
+2021-06-21 15:23:45,147 [32mINFO 指令 风机通讯状态21-30 配置成功！[0m
+2021-06-21 15:23:46,206 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态21-30[0m
+2021-06-21 15:23:46,216 [32mINFO 总页数：[0m
+2021-06-21 15:23:46,216 [32mINFO 2[0m
+2021-06-21 15:23:46,216 [32mINFO 开始循环[0m
+2021-06-21 15:24:10,626 [32mINFO 指令 风机通讯状态21-30 配置成功！[0m
+2021-06-21 15:24:11,699 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态21-30[0m
+2021-06-21 15:24:11,708 [32mINFO 总页数：[0m
+2021-06-21 15:24:11,708 [32mINFO 2[0m
+2021-06-21 15:24:11,708 [32mINFO 开始循环[0m
+2021-06-21 15:24:36,058 [32mINFO 指令 风机通讯状态21-30 配置成功！[0m
+2021-06-21 15:24:37,179 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态21-30[0m
+2021-06-21 15:24:37,197 [32mINFO 总页数：[0m
+2021-06-21 15:24:37,198 [32mINFO 2[0m
+2021-06-21 15:24:37,198 [32mINFO 开始循环[0m
+2021-06-21 15:25:01,868 [32mINFO 指令 风机通讯状态21-30 配置成功！[0m
+2021-06-21 15:25:02,913 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态31-40[0m
+2021-06-21 15:25:02,925 [32mINFO 总页数：[0m
+2021-06-21 15:25:02,925 [32mINFO 2[0m
+2021-06-21 15:25:02,925 [32mINFO 开始循环[0m
+2021-06-21 15:25:27,532 [32mINFO 指令 风机通讯状态31-40 配置成功！[0m
+2021-06-21 15:25:28,619 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态31-40[0m
+2021-06-21 15:25:28,629 [32mINFO 总页数：[0m
+2021-06-21 15:25:28,629 [32mINFO 2[0m
+2021-06-21 15:25:28,629 [32mINFO 开始循环[0m
+2021-06-21 15:25:53,096 [32mINFO 指令 风机通讯状态31-40 配置成功！[0m
+2021-06-21 15:25:54,200 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态31-40[0m
+2021-06-21 15:25:54,215 [32mINFO 总页数：[0m
+2021-06-21 15:25:54,215 [32mINFO 2[0m
+2021-06-21 15:25:54,215 [32mINFO 开始循环[0m
+2021-06-21 15:26:18,790 [32mINFO 指令 风机通讯状态31-40 配置成功！[0m
+2021-06-21 15:26:19,877 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态31-40[0m
+2021-06-21 15:26:19,890 [32mINFO 总页数：[0m
+2021-06-21 15:26:19,890 [32mINFO 2[0m
+2021-06-21 15:26:19,891 [32mINFO 开始循环[0m
+2021-06-21 15:26:44,394 [32mINFO 指令 风机通讯状态31-40 配置成功！[0m
+2021-06-21 15:26:45,434 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态31-40[0m
+2021-06-21 15:26:45,446 [32mINFO 总页数：[0m
+2021-06-21 15:26:45,446 [32mINFO 2[0m
+2021-06-21 15:26:45,446 [32mINFO 开始循环[0m
+2021-06-21 15:27:09,916 [32mINFO 指令 风机通讯状态31-40 配置成功！[0m
+2021-06-21 15:27:10,996 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态31-40[0m
+2021-06-21 15:27:11,008 [32mINFO 总页数：[0m
+2021-06-21 15:27:11,008 [32mINFO 2[0m
+2021-06-21 15:27:11,008 [32mINFO 开始循环[0m
+2021-06-21 15:27:35,716 [32mINFO 指令 风机通讯状态31-40 配置成功！[0m
+2021-06-21 15:27:36,784 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态31-40[0m
+2021-06-21 15:27:36,803 [32mINFO 总页数：[0m
+2021-06-21 15:27:36,803 [32mINFO 2[0m
+2021-06-21 15:27:36,803 [32mINFO 开始循环[0m
+2021-06-21 15:28:01,472 [32mINFO 指令 风机通讯状态31-40 配置成功！[0m
+2021-06-21 15:28:02,539 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态31-40[0m
+2021-06-21 15:28:02,551 [32mINFO 总页数：[0m
+2021-06-21 15:28:02,551 [32mINFO 2[0m
+2021-06-21 15:28:02,551 [32mINFO 开始循环[0m
+2021-06-21 15:28:26,855 [32mINFO 指令 风机通讯状态31-40 配置成功！[0m
+2021-06-21 15:28:27,938 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态31-40[0m
+2021-06-21 15:28:27,951 [32mINFO 总页数：[0m
+2021-06-21 15:28:27,951 [32mINFO 2[0m
+2021-06-21 15:28:27,952 [32mINFO 开始循环[0m
+2021-06-21 15:28:52,397 [32mINFO 指令 风机通讯状态31-40 配置成功！[0m
+2021-06-21 15:28:53,461 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态31-40[0m
+2021-06-21 15:28:53,475 [32mINFO 总页数：[0m
+2021-06-21 15:28:53,475 [32mINFO 2[0m
+2021-06-21 15:28:53,475 [32mINFO 开始循环[0m
+2021-06-21 15:29:17,955 [32mINFO 指令 风机通讯状态31-40 配置成功！[0m
+2021-06-21 15:29:19,028 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态41-50[0m
+2021-06-21 15:29:19,040 [32mINFO 总页数：[0m
+2021-06-21 15:29:19,040 [32mINFO 2[0m
+2021-06-21 15:29:19,040 [32mINFO 开始循环[0m
+2021-06-21 15:29:43,445 [32mINFO 指令 风机通讯状态41-50 配置成功！[0m
+2021-06-21 15:29:44,566 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态41-50[0m
+2021-06-21 15:29:44,586 [32mINFO 总页数：[0m
+2021-06-21 15:29:44,586 [32mINFO 2[0m
+2021-06-21 15:29:44,586 [32mINFO 开始循环[0m
+2021-06-21 15:30:09,137 [32mINFO 指令 风机通讯状态41-50 配置成功！[0m
+2021-06-21 15:30:10,196 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态41-50[0m
+2021-06-21 15:30:10,207 [32mINFO 总页数：[0m
+2021-06-21 15:30:10,207 [32mINFO 2[0m
+2021-06-21 15:30:10,207 [32mINFO 开始循环[0m
+2021-06-21 15:30:34,711 [32mINFO 指令 风机通讯状态41-50 配置成功！[0m
+2021-06-21 15:30:35,791 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态41-50[0m
+2021-06-21 15:30:35,802 [32mINFO 总页数：[0m
+2021-06-21 15:30:35,803 [32mINFO 2[0m
+2021-06-21 15:30:35,803 [32mINFO 开始循环[0m
+2021-06-21 15:31:00,313 [32mINFO 指令 风机通讯状态41-50 配置成功！[0m
+2021-06-21 15:31:01,431 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态41-50[0m
+2021-06-21 15:31:01,446 [32mINFO 总页数：[0m
+2021-06-21 15:31:01,446 [32mINFO 2[0m
+2021-06-21 15:31:01,446 [32mINFO 开始循环[0m
+2021-06-21 15:31:26,063 [32mINFO 指令 风机通讯状态41-50 配置成功！[0m
+2021-06-21 15:31:27,106 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态41-50[0m
+2021-06-21 15:31:27,117 [32mINFO 总页数：[0m
+2021-06-21 15:31:27,117 [32mINFO 2[0m
+2021-06-21 15:31:27,117 [32mINFO 开始循环[0m
+2021-06-21 15:31:51,672 [32mINFO 指令 风机通讯状态41-50 配置成功！[0m
+2021-06-21 15:31:52,751 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态41-50[0m
+2021-06-21 15:31:52,761 [32mINFO 总页数：[0m
+2021-06-21 15:31:52,761 [32mINFO 2[0m
+2021-06-21 15:31:52,761 [32mINFO 开始循环[0m
+2021-06-21 15:32:17,377 [32mINFO 指令 风机通讯状态41-50 配置成功！[0m
+2021-06-21 15:32:18,420 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态41-50[0m
+2021-06-21 15:32:18,431 [32mINFO 总页数：[0m
+2021-06-21 15:32:18,431 [32mINFO 2[0m
+2021-06-21 15:32:18,431 [32mINFO 开始循环[0m
+2021-06-21 15:32:43,060 [32mINFO 指令 风机通讯状态41-50 配置成功！[0m
+2021-06-21 15:32:44,142 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态41-50[0m
+2021-06-21 15:32:44,166 [32mINFO 总页数：[0m
+2021-06-21 15:32:44,166 [32mINFO 2[0m
+2021-06-21 15:32:44,166 [32mINFO 开始循环[0m
+2021-06-21 15:33:08,696 [32mINFO 指令 风机通讯状态41-50 配置成功！[0m
+2021-06-21 15:33:09,777 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态41-50[0m
+2021-06-21 15:33:09,787 [32mINFO 总页数：[0m
+2021-06-21 15:33:09,787 [32mINFO 2[0m
+2021-06-21 15:33:09,788 [32mINFO 开始循环[0m
+2021-06-21 15:33:34,201 [32mINFO 指令 风机通讯状态41-50 配置成功！[0m
+2021-06-21 15:33:35,191 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态51-60[0m
+2021-06-21 15:33:35,201 [32mINFO 总页数：[0m
+2021-06-21 15:33:35,201 [32mINFO 2[0m
+2021-06-21 15:33:35,202 [32mINFO 开始循环[0m
+2021-06-21 15:33:59,603 [32mINFO 指令 风机通讯状态51-60 配置成功！[0m
+2021-06-21 15:34:00,661 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态51-60[0m
+2021-06-21 15:34:00,671 [32mINFO 总页数：[0m
+2021-06-21 15:34:00,671 [32mINFO 2[0m
+2021-06-21 15:34:00,671 [32mINFO 开始循环[0m
+2021-06-21 15:34:25,110 [32mINFO 指令 风机通讯状态51-60 配置成功！[0m
+2021-06-21 15:34:26,195 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态51-60[0m
+2021-06-21 15:34:26,212 [32mINFO 总页数：[0m
+2021-06-21 15:34:26,212 [32mINFO 2[0m
+2021-06-21 15:34:26,213 [32mINFO 开始循环[0m
+2021-06-21 15:34:50,729 [32mINFO 指令 风机通讯状态51-60 配置成功！[0m
+2021-06-21 15:34:51,805 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态51-60[0m
+2021-06-21 15:34:51,816 [32mINFO 总页数：[0m
+2021-06-21 15:34:51,816 [32mINFO 2[0m
+2021-06-21 15:34:51,816 [32mINFO 开始循环[0m
+2021-06-21 15:35:16,345 [32mINFO 指令 风机通讯状态51-60 配置成功！[0m
+2021-06-21 15:35:17,398 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态51-60[0m
+2021-06-21 15:35:17,412 [32mINFO 总页数：[0m
+2021-06-21 15:35:17,412 [32mINFO 2[0m
+2021-06-21 15:35:17,412 [32mINFO 开始循环[0m
+2021-06-21 15:35:41,942 [32mINFO 指令 风机通讯状态51-60 配置成功！[0m
+2021-06-21 15:35:43,022 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态51-60[0m
+2021-06-21 15:35:43,041 [32mINFO 总页数：[0m
+2021-06-21 15:35:43,041 [32mINFO 2[0m
+2021-06-21 15:35:43,041 [32mINFO 开始循环[0m
+2021-06-21 15:36:07,723 [32mINFO 指令 风机通讯状态51-60 配置成功！[0m
+2021-06-21 15:36:08,814 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态51-60[0m
+2021-06-21 15:36:08,825 [32mINFO 总页数：[0m
+2021-06-21 15:36:08,825 [32mINFO 2[0m
+2021-06-21 15:36:08,825 [32mINFO 开始循环[0m
+2021-06-21 15:36:33,425 [32mINFO 指令 风机通讯状态51-60 配置成功！[0m
+2021-06-21 15:36:34,503 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态51-60[0m
+2021-06-21 15:36:34,519 [32mINFO 总页数：[0m
+2021-06-21 15:36:34,519 [32mINFO 2[0m
+2021-06-21 15:36:34,519 [32mINFO 开始循环[0m
+2021-06-21 15:36:59,058 [32mINFO 指令 风机通讯状态51-60 配置成功！[0m
+2021-06-21 15:37:00,129 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态51-60[0m
+2021-06-21 15:37:00,142 [32mINFO 总页数：[0m
+2021-06-21 15:37:00,142 [32mINFO 2[0m
+2021-06-21 15:37:00,142 [32mINFO 开始循环[0m
+2021-06-21 15:37:24,595 [32mINFO 指令 风机通讯状态51-60 配置成功！[0m
+2021-06-21 15:37:25,659 [32mINFO 获取总页数，循环在每页中查找： 风机通讯状态51-60[0m
+2021-06-21 15:37:25,670 [32mINFO 总页数：[0m
+2021-06-21 15:37:25,670 [32mINFO 2[0m
+2021-06-21 15:37:25,670 [32mINFO 开始循环[0m
+2021-06-21 15:37:50,185 [32mINFO 指令 风机通讯状态51-60 配置成功！[0m
+2021-06-21 15:37:50,185 [32mINFO 打开URL: http://10.110.1.188/gateway/[0m
+2021-06-21 15:37:54,924 [32mINFO 网关管理系统登录成功[0m
+2021-06-21 15:37:54,948 [32mINFO 进入数采： 测试网关01数采[0m
+2021-06-21 15:38:01,026 [32mINFO 进入数采OK[0m
+2021-06-21 15:38:01,026 [32mINFO 开始配置设备 1楼超精区FFU群控01区域 的数采[0m
+2021-06-21 15:38:08,240 [32mINFO 选择接口名称为： [0m
+2021-06-21 15:38:08,307 [32mINFO 协议名称添加OK[0m
+2021-06-21 15:38:09,532 [32mINFO 选择接口名称为：RS485 CH1 [0m
+2021-06-21 15:38:09,532 [32mINFO 硬件接口添加OK[0m
+2021-06-21 15:38:11,726 [32mINFO 关闭添加逻辑设备页面，继续添加下一个[0m
+2021-06-21 15:38:11,928 [32mINFO 逻辑设备 1楼超精区FFU群控01区域 数采配置成功！[0m
+2021-06-21 15:38:11,929 [32mINFO 开始配置设备 1楼超精区FFU群控02区域 的数采[0m
+2021-06-21 15:38:18,862 [32mINFO 选择接口名称为： [0m
+2021-06-21 15:38:18,929 [32mINFO 协议名称添加OK[0m
+2021-06-21 15:38:20,181 [32mINFO 选择接口名称为：RS485 CH1 [0m
+2021-06-21 15:38:20,181 [32mINFO 硬件接口添加OK[0m
+2021-06-21 15:38:22,335 [32mINFO 关闭添加逻辑设备页面，继续添加下一个[0m
+2021-06-21 15:38:22,545 [32mINFO 逻辑设备 1楼超精区FFU群控02区域 数采配置成功！[0m
+2021-06-21 15:38:22,545 [32mINFO 开始配置设备 1楼超精区FFU群控03区域 的数采[0m
+2021-06-21 15:38:29,407 [32mINFO 选择接口名称为： [0m
+2021-06-21 15:38:29,471 [32mINFO 协议名称添加OK[0m
+2021-06-21 15:38:30,662 [32mINFO 选择接口名称为：RS485 CH1 [0m
+2021-06-21 15:38:30,663 [32mINFO 硬件接口添加OK[0m
+2021-06-21 15:38:32,824 [32mINFO 关闭添加逻辑设备页面，继续添加下一个[0m
+2021-06-21 15:38:32,991 [32mINFO 逻辑设备 1楼超精区FFU群控03区域 数采配置成功！[0m
+2021-06-21 15:38:32,991 [32mINFO 开始配置设备 1楼超精区FFU群控04区域 的数采[0m
+2021-06-21 15:38:39,830 [32mINFO 选择接口名称为： [0m
+2021-06-21 15:38:39,894 [32mINFO 协议名称添加OK[0m
+2021-06-21 15:38:41,121 [32mINFO 选择接口名称为：RS485 CH1 [0m
+2021-06-21 15:38:41,121 [32mINFO 硬件接口添加OK[0m
+2021-06-21 15:38:43,273 [32mINFO 关闭添加逻辑设备页面，继续添加下一个[0m
+2021-06-21 15:38:43,444 [32mINFO 逻辑设备 1楼超精区FFU群控04区域 数采配置成功！[0m
+2021-06-21 15:38:43,444 [32mINFO 开始配置设备 1楼超精区FFU群控05区域 的数采[0m
+2021-06-21 15:38:50,305 [32mINFO 选择接口名称为： [0m
+2021-06-21 15:38:50,372 [32mINFO 协议名称添加OK[0m
+2021-06-21 15:38:51,574 [32mINFO 选择接口名称为：RS485 CH1 [0m
+2021-06-21 15:38:51,574 [32mINFO 硬件接口添加OK[0m
+2021-06-21 15:38:53,773 [32mINFO 关闭添加逻辑设备页面，继续添加下一个[0m
+2021-06-21 15:38:53,933 [32mINFO 逻辑设备 1楼超精区FFU群控05区域 数采配置成功！[0m
+2021-06-21 15:38:53,941 [32mINFO 打开URL: http://10.110.1.188/gateway/[0m
+2021-06-21 15:39:02,258 [32mINFO 进入数采： 测试网关01数采[0m
+2021-06-21 15:39:10,517 [32mINFO 进入数采OK[0m
+2021-06-21 15:39:10,524 [32mINFO 进入逻辑设备: 1楼超精区FFU群控01区域 的指令列表[0m
+2021-06-21 15:39:10,528 [32mINFO 获取总页数，循环在每页中查找 1楼超精区FFU群控01区域 [0m
+2021-06-21 15:39:10,698 [32mINFO 总页数为： 1[0m
+2021-06-21 15:39:10,712 [32mINFO 开始循环[0m
+2021-06-21 15:39:10,712 [32mINFO 第 0 次循环：[0m
+2021-06-21 15:39:10,712 [32mINFO 查找参数名称[0m
+2021-06-21 15:39:10,727 [32mINFO 找到了[0m
+2021-06-21 15:39:10,747 [32mINFO 指令配置[0m
+2021-06-21 15:39:10,873 [32mINFO 点击可见元素[0m
+2021-06-21 15:39:10,875 [32mINFO 进入设备： 1楼超精区FFU群控01区域 的指令列表OK[0m
+2021-06-21 15:39:10,876 [32mINFO 配置指令：FFU区域状态[0m
+2021-06-21 15:39:10,876 [32mINFO 获取总页数，循环在每页中查找[0m
+2021-06-21 15:39:12,566 [32mINFO 总页数为： 3[0m
+2021-06-21 15:39:12,579 [32mINFO 开始循环[0m
+2021-06-21 15:39:12,609 [32mINFO 详情[0m
+2021-06-21 15:39:37,178 [32mINFO 指令 FFU区域状态 配置成功！[0m
+2021-06-21 15:39:37,178 [32mINFO 配置指令：设定风速01-10[0m
+2021-06-21 15:39:37,178 [32mINFO 获取总页数，循环在每页中查找[0m
+2021-06-21 15:39:37,241 [32mINFO 总页数为： 3[0m
+2021-06-21 15:39:37,256 [32mINFO 开始循环[0m
+2021-06-21 15:39:37,288 [32mINFO 详情[0m
+2021-06-21 15:40:01,682 [32mINFO 指令 设定风速01-10 配置成功！[0m
+2021-06-21 15:40:01,682 [32mINFO 配置指令：设定风速11-20[0m
+2021-06-21 15:40:01,682 [32mINFO 获取总页数，循环在每页中查找[0m
+2021-06-21 15:40:01,744 [32mINFO 总页数为： 3[0m
+2021-06-21 15:40:01,760 [32mINFO 开始循环[0m
+2021-06-21 15:40:01,822 [32mINFO 详情[0m
+2021-06-21 15:40:24,136 [32mINFO 指令 设定风速11-20 配置成功！[0m
+2021-06-21 15:40:24,137 [32mINFO 配置指令：设定风速21-30[0m
+2021-06-21 15:40:24,137 [32mINFO 获取总页数，循环在每页中查找[0m
+2021-06-21 15:40:24,163 [32mINFO 总页数为： 3[0m
+2021-06-21 15:40:24,174 [32mINFO 开始循环[0m
+2021-06-21 15:40:24,203 [32mINFO 详情[0m
+2021-06-21 15:40:48,400 [32mINFO 指令 设定风速21-30 配置成功！[0m
+2021-06-21 15:40:48,400 [32mINFO 配置指令：设定风速31-40[0m
+2021-06-21 15:40:48,400 [32mINFO 获取总页数，循环在每页中查找[0m
+2021-06-21 15:40:48,462 [32mINFO 总页数为： 3[0m
+2021-06-21 15:40:48,478 [32mINFO 开始循环[0m
+2021-06-21 15:40:48,525 [32mINFO 详情[0m
+2021-06-21 15:41:18,463 [32mINFO 指令 设定风速31-40 配置成功！[0m
+2021-06-21 15:41:18,463 [32mINFO 配置指令：设定风速41-50[0m
+2021-06-21 15:41:18,463 [32mINFO 获取总页数，循环在每页中查找[0m
+2021-06-21 15:41:21,023 [32mINFO 总页数为： 3[0m
+2021-06-21 15:41:21,023 [32mINFO 开始循环[0m
+2021-06-21 15:41:27,289 [32mINFO 详情[0m
+2021-06-21 15:41:49,815 [32mINFO 指令 设定风速41-50 配置成功！[0m
+2021-06-21 15:41:49,816 [32mINFO 配置指令：设定风速51-60[0m
+2021-06-21 15:41:49,816 [32mINFO 获取总页数，循环在每页中查找[0m
+2021-06-21 15:41:49,841 [32mINFO 总页数为： 3[0m
+2021-06-21 15:41:49,853 [32mINFO 开始循环[0m
+2021-06-21 15:41:49,889 [32mINFO 详情[0m
+2021-06-21 15:42:12,162 [32mINFO 指令 设定风速51-60 配置成功！[0m
+2021-06-21 15:42:12,163 [32mINFO 配置指令：实际风速01-10[0m
+2021-06-21 15:42:12,163 [32mINFO 获取总页数，循环在每页中查找[0m
+2021-06-21 15:42:12,186 [32mINFO 总页数为： 3[0m
+2021-06-21 15:42:12,200 [32mINFO 开始循环[0m
+2021-06-21 15:42:12,234 [32mINFO 详情[0m
+2021-06-21 15:42:34,512 [32mINFO 指令 实际风速01-10 配置成功！[0m
+2021-06-21 15:42:34,512 [32mINFO 配置指令：实际风速11-20[0m
+2021-06-21 15:42:34,512 [32mINFO 获取总页数，循环在每页中查找[0m
+2021-06-21 15:42:34,556 [32mINFO 总页数为： 3[0m
+2021-06-21 15:42:34,574 [32mINFO 开始循环[0m
+2021-06-21 15:42:34,607 [32mINFO 详情[0m
+2021-06-21 15:42:56,863 [32mINFO 指令 实际风速11-20 配置成功！[0m
+2021-06-21 15:42:56,863 [32mINFO 配置指令：实际风速21-30[0m
+2021-06-21 15:42:56,863 [32mINFO 获取总页数，循环在每页中查找[0m
+2021-06-21 15:42:56,891 [32mINFO 总页数为： 3[0m
+2021-06-21 15:42:56,901 [32mINFO 开始循环[0m
+2021-06-21 15:42:56,930 [32mINFO 详情[0m
+2021-06-21 15:43:18,621 [32mINFO 指令 实际风速21-30 配置成功！[0m
+2021-06-21 15:43:18,621 [32mINFO 配置指令：实际风速31-40[0m
+2021-06-21 15:43:18,621 [32mINFO 获取总页数，循环在每页中查找[0m
+2021-06-21 15:43:18,645 [32mINFO 总页数为： 3[0m
+2021-06-21 15:43:18,656 [32mINFO 开始循环[0m

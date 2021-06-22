@@ -3,13 +3,13 @@ import time
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
-from webtest.common.iot.iot_ele import iot_ele
 from webtest.aw.CONSTANT import *
+from webtest.common.iot.iot_ele import iot_ele
 from webtest.logger import logging
 
 driver = webdriver.Chrome(CONSTANT.CHROME_DRIVER_PATH)
 driver.maximize_window()
-    # set_window_size(1936, 1056)
+# set_window_size(1936, 1056)
 iot_ele = iot_ele(driver)
 
 
@@ -89,7 +89,7 @@ class iot_fun:
         driver.implicitly_wait(5)
         iot_ele.ins.click()
         driver.implicitly_wait(5)
-        logging.info("获取总页数，循环在每页中查找： %s"%ins_name)
+        logging.info("获取总页数，循环在每页中查找： %s" % ins_name)
         # 获取总页数，循环在每页中查找
         cs = '.ant-pagination-item'
         pages = driver.find_elements_by_css_selector(cs)

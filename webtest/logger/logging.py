@@ -1,9 +1,11 @@
-import sys
 import logging.handlers
+import os
+import sys
+import time
+
 from colorama import Fore, Style
 
 from webtest.aw.CONSTANT import CONSTANT
-import time, os
 
 # 日志全局设备
 _logger = logging.getLogger('aw')
@@ -20,7 +22,7 @@ execute_time = time.strftime("%y-%m-%d_%H%M%S", time.localtime(time.time()))
 name = os.path.basename(sys.argv[0])
 f_name = "%s_%s_report.log" % (execute_time, name.split(".")[0])
 # f_path=os.path.basename(__file__)
-_handler_fh = logging.FileHandler(filename=os.path.join(CONSTANT.REPORT_PATH, f_name),encoding='utf-8')
+_handler_fh = logging.FileHandler(filename=os.path.join(CONSTANT.REPORT_PATH, f_name), encoding='utf-8')
 _handler_fh.setFormatter(fomater)
 _logger.addHandler(_handler_fh)
 

@@ -1,11 +1,8 @@
-import time
-
 from selenium import webdriver
-from selenium.webdriver import ActionChains
 from selenium.webdriver.common.keys import Keys
 
-from webtest.common.gateway.gateway_ele import gateway_ele
 from webtest.aw.CONSTANT import *
+from webtest.common.gateway.gateway_ele import gateway_ele
 from webtest.logger import logging
 
 driver = webdriver.Chrome(CONSTANT.CHROME_DRIVER_PATH)
@@ -92,9 +89,9 @@ class gateway_fun:
         :param ext:
         :return:
         """
-        if dev_port!='':
+        if dev_port != '':
             dev_port = int(dev_port)
-        if dev_node!='':
+        if dev_node != '':
             dev_node = int(dev_node)
         if "ETH" in hardware_interface:
             hardware_interface = hardware_interface.replace(" ", '')
@@ -152,7 +149,7 @@ class gateway_fun:
             gate_ele.dev_node_rtu.send_keys(dev_node)
         except:
             gate_ele.dev_node_rtu_1.send_keys(dev_node)
-        if ext!='':
+        if ext != '':
             gate_ele.ext_input.send_keys(ext)
         gate_ele.data_conf_step1_sure.click()
         driver.implicitly_wait(2)
@@ -175,6 +172,7 @@ class gateway_fun:
         :param device_name:
         :return:
         '''
+        global bro
         logging.info("进入逻辑设备: %s 的指令列表" % device_name)
         driver.implicitly_wait(15)
         try:
@@ -187,8 +185,9 @@ class gateway_fun:
             pass
         logging.info("获取总页数，循环在每页中查找 %s " % device_name)
         # 获取总页数，循环在每页中查找
-        num=self.get_pages()
+        num = self.get_pages()
         logging.info("开始循环")
+        driver.find_element_by_link_text('1').click()  # 每次都从第一页开始查找
         for i in range(num):
             logging.info("第 %s 次循环：" % i)
             try:
@@ -245,9 +244,10 @@ class gateway_fun:
         logging.info("获取总页数，循环在每页中查找")
         driver.implicitly_wait(8)
         # 获取总页数，循环在每页中查找
-        num=self.get_pages()
+        num = self.get_pages()
         logging.info("开始循环")
         # 循环1，2，3
+        driver.find_element_by_link_text('1').click()  # 每次都从第一页开始查找
         for i in range(num):
             try:
                 # 查找参数名称
@@ -340,9 +340,10 @@ class gateway_fun:
             pass
         logging.info("获取总页数，循环在每页中查找")
         # 获取总页数，循环在每页中查找
-        num=self.get_pages()
+        num = self.get_pages()
         logging.info("开始循环")
         # 循环1，2，3
+        driver.find_element_by_link_text('1').click()  # 每次都从第一页开始查找
         for i in range(num):
             logging.info(i)
             try:
@@ -417,9 +418,10 @@ class gateway_fun:
             pass
         logging.info("获取总页数，循环在每页中查找")
         # 获取总页数，循环在每页中查找
-        num=self.get_pages()
+        num = self.get_pages()
         logging.info("开始循环")
         # 循环1，2，3
+        driver.find_element_by_link_text('1').click()#每次都从第一页开始查找
         for i in range(num):
             logging.info(i)
             try:
@@ -449,9 +451,9 @@ class gateway_fun:
         # logging.info(ins_param_xpath)
         # driver.find_element_by_xpath(ins_param_xpath).click()
         driver.implicitly_wait(1)
-        #判断是进入详情界面
+        # 判断是进入详情界面
         try:
-            offset=gate_ele.parse_offset
+            offset = gate_ele.parse_offset
             logging.info(offset.text)
             if not offset:
                 logging.info("进入指令详情失败，当前仍停留在参数列表界面")
@@ -476,12 +478,12 @@ class gateway_fun:
         driver.implicitly_wait(1)
         gate_ele.parse_value.clear()
         gate_ele.parse_value.send_keys(parse_value)
-        if ext!='':
+        if ext != '':
             if isinstance(ext, float):
                 ext = int(ext)
             gate_ele.ext_input.clear()
             gate_ele.ext_input.send_keys(ext)
-        if remark!='':
+        if remark != '':
             gate_ele.note.clear()
             gate_ele.note.send_keys(remark)
         gate_ele.ins_conf_sure.click()
@@ -515,8 +517,7 @@ class gateway_fun:
         driver.implicitly_wait(5)
         cs = '.ant-pagination-item'
         pages = driver.find_elements_by_css_selector(cs)
-        num=len(pages)
-        logging.info("总页数为： %s"%pages[num - 1].text)
-        n=int(pages[num - 1].text)
+        num = len(pages)
+        logging.info("总页数为： %s" % pages[num - 1].text)
+        n = int(pages[num - 1].text)
         return n
-

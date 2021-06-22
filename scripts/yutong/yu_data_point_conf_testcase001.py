@@ -1,10 +1,11 @@
 import unittest
+
+from webtest.aw.CONSTANT import CONSTANT
 from webtest.common.files.excel import *
 from webtest.common.gateway.gateway_fun import gateway_fun
 from webtest.common.gateway.gateway_interface import gateway_interfance
-from webtest.common.iot.iot_interfance import iot_interfance
 from webtest.common.iot.iot_fun import iot_fun
-from webtest.aw.CONSTANT import CONSTANT
+from webtest.common.iot.iot_interfance import iot_interfance
 
 
 class yu_data_point_conf_testcase001(unittest.TestCase):
@@ -27,23 +28,23 @@ class yu_data_point_conf_testcase001(unittest.TestCase):
                        'gateway指令参数配置',
                        'hello']
 
-        # # 测试环境
-        # user = 'xianzhi'
-        # pwd = '123456'
-        # api_base_url = CONSTANT.BASE_URL_API
-        # gate_api_base_url = CONSTANT.GATE_BASE_URL_API
-        # iot_url = CONSTANT.IOT_URL
-        # gate_url = CONSTANT.GATE_URL
-        # xls_dir = '数据采集配置表测试'
+        # 测试环境
+        user = '13011037093'
+        pwd = '123456'
+        api_base_url = CONSTANT.BASE_URL_API
+        gate_api_base_url = CONSTANT.GATE_BASE_URL_API
+        iot_url = CONSTANT.IOT_URL
+        gate_url = CONSTANT.GATE_URL
+        xls_dir = 'testcase001'#要添加的数采文件路径
 
-        # 正式环境
-        user = 'ytot'
-        pwd = 'admin123'
-        api_base_url = CONSTANT.BASE_URL_YUN_API
-        gate_api_base_url = CONSTANT.GATE_BASE_URL_YUN_API
-        iot_url = CONSTANT.IOT_URL_YUN
-        gate_url = CONSTANT.GATE_URL_YUN
-        xls_dir = 'testcase001'
+        # # 正式环境
+        # user = 'ytot'
+        # pwd = 'admin123'
+        # api_base_url = CONSTANT.BASE_URL_YUN_API
+        # gate_api_base_url = CONSTANT.GATE_BASE_URL_YUN_API
+        # iot_url = CONSTANT.IOT_URL_YUN
+        # gate_url = CONSTANT.GATE_URL_YUN
+        # xls_dir = 'testcase001'
 
         files = get_xls_list(file_path=os.path.join(CONSTANT.RES_PATH, xls_dir))  # 或取此文件夹下的所有表格文件
         logging.info("所有的表格文件列表：")
@@ -71,7 +72,7 @@ class yu_data_point_conf_testcase001(unittest.TestCase):
             sheets = xls.get_sheets()
             # 添加指定的sheet页
             # sheets = [sheet_names[0],sheet_names[1]]
-            for sheet in sheets:
+            for sheet in sheets:#循环添加7个sheet页面的数据
                 lines = xls.get_lines(sheet)
                 # 添加设备类型和设备；line_header=['设备类型', '所属系统', '设备名称']
                 if sheet == sheet_names[0]:

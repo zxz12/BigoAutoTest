@@ -9,7 +9,7 @@ from webtest.aw.CONSTANT import CONSTANT
 def get_xls_list(file_path=''):
     file_lists = []
     import os
-    res=os.path.join(CONSTANT.RES_PATH)
+    res = os.path.join(CONSTANT.RES_PATH)
     logging.info(res)
     files = os.walk(file_path)
     for root, dirs, files in files:
@@ -57,7 +57,7 @@ class excel(object):
             # logging.info(line)
             lines.append(line)
         sheet = self.rb.sheet_by_name(sheet_name)
-        #合并单元格的值统一等于第一行的值
+        # 合并单元格的值统一等于第一行的值
         merged_cells = sheet.merged_cells
         # print(merged_cells)
         for m in merged_cells:
@@ -83,7 +83,7 @@ class excel(object):
         # logging.info("%s sheet页有 %s 行， %s 列" % (sheet_name, rows, cols))
         # logging.info("未经处理的行信息如下：")
         for i in range(cols):
-            col=self.rb.sheet_by_name(sheet_name).col_values(colx=i, start_rowx=0, end_rowx=rows)
+            col = self.rb.sheet_by_name(sheet_name).col_values(colx=i, start_rowx=0, end_rowx=rows)
             rows_v.append(col)
         sheet = self.rb.sheet_by_name(sheet_name)
         merged_cells = sheet.merged_cells
