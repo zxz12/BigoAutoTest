@@ -6,17 +6,13 @@
     <option name="SHOW_STRUCTURE" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6683ea6-df69-44dd-a463-08230b89d0a1" name="默认变更列表" comment="测试海跃电脑的git配置">
-      <change afterPath="$PROJECT_DIR$/dfx/common/Common.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/test/testcase003_test_run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/test/testcase004_test_parameterize.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/test/testcase005_test_ddt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/webAutoTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webAutoTest.iml" afterDir="false" />
+    <list default="true" id="e6683ea6-df69-44dd-a463-08230b89d0a1" name="默认变更列表" comment="zxz">
+      <change afterPath="$PROJECT_DIR$/report/22-05-25_110558_run_project_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-25_110826__jb_unittest_runner_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dfx/logger/logging.py" beforeDir="false" afterPath="$PROJECT_DIR$/dfx/logger/logging.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/test/testcase004_test_parameterize.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/test/testcase004_test_parameterize.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +50,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/scripts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -68,8 +64,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\dev\pycharm\WebAutoTest\scripts" />
       <recent name="D:\dev\pycharm\WebAutoTest" />
+      <recent name="D:\dev\pycharm\WebAutoTest\scripts" />
       <recent name="D:\dev\pycharm\WebAutoTest\dfx\common" />
       <recent name="D:\dev\webAutoTest\res\testcase001" />
       <recent name="D:\dev\webAutoTest\scripts\yutong" />
@@ -82,29 +78,8 @@
       <recent name="D:\dev\webAutoTest\res\testcase002" />
     </key>
   </component>
-  <component name="RunManager" selected="Python 测试.main.yu_data_point_conf_testcase003.test_step1 的 Unittest">
-    <configuration name="gateway_fun" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="webAutoTest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/webtest/common/gateway" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webtest/common/gateway/gateway_fun.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="step" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python 测试.Unittest (testcase004_test_parameterize.py 内)">
+    <configuration name="run_project" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="webAutoTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,13 +91,27 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/step.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_project.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittest (testcase004_test_parameterize.py 内)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="webAutoTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/scripts/test/testcase004_test_parameterize.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="main.yu_data_point_conf_testcase003.test_step1 的 Unittest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
@@ -169,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python 测试.Unittest (testcase004_test_parameterize.py 内)" />
+        <item itemvalue="Python.run_project" />
         <item itemvalue="Python 测试.main.yu_data_point_conf_testcase003.test_step1 的 Unittest" />
         <item itemvalue="Python 测试.yu_data_point_conf_testcase001.yu_data_point_conf_testcase001.test_step1 的 Unittest" />
         <item itemvalue="Python 测试.yu_data_point_conf_testcase003.yu_data_point_conf_testcase003.test_step1 的 Unittest" />
-        <item itemvalue="Python.gateway_fun" />
-        <item itemvalue="Python.step" />
       </list>
     </recent_temporary>
   </component>
@@ -351,7 +340,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620780615339</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="zxz">
+      <created>1653447684016</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1653447684016</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -369,7 +365,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="测试海跃电脑的git配置" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试海跃电脑的git配置" />
+    <MESSAGE value="zxz" />
+    <option name="LAST_COMMIT_MESSAGE" value="zxz" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -380,7 +377,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/run_project.py</url>
-          <line>7</line>
+          <line>8</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>

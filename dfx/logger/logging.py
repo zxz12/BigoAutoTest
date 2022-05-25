@@ -27,7 +27,10 @@ execute_time=time.strftime("%y-%m-%d_%H%M%S", time.localtime(time.time()))
 name=os.path.basename(sys.argv[0])
 f_name="%s_%s_report.log"%(execute_time, name.split(".")[0])
 # f_path=os.path.basename(__file__)
-_handler_fh=logging.FileHandler(filename=os.path.join(CONSTANT.REPORT_PATH, f_name), encoding='utf-8')
+path=CONSTANT.REPORT_PATH
+if not os.path.exists(CONSTANT.REPORT_PATH):
+    os.makedirs(path)
+_handler_fh=logging.FileHandler(filename=os.path.join(path, f_name), encoding='utf-8')
 _handler_fh.setFormatter(fomater)
 log.addHandler(_handler_fh)
 

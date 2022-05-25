@@ -1,0 +1,46 @@
+#test======
+requests
+selenium
+Appium-Python-Client
+pytest
+kafka-python
+redis
+pymysql
+pyyaml
+parameterized
+
+
+#common=======
+openpyxl
+pdfminer
+XlsxWriter
+pandas
+django==2.2.6
+pyinstaller
+jsonpath
+
+#data anynizes=====
+matplotlib
+numpy
+Scipy
+
+#pachong=====
+scrapy
+pyspider
+
+#pic====
+pillow
+scikit-image
+
+# websocket-client
+#elasticsearch
+#pyftpdlib
+#plumbum
+
+#dwebsocket
+# psycopg2-binary
+# xpinyin
+
+# https://pypi.tuna.tsinghua.edu.cn/simple
+
+# eg: pip install -i https://pypi.tuna.tsinghua.edu.cn/simple cx-Oracle --trusted-host pypi.tuna.tsinghua.edu.cn

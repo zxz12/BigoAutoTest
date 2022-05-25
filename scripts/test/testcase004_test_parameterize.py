@@ -9,7 +9,7 @@ import unittest
 
 from parameterized import parameterized
 
-from common.gateway.gate_interface import gate_interface
+from webtest.model.gateway.gate_interface import gate_interface
 from dfx.logger.logging import log
 
 
