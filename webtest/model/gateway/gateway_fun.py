@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
 from webtest.aw.CONSTANT import *
-from webtest.common.gateway.gateway_ele import gateway_ele
+from webtest.model.gateway.gateway_ele import gateway_ele
 from webtest.logger import logging
 
 driver = webdriver.Chrome(CONSTANT.CHROME_DRIVER_PATH)

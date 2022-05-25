@@ -4,7 +4,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
 from webtest.aw.CONSTANT import *
-from webtest.common.iot.iot_ele import iot_ele
+from webtest.model.iot.iot_ele import iot_ele
 from webtest.logger import logging
 
 driver = webdriver.Chrome(CONSTANT.CHROME_DRIVER_PATH)
