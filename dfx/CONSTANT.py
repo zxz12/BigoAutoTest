@@ -14,3 +14,8 @@ class CONSTANT:
     RES_PATH=os.path.join(ROOT_PATH, 'res')
     REPORT_PATH=os.path.join(ROOT_PATH, 'report')
     SCRIPT_PATH=os.path.join(ROOT_PATH, 'scripts')
+
+    # 驱动路径
+    # CHROME_DRIVER_PATH = r'D:\dev\pycharm_space\gateway\res\chromedriver.exe'
+    CHROME_DRIVER_PATH = os.path.join(RES_PATH, 'chromedriver.exe')
+

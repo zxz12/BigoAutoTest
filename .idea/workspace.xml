@@ -7,12 +7,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6683ea6-df69-44dd-a463-08230b89d0a1" name="默认变更列表" comment="zxz">
-      <change afterPath="$PROJECT_DIR$/report/22-05-25_110558_run_project_report.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/22-05-25_110826__jb_unittest_runner_report.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dfx/logger/logging.py" beforeDir="false" afterPath="$PROJECT_DIR$/dfx/logger/logging.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/test/testcase004_test_parameterize.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/test/testcase004_test_parameterize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dfx/CONSTANT.py" beforeDir="false" afterPath="$PROJECT_DIR$/dfx/CONSTANT.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webtest/logger/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webtest/logger/logging.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webtest/model/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webtest/model/gateway/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webtest/model/gateway/gateway_ele.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webtest/model/gateway/gateway_fun.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webtest/model/gateway/gateway_interface.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webtest/model/iot/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webtest/model/iot/iot_ele.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webtest/model/iot/iot_fun.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webtest/model/iot/iot_interfance.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -347,7 +354,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653447684016</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="zxz">
+      <created>1653448165889</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1653448165889</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
