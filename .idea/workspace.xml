@@ -7,41 +7,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6683ea6-df69-44dd-a463-08230b89d0a1" name="默认变更列表" comment="测试海跃电脑的git配置">
-      <change afterPath="$PROJECT_DIR$/dfx/CONSTANT.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfx/ReadConfig.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfx/TestRunner/HTMLTestRunner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfx/TestRunner/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfx/TestRunner/html/charts_script.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfx/TestRunner/html/email_temp.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfx/TestRunner/html/heading.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfx/TestRunner/html/mail_backup.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfx/TestRunner/html/report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfx/TestRunner/html/stylesheet.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfx/TestRunner/html/template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfx/logger/HTMLTestRunner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfx/logger/logging.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfx/opr_excel/excel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfx/runner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run_project.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webtest/model/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webtest/model/gateway/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webtest/model/iot/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dfx/common/Common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/test/testcase003_test_run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/test/testcase004_test_parameterize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/test/testcase005_test_ddt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webAutoTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webAutoTest.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/yutong/yu_data_point_conf_testcase001.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yutong/yu_data_point_conf_testcase001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/yutong/yu_data_point_conf_testcase002.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yutong/yu_data_point_conf_testcase002.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/yutong/yu_data_point_conf_testcase003.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yutong/yu_data_point_conf_testcase003.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/yutong_data_collection.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/yutong_data_collection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webtest/common/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/dfx/TestRunner/html/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webtest/common/files/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/dfx/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webtest/common/files/excel.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webtest/common/gateway/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/dfx/logger/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webtest/common/gateway/gateway_ele.py" beforeDir="false" afterPath="$PROJECT_DIR$/webtest/model/gateway/gateway_ele.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webtest/common/gateway/gateway_fun.py" beforeDir="false" afterPath="$PROJECT_DIR$/webtest/model/gateway/gateway_fun.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webtest/common/gateway/gateway_interface.py" beforeDir="false" afterPath="$PROJECT_DIR$/webtest/model/gateway/gateway_interface.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webtest/common/iot/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/dfx/opr_excel/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webtest/common/iot/iot_ele.py" beforeDir="false" afterPath="$PROJECT_DIR$/webtest/model/iot/iot_ele.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webtest/common/iot/iot_fun.py" beforeDir="false" afterPath="$PROJECT_DIR$/webtest/model/iot/iot_fun.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webtest/common/iot/iot_interfance.py" beforeDir="false" afterPath="$PROJECT_DIR$/webtest/model/iot/iot_interfance.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,9 +54,9 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/scripts" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.VCS" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -93,11 +68,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\dev\pycharm\WebAutoTest\scripts" />
       <recent name="D:\dev\pycharm\WebAutoTest" />
+      <recent name="D:\dev\pycharm\WebAutoTest\dfx\common" />
       <recent name="D:\dev\webAutoTest\res\testcase001" />
       <recent name="D:\dev\webAutoTest\scripts\yutong" />
-      <recent name="D:\dev\webAutoTest\res\testcase004" />
-      <recent name="D:\dev\webAutoTest\res\testcase002" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\dev\py_space\res\testcase003" />
