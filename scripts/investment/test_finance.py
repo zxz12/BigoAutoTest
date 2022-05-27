@@ -1,4 +1,5 @@
 import re
+import unittest
 
 import requests
 
@@ -13,3 +14,11 @@ print(r.text)
 patt=r'"result":\{(.+?)0\}'
 result=re.search(patt,string=r.text)
 print(result.group())
+
+class TestFinance(unittest.TestCase):
+      def setUp(self) -> None:
+            pass
+
+
+      def tearDown(self) -> None:
+            pass

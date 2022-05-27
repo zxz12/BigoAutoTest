@@ -1,5 +1,5 @@
 #test======
-requests
+requests~=2.25.1
 selenium
 Appium-Python-Client
 pytest
@@ -7,14 +7,14 @@ kafka-python
 redis
 pymysql
 pyyaml
-parameterized
+parameterized~=0.8.1
 
 
 #common=======
 openpyxl
 pdfminer
 XlsxWriter
-pandas
+pandas~=1.4.2
 django==2.2.6
 pyinstaller
 jsonpath
@@ -44,3 +44,7 @@ scikit-image
 # https://pypi.tuna.tsinghua.edu.cn/simple
 
 # eg: pip install -i https://pypi.tuna.tsinghua.edu.cn/simple cx-Oracle --trusted-host pypi.tuna.tsinghua.edu.cn
+
+colorama~=0.4.4
+Jinja2~=2.11.3
+ddt~=1.4.4
