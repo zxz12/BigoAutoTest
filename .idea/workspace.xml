@@ -7,21 +7,76 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6683ea6-df69-44dd-a463-08230b89d0a1" name="默认变更列表" comment="zxz">
-      <change afterPath="$PROJECT_DIR$/report/22-05-27_100211_get_finance_report.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/22-05-27_101653_get_finance_report.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/22-05-27_101711_get_finance_report.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/22-05-27_101924_get_finance_report.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/investment/get_finance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/investment/test_finance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-30_130111_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-30_130137_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-30_130218_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-30_130240_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-30_130514_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-30_130533_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-30_130627_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-30_130638_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-30_130738_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-30_130839_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-30_130858_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-30_130944_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-30_131009_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-30_131036_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-30_131100_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-30_131145_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-30_131225_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-30_131249_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-30_131258_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-30_131324_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-30_131502_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-30_132501_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-30_132512_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-30_132524_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-30_132551_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-30_132612_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-30_132652_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-30_132716_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-30_132732_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-30_141650_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-30_141735_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-30_203927_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-30_204752_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-30_204914_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-30_205046_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-30_205855_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-31_094436_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-31_094648_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-31_094811_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-31_094912_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-31_095103_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-31_095138_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-31_095215_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-31_095320_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-31_095438_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-31_095525_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-31_095603_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-31_095622_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-31_095649_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-31_095708_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-31_132047_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-31_132116_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-31_132146_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-31_132211_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-31_132329_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-31_132407_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-31_132428_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-31_132438_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-31_132512_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-05-31_132519_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-06-01_100339_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-06-01_100431_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-06-01_101216_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-06-01_101621_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-06-01_102856_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22-06-01_102909_get_finance_report.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/debt_asset_ratio.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dfx/logger/logging.py" beforeDir="false" afterPath="$PROJECT_DIR$/dfx/logger/logging.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/testcase003/测试网关01电表数采.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/yutong/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/dfx/opr_excel/csv.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/yutong/yu_data_point_conf_testcase001.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/yutong/yu_data_point_conf_testcase002.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/yutong/yu_data_point_conf_testcase003.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/yutong_data_collection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dfx/opr_excel/csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/dfx/opr_excel/csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/investment/get_finance.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/investment/get_finance.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/step.py" beforeDir="false" afterPath="$PROJECT_DIR$/step.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +92,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -132,6 +192,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="step" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="webAutoTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/step.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unittest (testcase004_test_parameterize.py 内)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="webAutoTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,27 +241,13 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="yu_data_point_conf_testcase001.yu_data_point_conf_testcase001.test_step1 的 Unittest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="webAutoTest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts/yutong" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;yu_data_point_conf_testcase001.yu_data_point_conf_testcase001.test_step1&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.get_finance" />
+        <item itemvalue="Python.step" />
         <item itemvalue="Python 测试.Unittest (testcase004_test_parameterize.py 内)" />
         <item itemvalue="Python.run_project" />
         <item itemvalue="Python 测试.main.yu_data_point_conf_testcase003.test_step1 的 Unittest" />
-        <item itemvalue="Python 测试.yu_data_point_conf_testcase001.yu_data_point_conf_testcase001.test_step1 的 Unittest" />
       </list>
     </recent_temporary>
   </component>
@@ -379,7 +446,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653448597479</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="zxz">
+      <created>1653653748976</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1653653748976</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
